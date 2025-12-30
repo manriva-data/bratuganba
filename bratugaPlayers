@@ -1,0 +1,46 @@
+{
+  "Atlanta Hawks": [
+    "Trae Young",
+    "Dejounte Murray",
+    "Bogdan Bogdanović",
+    "De'Andre Hunter",
+    "Clint Capela",
+    "Onyeka Okongwu",
+    "Saddiq Bey",
+    "Kobe Bufkin",
+    "AJ Griffin",
+    "Garrison Mathews",
+    "Bruno Fernando",
+    "Trent Forrest"
+  ],
+
+  "Boston Celtics": [
+    "Jrue Holiday",
+    "Derrick White",
+    "Jayson Tatum",
+    "Jaylen Brown",
+    "Kristaps Porzingis",
+    "Al Horford",
+    "Payton Pritchard",
+    "Sam Hauser",
+    "Luke Kornet",
+    "Oshae Brissett",
+    "Neemias Queta",
+    "Dalano Banton"
+  ],
+
+  "Brooklyn Nets": [
+    "Mikal Bridges",
+    "Cam Thomas",
+    "Spencer Dinwiddie",
+    "Dorian Finney-Smith",
+    "Nic Claxton",
+    "Dennis Schroder",
+    "Royce O'Neale",
+    "Day'Ron Sharpe",
+    "Cam Johnson",
+    "Lonnie Walker IV",
+    "Trendon Watford",
+    "Noah Clowney"
+  ]
+}
