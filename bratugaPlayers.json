@@ -1,46 +1,236 @@
 {
-  "Atlanta Hawks": [
-    "Trae Young",
-    "Dejounte Murray",
-    "Bogdan Bogdanović",
-    "De'Andre Hunter",
-    "Clint Capela",
-    "Onyeka Okongwu",
-    "Saddiq Bey",
-    "Kobe Bufkin",
-    "AJ Griffin",
-    "Garrison Mathews",
-    "Bruno Fernando",
-    "Trent Forrest"
-  ],
-
-  "Boston Celtics": [
-    "Jrue Holiday",
-    "Derrick White",
-    "Jayson Tatum",
-    "Jaylen Brown",
-    "Kristaps Porzingis",
-    "Al Horford",
-    "Payton Pritchard",
-    "Sam Hauser",
-    "Luke Kornet",
-    "Oshae Brissett",
-    "Neemias Queta",
-    "Dalano Banton"
-  ],
-
-  "Brooklyn Nets": [
-    "Mikal Bridges",
-    "Cam Thomas",
-    "Spencer Dinwiddie",
-    "Dorian Finney-Smith",
-    "Nic Claxton",
-    "Dennis Schroder",
-    "Royce O'Neale",
-    "Day'Ron Sharpe",
-    "Cam Johnson",
-    "Lonnie Walker IV",
-    "Trendon Watford",
-    "Noah Clowney"
-  ]
+	"Boston Celtics": [
+		"Payton Pritchard",
+		"Tre Jones",
+		"Keyonte George",
+		"Dalano Banton",
+		"Buddy Hield",
+		"Drake Powell",
+		"Vit Krejci",
+		"Joe Ingles",
+		"Collin Murray-Boyles",
+		"Guerschon Yabusele",
+		"Brandon Clarke",
+		"Jakob Poeltl",
+		"Jonas Valanciunas",
+		"Ryan Kalkbrenner"
+	]
+	
+	"Brooklyn Nets": [
+		"De’Aaron Fox",
+		"Shake Milton",
+		"AJ Johnson",
+		"Zach LaVine",
+		"Alec Burks",
+		"Dante Exum",
+		"Dean Wade",
+		"Kenyon Martin Jr.",
+		"Asa Newell",
+		"Kristaps Porzingis",
+		"John Collins",
+		"Richaun Holmes",
+		"Thomas Sorber"
+	]
+	
+	"New York Knicks": [
+		"Ryan Rollins",
+		"Marcus Smart",
+		"Reed Sheppard",
+		"Terry Rozier III",
+		"Kasparas Jakucionis",
+		"Gary Trent Jr.",
+		"Corey Kispert",
+		"John Konchar",
+		"Sam Hauser",
+		"Jabari Smith Jr.",
+		"Evan Mobley",
+		"Joel Embiid",
+		"Zach Collins"
+	]
+	
+	"Philadelphia 76es": [
+		"Jase Richardson",
+		"Andrew Nembhard",
+		"Luke Kennard",
+		"Will Richard",
+		"Chaz Lanier",
+		"Kobe Sanders",
+		"Christian Braun",
+		"Anthony Lamb",
+		"LeBron James",
+		"Jeremy Sochan",
+		"De'Andre Hunter",
+		"Pascal Siakam",
+		"Jarrett Allen"
+	]
+	
+	"Toronto Raptors": [
+		"Cameron Payne",
+		"Monte Morris",
+		"LaMelo Ball",
+		"Anthony Edwards",
+		"Tim Hardaway Jr.",
+		"Dalton Knecht",
+		"Justin Edwards",
+		"Jaylen Wells",
+		"Josh Hart",
+		"Sandro Mamukelashvili",
+		"Amari Williams",
+		"Isaiah Jackson",
+		"Zach Edey"
+	]
+	
+	"Chicago Bulls": [
+		"James Harden",
+		"Dyson Daniels",
+		"Jose Alvarado",
+		"Bradley Beal",
+		"Pelle Larsson",
+		"Josh Green",
+		"Jimmy Butler",
+		"Maxi Kleber",
+		"Victor Wembanyama",
+		"Larry Nance Jr.",
+		"Alperen Sengun",
+		"Steven Adams",
+		"Jay Huff"
+	]
+	
+	"Cleveland Cavaliers": [
+		"Gabe Vincent",
+		"Tyler Kolek",
+		"Max Shulga",
+		"Ben Simmons",
+		"Derrick White",
+		"Tre Johnson",
+		"Hugo Gonzalez",
+		"Ace Bailey",
+		"Trey Murphy",
+		"Tobias Harris",
+		"Cameron Johnson",
+		"Taylor Hendricks",
+		"Tristan da Silva",
+		"Deandre Ayton",
+		"Luke Kornet"
+	]
+	
+	"Detroit Pistons": [
+		"Shai Gilgeous-Alexander",
+		"Cole Anthony",
+		"Vasilije Micic",
+		"De’Anthony Melton",
+		"Sion James",
+		"Amen Thompson",
+		"Bennedict Mathurin",
+		"Kelly Oubre Jr.",
+		"Moses Moody",
+		"Peyton Watson",
+		"Tidjane Salaun",
+		"Obi Toppin",
+		"Dario Saric",
+		"Nikola Vucevic",
+		"Jusuf Nurkic"
+	]
+	
+	"Indiana Pacers": [
+		"Scotty Pippen Jr.",
+		"Walter Clayton Jr.",
+		"Jaylen Nowell",
+		"Donovan Mitchell",
+		"Ajay Mitchell",
+		"Anfernee Simons",
+		"Kevin Durant",
+		"Toumani Camara",
+		"Keegan Murray",
+		"Trey Lyles",
+		"Marvin Bagley III",
+		"Walker Kessler",
+		"Maxime Raynaud"
+	]
+	
+	"Milwaukee Bucks": [
+		"Tyus Jones",
+		"Scoot Henderson",
+		"Bub Carrington",
+		"Ayo Dosunmu",
+		"Nique Clifford",
+		"Jared McCain",
+		"Bogdan Bogdanovic",
+		"Caleb Houstan",
+		"Noah Penda",
+		"Cooper Flagg",
+		"Lauri Markkanen",
+		"Cody Williams",
+		"Kenrich Williams",
+		"Kyle Filipowski",
+		"Kelly Olynyk"
+	]
+	
+	"Atlanta Hawks": [
+		"Mike Conley",
+		"Stephen Curry",
+		"Jalen Green",
+		"Quenton Jackson",
+		"Evan Fournier",
+		"Mikal Bridges",
+		"Ziaire Williams",
+		"Ryan Dunn",
+		"Bobby Portis",
+		"Al Horford",
+		"Derik Queen",
+		"Clint Capela",
+		"Andre Drummond"
+	]
+	
+	"Charlotte Hornets": [
+		"T.J. McConnell",
+		"Darius Garland",
+		"C.J. McCollum",
+		"Brandin Podziemski",
+		"Ben Saraf",
+		"Dalen Terry",
+		"Kobe Brea",
+		"Jaden McDaniels",
+		"Jaylon Tyson",
+		"Isaiah Stewart",
+		"Oso Ighodaro",
+		"Rudy Gobert",
+		"Onyeka Okongwu",
+		"Jock Landale"
+	]
+	
+	"Miami Heat": [
+		"Tyrese Maxey",
+		"Rob Dillingham",
+		"Reggie Jackson",
+		"Jaden Ivey",
+		"Max Christie",
+		"A.J. Green",
+		"Vince Williams Jr.",
+		"Ausar Thompson",
+		"Keldon Johnson",
+		"Jonathan Kuminga",
+		"Noa Essengue",
+		"Karlo Matkovic",
+		"Jalen Smith",
+		"Paul Reed",
+		"Domantas Sabonis"
+	]
+	
+	"Orlando Magic": [
+		"Coby White",
+		"Miles McBride",
+		"Jamal Shead",
+		"Stephon Castle",
+		"Quentin Grimes",
+		"Brice Sensabaugh",
+		"Dillon Brooks",
+		"Jerami Grant",
+		"Royce O'Neale",
+		"P.J. Washington",
+		"Precious Achiuwa",
+		"Robert Williams III",
+		"Myles Turner",
+		"Nick Richards"
+	]
 }
