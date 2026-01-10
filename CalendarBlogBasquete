@@ -1,0 +1,2156 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bratuga NBA - Resultados & Agenda</title>
+    <style>
+        :root {
+            --primary-color: #da7d5e;
+            --secondary-color: #c56a4d;
+            --accent-color: #e88e6c;
+            --success-color: #2e7d32;
+            --danger-color: #c62828;
+            --warning-color: #f9a825;
+            --light-color: #f5f5f5;
+            --dark-color: #212121;
+            --text-color: #333;
+            --border-radius: 10px;
+            --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            --transition: all 0.3s ease;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            color: var(--text-color);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 30px;
+            border-radius: var(--border-radius);
+            margin-bottom: 30px;
+            text-align: center;
+            box-shadow: var(--box-shadow);
+        }
+
+        h1 {
+            font-size: 2.8rem;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+
+        .filters {
+            background: white;
+            padding: 25px;
+            border-radius: var(--border-radius);
+            margin-bottom: 30px;
+            box-shadow: var(--box-shadow);
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            align-items: end;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: var(--primary-color);
+        }
+
+        select, input {
+            padding: 12px 15px;
+            border: 2px solid #ddd;
+            border-radius: var(--border-radius);
+            font-size: 1rem;
+            transition: var(--transition);
+            width: 100%;
+        }
+
+        select:focus, input:focus {
+            border-color: var(--accent-color);
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(218, 125, 94, 0.1);
+        }
+
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .tab-btn {
+            flex: 1;
+            min-width: 200px;
+            padding: 20px;
+            background: white;
+            border: none;
+            border-radius: var(--border-radius);
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--primary-color);
+            cursor: pointer;
+            transition: var(--transition);
+            text-align: center;
+            box-shadow: var(--box-shadow);
+        }
+
+        .tab-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .tab-btn.active {
+            background: var(--primary-color);
+            color: white;
+            transform: translateY(-3px);
+        }
+
+        .tab-content {
+            display: none;
+            animation: fadeIn 0.5s ease;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .games-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+            margin-bottom: 30px;
+        }
+
+        .game-card {
+            background: white;
+            border-radius: var(--border-radius);
+            overflow: hidden;
+            box-shadow: var(--box-shadow);
+            transition: var(--transition);
+            border-left: 5px solid var(--accent-color);
+        }
+
+        .game-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        .game-header {
+            background: var(--light-color);
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #eee;
+        }
+
+        .day-badge {
+            background: var(--accent-color);
+            color: white;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        .simulation-badge {
+            background: var(--warning-color);
+            color: var(--dark-color);
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        .game-content {
+            padding: 25px;
+        }
+
+        .teams {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .team {
+            flex: 1;
+            text-align: center;
+            padding: 10px;
+        }
+
+        .team-name {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: var(--primary-color);
+        }
+
+        .team-score {
+            font-size: 2.5rem;
+            font-weight: 700;
+            line-height: 1;
+        }
+
+        .score-winner {
+            color: var(--success-color);
+        }
+
+        .score-loser {
+            color: var(--danger-color);
+        }
+
+        .vs {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #666;
+            padding: 0 20px;
+        }
+
+        .game-details {
+            background: var(--light-color);
+            padding: 15px;
+            border-radius: var(--border-radius);
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .game-status {
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .scheduled {
+            color: var(--accent-color);
+        }
+
+        .completed {
+            color: var(--success-color);
+        }
+
+        .score-difference {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .stats-toggle {
+            background: var(--accent-color);
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            margin-top: 10px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: var(--transition);
+            margin-right: 5px;
+        }
+
+        .stats-toggle:hover {
+            background: var(--secondary-color);
+        }
+
+        .stats-table-container {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+            margin-top: 15px;
+        }
+
+        .stats-table-container.expanded {
+            max-height: 1000px;
+        }
+
+        .stats-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            font-size: 0.85rem;
+            background: white;
+            border-radius: 5px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .stats-table th {
+            background: var(--primary-color);
+            color: white;
+            padding: 8px 5px;
+            text-align: center;
+            font-weight: 600;
+            font-size: 0.8rem;
+        }
+
+        .stats-table td {
+            padding: 6px 5px;
+            text-align: center;
+            border-bottom: 1px solid #eee;
+        }
+
+        .stats-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .stats-table .team-header {
+            background: var(--light-color);
+            font-weight: 600;
+            color: var(--primary-color);
+        }
+
+        .stats-table .highlight {
+            background: #e8f5e8;
+            font-weight: 600;
+        }
+
+        .percentage {
+            color: var(--success-color);
+            font-weight: 600;
+        }
+
+        /* Paginação */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin-top: 30px;
+            padding: 20px;
+            background: white;
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+        }
+
+        .pagination-btn {
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            font-weight: 600;
+            transition: var(--transition);
+        }
+
+        .pagination-btn:hover:not(:disabled) {
+            background: var(--secondary-color);
+            transform: translateY(-2px);
+        }
+
+        .pagination-btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            opacity: 0.5;
+        }
+
+        .pagination-info {
+            font-weight: 600;
+            color: var(--primary-color);
+        }
+
+        /* Modal para estatísticas de jogadores */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 2000;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .modal-overlay.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background: white;
+            border-radius: var(--border-radius);
+            width: 90%;
+            max-width: 1200px;
+            max-height: 90vh;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            animation: slideIn 0.3s ease;
+        }
+
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(-30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .modal-header {
+            background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .modal-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+
+        .modal-close {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 1.8rem;
+            cursor: pointer;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            transition: var(--transition);
+        }
+
+        .modal-close:hover {
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .modal-body {
+            padding: 0;
+            max-height: calc(90vh - 70px);
+            overflow-y: auto;
+        }
+
+        .players-tabs {
+            display: flex;
+            background: var(--light-color);
+            border-bottom: 1px solid #ddd;
+        }
+
+        .player-tab {
+            flex: 1;
+            padding: 15px;
+            background: none;
+            border: none;
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--primary-color);
+            cursor: pointer;
+            transition: var(--transition);
+            text-align: center;
+        }
+
+        .player-tab:hover {
+            background: rgba(218, 125, 94, 0.1);
+        }
+
+        .player-tab.active {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        .player-tab-content {
+            display: none;
+            padding: 20px;
+        }
+
+        .player-tab-content.active {
+            display: block;
+        }
+
+        .players-table-container {
+            overflow-x: auto;
+        }
+
+        .players-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+
+        .players-table th {
+            background: var(--light-color);
+            color: var(--primary-color);
+            padding: 12px 8px;
+            text-align: center;
+            font-weight: 600;
+            border-bottom: 2px solid var(--accent-color);
+            position: sticky;
+            top: 0;
+        }
+
+        .players-table td {
+            padding: 10px 8px;
+            text-align: center;
+            border-bottom: 1px solid #eee;
+        }
+
+        .players-table tr:hover {
+            background: rgba(218, 125, 94, 0.05);
+        }
+
+        .players-table .highlight-player {
+            background: #e8f5e8;
+            font-weight: 600;
+        }
+
+        .position-badge {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: white;
+        }
+
+        .position-pg { background: #2196f3; }
+        .position-sg { background: #4caf50; }
+        .position-sf { background: #ff9800; }
+        .position-pf { background: #f44336; }
+        .position-c { background: #9c27b0; }
+
+        .no-games {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 60px 20px;
+            color: #666;
+            font-size: 1.2rem;
+            background: white;
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+        }
+
+        .stats-summary {
+            background: white;
+            padding: 25px;
+            border-radius: var(--border-radius);
+            margin-top: 30px;
+            box-shadow: var(--box-shadow);
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 15px;
+            background: var(--light-color);
+            border-radius: var(--border-radius);
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            margin-bottom: 5px;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            font-size: 1.2rem;
+            color: var(--accent-color);
+            grid-column: 1 / -1;
+        }
+
+        .team-search {
+            position: relative;
+        }
+
+        .search-results {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: var(--border-radius);
+            max-height: 200px;
+            overflow-y: auto;
+            display: none;
+            z-index: 1000;
+            box-shadow: var(--box-shadow);
+        }
+
+        .search-result-item {
+            padding: 10px 15px;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .search-result-item:hover {
+            background: var(--light-color);
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            margin-top: 50px;
+            color: #666;
+            font-size: 0.9rem;
+            border-top: 1px solid #ddd;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .games-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .game-card {
+                margin-bottom: 15px;
+            }
+            
+            .filters {
+                grid-template-columns: 1fr;
+            }
+            
+            .tab-btn {
+                min-width: 100%;
+            }
+            
+            .stats-table {
+                font-size: 0.75rem;
+            }
+            
+            .stats-table th,
+            .stats-table td {
+                padding: 4px 2px;
+            }
+            
+            .players-table {
+                font-size: 0.8rem;
+            }
+            
+            .modal-content {
+                width: 95%;
+            }
+            
+            .pagination {
+                flex-wrap: wrap;
+            }
+        }
+
+        .team-logo {
+            width: 60px;
+            height: 60px;
+            margin: 0 auto 10px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 14px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+            background: #f0f0f0;
+        }
+
+        .team-logo img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+
+        .team-logo .fallback {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .debug-info {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: var(--border-radius);
+            padding: 15px;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+            display: none;
+        }
+
+        .debug-info.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏀 Bratuga NBA</h1>
+            <p class="subtitle">Resultados dos Jogos & Agenda - Temporada 4</p>
+        </header>
+
+        <div class="debug-info" id="debugInfo">
+            <strong>Debug Info:</strong> Carregando dados...
+        </div>
+
+        <div class="filters">
+            <div class="filter-group">
+                <label for="dayFilter">Filtrar por Dia:</label>
+                <select id="dayFilter">
+                    <option value="all">Todos os Dias</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label for="teamFilter">Filtrar por Time:</label>
+                <div class="team-search">
+                    <input type="text" id="teamFilter" placeholder="Digite o nome do time...">
+                    <div class="search-results" id="searchResults"></div>
+                </div>
+            </div>
+            
+            <div class="filter-group">
+                <label for="statusFilter">Status do Jogo:</label>
+                <select id="statusFilter">
+                    <option value="all">Todos</option>
+                    <option value="completed">Realizados</option>
+                    <option value="scheduled">Agendados</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="tabs">
+            <button class="tab-btn active" data-tab="all">Todos os Jogos</button>
+            <button class="tab-btn" data-tab="completed">Jogos Realizados</button>
+            <button class="tab-btn" data-tab="scheduled">Jogos Agendados</button>
+        </div>
+
+        <div class="tab-content active" id="tab-all">
+            <div class="games-grid" id="gamesContainer">
+                <div class="loading">Carregando jogos...</div>
+            </div>
+            <div class="pagination" id="paginationAll" style="display: none;">
+                <button class="pagination-btn" id="prevAll" disabled>Anterior</button>
+                <span class="pagination-info" id="pageInfoAll">Página 1 de 1</span>
+                <button class="pagination-btn" id="nextAll" disabled>Próxima</button>
+            </div>
+        </div>
+
+        <div class="tab-content" id="tab-completed">
+            <div class="games-grid" id="completedGamesContainer">
+                <div class="loading">Carregando jogos realizados...</div>
+            </div>
+            <div class="pagination" id="paginationCompleted" style="display: none;">
+                <button class="pagination-btn" id="prevCompleted" disabled>Anterior</button>
+                <span class="pagination-info" id="pageInfoCompleted">Página 1 de 1</span>
+                <button class="pagination-btn" id="nextCompleted" disabled>Próxima</button>
+            </div>
+        </div>
+
+        <div class="tab-content" id="tab-scheduled">
+            <div class="games-grid" id="scheduledGamesContainer">
+                <div class="loading">Carregando jogos agendados...</div>
+            </div>
+            <div class="pagination" id="paginationScheduled" style="display: none;">
+                <button class="pagination-btn" id="prevScheduled" disabled>Anterior</button>
+                <span class="pagination-info" id="pageInfoScheduled">Página 1 de 1</span>
+                <button class="pagination-btn" id="nextScheduled" disabled>Próxima</button>
+            </div>
+        </div>
+
+        <div class="stats-summary">
+            <div class="stat-item">
+                <div class="stat-value" id="totalGames">0</div>
+                <div class="stat-label">Total de Jogos</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="completedGames">0</div>
+                <div class="stat-label">Jogos Realizados</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="scheduledGames">0</div>
+                <div class="stat-label">Jogos Agendados</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="uniqueTeams">0</div>
+                <div class="stat-label">Times Únicos</div>
+            </div>
+        </div>
+
+        <!-- Modal para estatísticas de jogadores -->
+        <div class="modal-overlay" id="playersModal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="modal-title" id="modalTitle">Estatísticas dos Jogadores</div>
+                    <button class="modal-close" id="modalClose">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="players-tabs" id="playersTabs">
+                        <!-- Tabs serão preenchidas dinamicamente -->
+                    </div>
+                    <div id="playersContent">
+                        <!-- Conteúdo será preenchido dinamicamente -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>Dados atualizados automaticamente dos repositórios GitHub | Bratuga NBA S4</p>
+            <p>GitHub: <a href="https://github.com/manriva-data/bratuganba" target="_blank">manriva-data/bratuganba</a></p>
+        </footer>
+    </div>
+
+    <script>
+        class BratugaNBA {
+            constructor() {
+                this.allGames = [];
+                this.completedGames = [];
+                this.scheduledGames = [];
+                this.uniqueTeams = new Set();
+                this.uniqueDays = new Set();
+                this.currentTab = 'all';
+                this.filters = {
+                    day: 'all',
+                    team: 'all',
+                    status: 'all'
+                };
+                this.debugMode = true;
+                this.allStatsData = new Map();
+                this.allPlayersData = new Map();
+                
+                // Mapeamento de times para IDs da NBA
+                this.teamMapping = {
+                    "Hawks": ["1610612737", "#E03A3E"],
+                    "Celtics": ["1610612738", "#007A33"],
+                    "nets": ["1610612751", "#000000"],
+                    "hornets": ["1610612766", "#1D1160"],
+                    "Bulls": ["1610612741", "#CE1141"],
+                    "cavaliers": ["1610612739", "#860038"],
+                    "Mavericks": ["1610612742", "#00538C"],
+                    "nuggets": ["1610612743", "#0E2240"],
+                    "pistons": ["1610612765", "#C8102E"],
+                    "Warriors": ["1610612744", "#1D428A"],
+                    "Rockets": ["1610612745", "#CE1141"],
+                    "Pacers": ["1610612754", "#002D62"],
+                    "Clippers": ["1610612746", "#C8102E"],
+                    "Lakers": ["1610612747", "#552583"],
+                    "Grizzlies": ["1610612763", "#5D76A9"],
+                    "heat": ["1610612748", "#98002E"],
+                    "bucks": ["1610612749", "#00471B"],
+                    "timberwolves": ["1610612750", "#0C2340"],
+                    "pelicans": ["1610612740", "#0C2340"],
+                    "knicks": ["1610612752", "#006BB6"],
+                    "thunder": ["1610612760", "#007AC1"],
+                    "magic": ["1610612753", "#0077C0"],
+                    "sixers": ["1610612755", "#006BB6"],
+                    "Suns": ["1610612756", "#1D1160"],
+                    "trailblazers": ["1610612757", "#E03A3E"],
+                    "Kings": ["1610612758", "#5A2D81"],
+                    "spurs": ["1610612759", "#C4CED4"],
+                    "raptors": ["1610612761", "#CE1141"],
+                    "Jazz": ["1610612762", "#002B5C"],
+                    "wizards": ["1610612764", "#002B5C"]
+                };
+
+                // Configuração de paginação
+                this.gamesPerPage = 50;
+                this.currentPage = {
+                    all: 1,
+                    completed: 1,
+                    scheduled: 1
+                };
+                this.totalPages = {
+                    all: 1,
+                    completed: 1,
+                    scheduled: 1
+                };
+                this.currentFilteredGames = {
+                    all: [],
+                    completed: [],
+                    scheduled: []
+                };
+            }
+
+            debugLog(message, data = null) {
+                if (this.debugMode) {
+                    console.log(`[DEBUG] ${message}`, data || '');
+                    const debugDiv = document.getElementById('debugInfo');
+                    if (debugDiv) {
+                        debugDiv.innerHTML = `<strong>Debug:</strong> ${message}`;
+                        debugDiv.classList.add('active');
+                    }
+                }
+            }
+
+            async loadData() {
+                try {
+                    this.debugLog('Iniciando carregamento de dados...');
+                    
+                    // Carregar jogos agendados do TXT
+                    const scheduledTxtUrl = 'https://raw.githubusercontent.com/manriva-data/bratuganba/main/CalendarBratuga%20S4.txt';
+                    const scheduledData = await this.loadScheduledGames(scheduledTxtUrl);
+                    this.debugLog(`Carregados ${scheduledData.length} jogos agendados do TXT`);
+                    
+                    // Carregar jogos realizados do CSV
+                    const completedCsvUrl = 'https://raw.githubusercontent.com/manriva-data/bratuganba/main/Equipe%20Por%20Jogo.csv';
+                    const { games: completedData, stats: statsData } = await this.loadCompletedGames(completedCsvUrl);
+                    this.debugLog(`Processados ${completedData.length} jogos realizados do CSV`);
+                    
+                    // Carregar estatísticas de jogadores do CSV
+                    const playersCsvUrl = 'https://raw.githubusercontent.com/manriva-data/bratuganba/refs/heads/main/Stats.csv';
+                    await this.loadPlayersData(playersCsvUrl);
+                    this.debugLog(`Carregadas estatísticas de jogadores`);
+                    
+                    // Armazenar estatísticas
+                    this.allStatsData = statsData;
+                    
+                    // Combinar e processar os dados
+                    this.processData(scheduledData, completedData);
+                    
+                    // Inicializar a interface
+                    this.initializeUI();
+                    
+                    this.debugLog('Dados carregados com sucesso!');
+                    
+                } catch (error) {
+                    console.error('Erro ao carregar dados:', error);
+                    this.showError(`Erro ao carregar os dados: ${error.message}`);
+                }
+            }
+
+            async loadScheduledGames(url) {
+    const response = await fetch(url);
+    const text = await response.text();
+    const games = [];
+    
+    const lines = text.split('\n');
+    let currentDay = null;
+    
+    for (const line of lines) {
+        const trimmedLine = line.trim();
+        
+        // Busca por "Dia X:" ou "Dia X"
+        const dayMatch = trimmedLine.match(/Dia\s+(\d+)/i);
+        if (dayMatch) {
+            currentDay = parseInt(dayMatch[1]);
+            this.debugLog(`Encontrado Dia ${currentDay}`);
+            continue;
+        }
+        
+        // Se temos um dia e a linha contém "x" (formato: time1 x time2)
+        if (currentDay && trimmedLine.toLowerCase().includes('x')) {
+            const parts = trimmedLine.toLowerCase().split('x');
+            
+            if (parts.length === 2) {
+                const homeTeam = parts[0].trim();
+                const awayTeam = parts[1].trim();
+                
+                // Capitalizar primeira letra de cada palavra
+                const formatTeamName = (name) => {
+                    return name.split(' ')
+                        .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+                        .join(' ');
+                };
+                
+                const formattedHomeTeam = formatTeamName(homeTeam);
+                const formattedAwayTeam = formatTeamName(awayTeam);
+                
+                if (formattedHomeTeam && formattedAwayTeam) {
+                    games.push({
+                        day: currentDay,
+                        homeTeam: formattedHomeTeam,
+                        awayTeam: formattedAwayTeam,
+                        homeScore: null,
+                        awayScore: null,
+                        status: 'scheduled',
+                        simulation: null,
+                        completed: false
+                    });
+                    
+                    this.debugLog(`Jogo agendado: Dia ${currentDay} - ${formattedHomeTeam} vs ${formattedAwayTeam}`);
+                }
+            }
+        }
+        
+        // Verificar também o formato antigo com hífen (para compatibilidade)
+        if (currentDay && trimmedLine.includes('-') && !trimmedLine.includes('x')) {
+            const parts = trimmedLine.split(/\s+/);
+            
+            // Procura pelo hífen no placar
+            for (let i = 0; i < parts.length; i++) {
+                if (parts[i].includes('-')) {
+                    const homeTeam = parts.slice(0, i).join(' ');
+                    const [homeScore, awayScore] = parts[i].split('-').map(s => s.trim());
+                    const awayTeam = parts.slice(i + 1).join(' ');
+                    
+                    if (homeTeam && awayTeam) {
+                        games.push({
+                            day: currentDay,
+                            homeTeam: homeTeam,
+                            awayTeam: awayTeam,
+                            homeScore: null,
+                            awayScore: null,
+                            status: 'scheduled',
+                            simulation: null,
+                            completed: false
+                        });
+                    }
+                    break;
+                }
+            }
+        }
+    }
+    
+    this.debugLog(`Total de jogos agendados encontrados: ${games.length}`);
+    return games;
+}
+
+            async loadCompletedGames(url) {
+                const response = await fetch(url);
+                const csvText = await response.text();
+                
+                const gamesMap = new Map();
+                const statsMap = new Map();
+                
+                // Separar linhas
+                const lines = csvText.split('\n').filter(line => line.trim() !== '');
+                
+                if (lines.length === 0) {
+                    return { games: [], stats: statsMap };
+                }
+                
+                // Processar cabeçalho para encontrar índices das colunas
+                const headerLine = lines[0];
+                const headers = headerLine.split(';').map(h => h.trim().replace(/"/g, ''));
+                
+                // Mapear nomes das colunas para índices
+                const headerIndices = {};
+                headers.forEach((header, index) => {
+                    const cleanHeader = header.toLowerCase();
+                    headerIndices[cleanHeader] = index;
+                });
+                
+                // Processar cada linha de dados
+                for (let i = 1; i < lines.length; i++) {
+                    const line = lines[i];
+                    
+                    // Dividir por ponto-e-vírgula
+                    const cells = line.split(';').map(cell => cell.trim().replace(/"/g, ''));
+                    
+                    if (cells.length < 3) {
+                        continue;
+                    }
+                    
+                    // Extrair informações básicas
+                    const teamName = cells[0];
+                    const teamPoints = parseInt(cells[1]) || 0;
+                    const ref = cells[2];
+                    
+                    // Extrair estatísticas se disponíveis
+                    const stats = {
+                        pts: teamPoints,
+                        ast: this.parseCell(cells[headerIndices['ast']] || cells[3]),
+                        stl: this.parseCell(cells[headerIndices['stl']] || cells[4]),
+                        blk: this.parseCell(cells[headerIndices['blk']] || cells[5]),
+                        tov: this.parseCell(cells[headerIndices['tov']] || cells[6]),
+                        reb: this.parseCell(cells[headerIndices['reb']] || cells[7]),
+                        fgm: this.parseCell(cells[headerIndices['fgm']] || cells[8]),
+                        fga: this.parseCell(cells[headerIndices['fga']] || cells[9]),
+                        '3pm': this.parseCell(cells[headerIndices['3pm']] || cells[10]),
+                        '3pa': this.parseCell(cells[headerIndices['3pa']] || cells[11]),
+                        ftm: this.parseCell(cells[headerIndices['ftm']] || cells[12]),
+                        fta: this.parseCell(cells[headerIndices['fta']] || cells[13])
+                    };
+                    
+                    // Extrair informações da referência
+                    const refMatch = ref.match(/DIA\s+(\d+)(?:\.(\d+))?\s+([^-]+)-([^.]+)\./i);
+                    
+                    if (!refMatch) {
+                        continue;
+                    }
+                    
+                    const [, dayStr, simStr, homeTeamRaw, awayTeamRaw] = refMatch;
+                    const day = parseInt(dayStr);
+                    const simulation = simStr ? parseInt(simStr) : 1;
+                    const homeTeam = homeTeamRaw.trim();
+                    const awayTeam = awayTeamRaw.trim();
+                    
+                    // Criar uma chave única para este jogo
+                    const gameKey = `${day}.${simulation}.${homeTeam}.${awayTeam}`;
+                    
+                    // Verificar se o time atual é mandante ou visitante
+                    const isHomeTeam = teamName.toLowerCase() === homeTeam.toLowerCase();
+                    
+                    if (!gamesMap.has(gameKey)) {
+                        // Primeira linha deste jogo
+                        gamesMap.set(gameKey, {
+                            day: day,
+                            simulation: simulation,
+                            homeTeam: homeTeam,
+                            awayTeam: awayTeam,
+                            homeScore: isHomeTeam ? teamPoints : 0,
+                            awayScore: !isHomeTeam ? teamPoints : 0,
+                            status: 'completed',
+                            completed: true
+                        });
+                        
+                        // Inicializar estatísticas para este jogo
+                        statsMap.set(gameKey, {
+                            homeStats: {},
+                            awayStats: {}
+                        });
+                    } else {
+                        // Segunda linha deste jogo - completar as informações
+                        const game = gamesMap.get(gameKey);
+                        if (isHomeTeam) {
+                            game.homeScore = teamPoints;
+                        } else {
+                            game.awayScore = teamPoints;
+                        }
+                    }
+                    
+                    // Armazenar estatísticas do time
+                    const gameStats = statsMap.get(gameKey);
+                    if (isHomeTeam) {
+                        gameStats.homeStats = stats;
+                    } else {
+                        gameStats.awayStats = stats;
+                    }
+                }
+                
+                // Converter mapa para array
+                const games = Array.from(gamesMap.values()).filter(game => 
+                    game.homeScore > 0 || game.awayScore > 0
+                );
+                
+                return { games, stats: statsMap };
+            }
+
+            async loadPlayersData(url) {
+                try {
+                    const response = await fetch(url);
+                    const csvText = await response.text();
+                    
+                    // Separar linhas
+                    const lines = csvText.split('\n').filter(line => line.trim() !== '');
+                    
+                    if (lines.length === 0) {
+                        this.debugLog('Arquivo de jogadores vazio');
+                        return;
+                    }
+                    
+                    // Processar cabeçalho
+                    const headerLine = lines[0];
+                    const headers = headerLine.split(';').map(h => h.trim().replace(/"/g, ''));
+                    
+                    // Mapear nomes das colunas para índices
+                    const headerIndices = {};
+                    headers.forEach((header, index) => {
+                        const cleanHeader = header.toLowerCase();
+                        headerIndices[cleanHeader] = index;
+                    });
+                    
+                    // Processar cada linha de dados
+                    for (let i = 1; i < lines.length; i++) {
+                        const line = lines[i];
+                        
+                        // Dividir por ponto-e-vírgula
+                        const cells = line.split(';').map(cell => cell.trim().replace(/"/g, ''));
+                        
+                        if (cells.length < 3) {
+                            continue;
+                        }
+                        
+                        // Extrair informações da referência
+                        const ref = cells[headerIndices['ref']];
+                        
+                        if (!ref) {
+                            continue;
+                        }
+                        
+                        // Extrair informações da referência (ex: "DIA 127.28 trailblazers-Kings.xls")
+                        const refMatch = ref.match(/DIA\s+(\d+)(?:\.(\d+))?\s+([^-]+)-([^.]+)\./i);
+                        
+                        if (!refMatch) {
+                            continue;
+                        }
+                        
+                        const [, dayStr, simStr, homeTeamRaw, awayTeamRaw] = refMatch;
+                        const day = parseInt(dayStr);
+                        const simulation = simStr ? parseInt(simStr) : 1;
+                        const homeTeam = homeTeamRaw.trim();
+                        const awayTeam = awayTeamRaw.trim();
+                        
+                        // Criar uma chave única para este jogo (igual à usada nos outros dados)
+                        const gameKey = `${day}.${simulation}.${homeTeam}.${awayTeam}`;
+                        
+                        // Extrair dados do jogador
+                        const playerData = {
+                            nome: cells[headerIndices['nome']] || '',
+                            pos: cells[headerIndices['pos']] || '',
+                            pontos: this.parseCell(cells[headerIndices['pontos']]),
+                            rebote: this.parseCell(cells[headerIndices['rebote']]),
+                            assistência: this.parseCell(cells[headerIndices['assistência']]),
+                            roubo: this.parseCell(cells[headerIndices['roubo']]),
+                            block: this.parseCell(cells[headerIndices['block']]),
+                            turnover: this.parseCell(cells[headerIndices['turnover']]),
+                            faltas: this.parseCell(cells[headerIndices['faltas']]),
+                            fgm: this.parseCell(cells[headerIndices['fgm']]),
+                            fga: this.parseCell(cells[headerIndices['fga']]),
+                            '3m': this.parseCell(cells[headerIndices['3m']]),
+                            '3a': this.parseCell(cells[headerIndices['3a']]),
+                            ftm: this.parseCell(cells[headerIndices['ftm']]),
+                            fta: this.parseCell(cells[headerIndices['fta']]),
+                            minutos: this.parseCell(cells[headerIndices['minutos']]),
+                            equipe: cells[headerIndices['equipe']] || '',
+                            c_f: cells[headerIndices['c/f']] || ''
+                        };
+                        
+                        // Armazenar dados do jogador por jogo
+                        if (!this.allPlayersData.has(gameKey)) {
+                            this.allPlayersData.set(gameKey, {
+                                homePlayers: [],
+                                awayPlayers: []
+                            });
+                        }
+                        
+                        const gamePlayers = this.allPlayersData.get(gameKey);
+                        
+                        // Determinar se é jogador do time da casa ou visitante
+                        const isHomePlayer = playerData.equipe.toLowerCase() === homeTeam.toLowerCase();
+                        
+                        if (isHomePlayer) {
+                            gamePlayers.homePlayers.push(playerData);
+                        } else {
+                            gamePlayers.awayPlayers.push(playerData);
+                        }
+                    }
+                    
+                    this.debugLog(`Carregados dados de jogadores para ${this.allPlayersData.size} jogos`);
+                    
+                } catch (error) {
+                    console.error('Erro ao carregar dados de jogadores:', error);
+                    this.debugLog('Erro ao carregar dados de jogadores - continuando sem eles');
+                }
+            }
+
+            parseCell(value) {
+                if (!value || value === '') return 0;
+                const num = parseFloat(value);
+                return isNaN(num) ? 0 : num;
+            }
+
+            calculatePercentage(made, attempted) {
+                if (attempted === 0) return '0%';
+                const percentage = (made / attempted) * 100;
+                return `${percentage.toFixed(1)}%`;
+            }
+
+            createStatsTable(gameKey) {
+                const stats = this.allStatsData.get(gameKey);
+                if (!stats || !stats.homeStats || !stats.awayStats) {
+                    return '';
+                }
+
+                const homeStats = stats.homeStats;
+                const awayStats = stats.awayStats;
+
+                // Calcular porcentagens
+                const homeFgPct = this.calculatePercentage(homeStats.fgm || 0, homeStats.fga || 0);
+                const awayFgPct = this.calculatePercentage(awayStats.fgm || 0, awayStats.fga || 0);
+                const home3pPct = this.calculatePercentage(homeStats['3pm'] || 0, homeStats['3pa'] || 0);
+                const away3pPct = this.calculatePercentage(awayStats['3pm'] || 0, awayStats['3pa'] || 0);
+                const homeFtPct = this.calculatePercentage(homeStats.ftm || 0, homeStats.fta || 0);
+                const awayFtPct = this.calculatePercentage(awayStats.ftm || 0, awayStats.fta || 0);
+
+                // Criar tabela usando DOM
+                const table = document.createElement('table');
+                table.className = 'stats-table';
+                
+                // Cabeçalho
+                const thead = document.createElement('thead');
+                const headerRow = document.createElement('tr');
+                ['Estatística', 'M', 'V'].forEach(text => {
+                    const th = document.createElement('th');
+                    th.textContent = text;
+                    headerRow.appendChild(th);
+                });
+                thead.appendChild(headerRow);
+                table.appendChild(thead);
+                
+                // Corpo
+                const tbody = document.createElement('tbody');
+                
+                // Linhas de dados
+                const rows = [
+                    ['PTS', homeStats.pts || 0, awayStats.pts || 0, 'team-header'],
+                    ['A (Ast)', homeStats.ast || 0, awayStats.ast || 0, ''],
+                    ['S (Stl)', homeStats.stl || 0, awayStats.stl || 0, ''],
+                    ['B (Blk)', homeStats.blk || 0, awayStats.blk || 0, ''],
+                    ['F (PF)', homeStats.fgm || 0, awayStats.fgm || 0, ''],
+                    ['T (TO)', homeStats.tov || 0, awayStats.tov || 0, ''],
+                    ['R (Reb)', homeStats.reb || 0, awayStats.reb || 0, ''],
+                    ['FG%', homeFgPct, awayFgPct, 'percentage'],
+                    ['3P%', home3pPct, away3pPct, 'percentage'],
+                    ['FT%', homeFtPct, awayFtPct, 'percentage'],
+                    ['FGM/A', `${homeStats.fgm || 0}/${homeStats.fga || 0}`, `${awayStats.fgm || 0}/${awayStats.fga || 0}`, ''],
+                    ['3PM/A', `${homeStats['3pm'] || 0}/${homeStats['3pa'] || 0}`, `${awayStats['3pm'] || 0}/${awayStats['3pa'] || 0}`, ''],
+                    ['FTM/A', `${homeStats.ftm || 0}/${homeStats.fta || 0}`, `${awayStats.ftm || 0}/${awayStats.fta || 0}`, '']
+                ];
+                
+                rows.forEach(([stat, homeVal, awayVal, className]) => {
+                    const row = document.createElement('tr');
+                    if (className) row.className = className;
+                    
+                    const statCell = document.createElement('td');
+                    statCell.textContent = stat;
+                    row.appendChild(statCell);
+                    
+                    const homeCell = document.createElement('td');
+                    if (className === 'percentage') {
+                        const span = document.createElement('span');
+                        span.className = 'percentage';
+                        span.textContent = homeVal;
+                        homeCell.appendChild(span);
+                    } else {
+                        homeCell.textContent = homeVal;
+                    }
+                    row.appendChild(homeCell);
+                    
+                    const awayCell = document.createElement('td');
+                    if (className === 'percentage') {
+                        const span = document.createElement('span');
+                        span.className = 'percentage';
+                        span.textContent = awayVal;
+                        awayCell.appendChild(span);
+                    } else {
+                        awayCell.textContent = awayVal;
+                    }
+                    row.appendChild(awayCell);
+                    
+                    tbody.appendChild(row);
+                });
+                
+                table.appendChild(tbody);
+                return table;
+            }
+
+            createPlayersTable(players, teamName) {
+                if (!players || players.length === 0) {
+                    const emptyMsg = document.createElement('div');
+                    emptyMsg.className = 'no-games';
+                    emptyMsg.style.margin = '20px';
+                    emptyMsg.textContent = `Nenhuma estatística de jogador disponível para o ${teamName}`;
+                    return emptyMsg;
+                }
+
+                // Ordenar jogadores por pontos (do maior para o menor)
+                const sortedPlayers = [...players].sort((a, b) => b.pontos - a.pontos);
+
+                // Criar tabela
+                const table = document.createElement('table');
+                table.className = 'players-table';
+
+                // Cabeçalho
+                const thead = document.createElement('thead');
+                const headerRow = document.createElement('tr');
+                
+                const headers = [
+                    'Jogador', 'POS', 'PTS', 'REB', 'AST', 'STL', 'BLK', 'TO', 'PF',
+                    'FG%', '3P%', 'FT%', 'MIN', 'C/F'
+                ];
+                
+                headers.forEach(header => {
+                    const th = document.createElement('th');
+                    th.textContent = header;
+                    headerRow.appendChild(th);
+                });
+                
+                thead.appendChild(headerRow);
+                table.appendChild(thead);
+
+                // Corpo
+                const tbody = document.createElement('tbody');
+                
+                sortedPlayers.forEach((player, index) => {
+                    const row = document.createElement('tr');
+                    if (index < 3) {
+                        row.className = 'highlight-player';
+                    }
+
+                    // Calcular porcentagens
+                    const fgPct = this.calculatePercentage(player.fgm, player.fga);
+                    const threePct = this.calculatePercentage(player['3m'], player['3a']);
+                    const ftPct = this.calculatePercentage(player.ftm, player.fta);
+
+                    // Formatar minutos
+                    const minutos = player.minutos > 0 ? player.minutos.toFixed(1) : '0';
+
+                    // Criar células
+                    const cells = [
+                        player.nome,
+                        this.createPositionBadge(player.pos),
+                        player.pontos,
+                        player.rebote,
+                        player.assistência,
+                        player.roubo,
+                        player.block,
+                        player.turnover,
+                        player.faltas,
+                        fgPct,
+                        threePct,
+                        ftPct,
+                        minutos,
+                        player.c_f
+                    ];
+
+                    cells.forEach((cellContent, cellIndex) => {
+                        const td = document.createElement('td');
+                        
+                        if (cellIndex === 1 && typeof cellContent === 'object') {
+                            // Se for o badge de posição
+                            td.appendChild(cellContent);
+                        } else if (cellIndex >= 9 && cellIndex <= 11) {
+                            // Se for porcentagem
+                            const span = document.createElement('span');
+                            span.className = 'percentage';
+                            span.textContent = cellContent;
+                            td.appendChild(span);
+                        } else {
+                            td.textContent = cellContent;
+                        }
+                        
+                        row.appendChild(td);
+                    });
+
+                    tbody.appendChild(row);
+                });
+
+                table.appendChild(tbody);
+
+                // Container para a tabela
+                const container = document.createElement('div');
+                container.className = 'players-table-container';
+                container.appendChild(table);
+
+                return container;
+            }
+
+            createPositionBadge(position) {
+                const badge = document.createElement('span');
+                badge.className = `position-badge position-${position.toLowerCase()}`;
+                badge.textContent = position;
+                return badge;
+            }
+
+            showPlayersModal(gameKey, gameTitle) {
+                const playersData = this.allPlayersData.get(gameKey);
+                const modal = document.getElementById('playersModal');
+                const modalTitle = document.getElementById('modalTitle');
+                const playersTabs = document.getElementById('playersTabs');
+                const playersContent = document.getElementById('playersContent');
+
+                // Definir título do modal
+                modalTitle.textContent = `Estatísticas dos Jogadores - ${gameTitle}`;
+
+                // Limpar conteúdo anterior
+                playersTabs.innerHTML = '';
+                playersContent.innerHTML = '';
+
+                if (!playersData || (!playersData.homePlayers.length && !playersData.awayPlayers.length)) {
+                    // Sem dados de jogadores
+                    const emptyMsg = document.createElement('div');
+                    emptyMsg.className = 'no-games';
+                    emptyMsg.style.margin = '20px';
+                    emptyMsg.textContent = 'Nenhuma estatística de jogador disponível para este jogo';
+                    playersContent.appendChild(emptyMsg);
+                } else {
+                    // Criar tabs para cada time
+                    const teams = [];
+                    if (playersData.homePlayers.length > 0) {
+                        teams.push({ name: 'Mandante', players: playersData.homePlayers });
+                    }
+                    if (playersData.awayPlayers.length > 0) {
+                        teams.push({ name: 'Visitante', players: playersData.awayPlayers });
+                    }
+
+                    teams.forEach((team, index) => {
+                        // Criar tab
+                        const tab = document.createElement('button');
+                        tab.className = `player-tab ${index === 0 ? 'active' : ''}`;
+                        tab.textContent = team.name;
+                        tab.dataset.teamIndex = index;
+                        
+                        tab.addEventListener('click', () => {
+                            // Ativar tab clicada
+                            playersTabs.querySelectorAll('.player-tab').forEach(t => t.classList.remove('active'));
+                            tab.classList.add('active');
+                            
+                            // Mostrar conteúdo correspondente
+                            playersContent.querySelectorAll('.player-tab-content').forEach(c => c.classList.remove('active'));
+                            const contentToShow = playersContent.querySelector(`.player-tab-content[data-team-index="${index}"]`);
+                            if (contentToShow) {
+                                contentToShow.classList.add('active');
+                            }
+                        });
+                        
+                        playersTabs.appendChild(tab);
+
+                        // Criar conteúdo da tab
+                        const tabContent = document.createElement('div');
+                        tabContent.className = `player-tab-content ${index === 0 ? 'active' : ''}`;
+                        tabContent.dataset.teamIndex = index;
+                        
+                        const table = this.createPlayersTable(team.players, team.name);
+                        tabContent.appendChild(table);
+                        
+                        playersContent.appendChild(tabContent);
+                    });
+                }
+
+                // Mostrar modal
+                modal.classList.add('active');
+
+                // Fechar modal ao clicar no X
+                document.getElementById('modalClose').onclick = () => {
+                    modal.classList.remove('active');
+                };
+
+                // Fechar modal ao clicar fora do conteúdo
+                modal.onclick = (e) => {
+                    if (e.target === modal) {
+                        modal.classList.remove('active');
+                    }
+                };
+
+                // Fechar modal com ESC
+                document.addEventListener('keydown', (e) => {
+                    if (e.key === 'Escape' && modal.classList.contains('active')) {
+                        modal.classList.remove('active');
+                    }
+                });
+            }
+
+processData(scheduledGames, completedGames) {
+    // Processar jogos agendados
+    this.scheduledGames = scheduledGames.map(game => {
+        this.uniqueTeams.add(game.homeTeam);
+        this.uniqueTeams.add(game.awayTeam);
+        this.uniqueDays.add(game.day);
+        return {
+            ...game,
+            id: `scheduled-${game.day}-${game.homeTeam}-${game.awayTeam}`
+        };
+    });
+    
+    this.debugLog(`Total de jogos agendados do TXT: ${this.scheduledGames.length}`);
+    
+    // Processar jogos realizados
+    this.completedGames = completedGames.map(game => {
+        this.uniqueTeams.add(game.homeTeam);
+        this.uniqueTeams.add(game.awayTeam);
+        this.uniqueDays.add(game.day);
+        
+        // Criar chave para buscar estatísticas
+        const gameKey = `${game.day}.${game.simulation || 1}.${game.homeTeam}.${game.awayTeam}`;
+        
+        return {
+            ...game,
+            id: `completed-${gameKey}`,
+            statsKey: gameKey
+        };
+    });
+    
+    this.debugLog(`Total de jogos realizados do CSV: ${this.completedGames.length}`);
+    
+    // Aqui está a correção principal:
+    // Criar um Set com chaves únicas dos jogos realizados
+    const completedGameKeys = new Set();
+    this.completedGames.forEach(game => {
+        const key = `${game.day}-${game.homeTeam}-${game.awayTeam}`;
+        completedGameKeys.add(key);
+    });
+    
+    // Filtrar jogos agendados: manter apenas os que NÃO foram realizados
+    const filteredScheduledGames = this.scheduledGames.filter(scheduledGame => {
+        const scheduledKey = `${scheduledGame.day}-${scheduledGame.homeTeam}-${scheduledGame.awayTeam}`;
+        return !completedGameKeys.has(scheduledKey);
+    });
+    
+    this.debugLog(`Jogos agendados após filtrar realizados: ${filteredScheduledGames.length}`);
+    
+    // Atualizar a lista de jogos agendados
+    this.scheduledGames = filteredScheduledGames;
+    
+    // Combinar todos os jogos
+    this.allGames = [
+        ...this.completedGames,
+        ...this.scheduledGames
+    ].sort((a, b) => {
+        if (a.day !== b.day) return a.day - b.day;
+        if (a.simulation !== b.simulation) return (a.simulation || 0) - (b.simulation || 0);
+        return a.homeTeam.localeCompare(b.homeTeam);
+    });
+    
+    this.debugLog(`Total de jogos únicos: ${this.allGames.length}`);
+    
+    // Inicializar jogos filtrados
+    this.currentFilteredGames.all = this.allGames;
+    this.currentFilteredGames.completed = this.completedGames;
+    this.currentFilteredGames.scheduled = this.scheduledGames;
+    
+    // Calcular total de páginas
+    this.totalPages.all = Math.ceil(this.allGames.length / this.gamesPerPage);
+    this.totalPages.completed = Math.ceil(this.completedGames.length / this.gamesPerPage);
+    this.totalPages.scheduled = Math.ceil(this.scheduledGames.length / this.gamesPerPage);
+}
+
+            updateStats() {
+                document.getElementById('totalGames').textContent = this.allGames.length;
+                document.getElementById('completedGames').textContent = this.completedGames.length;
+                document.getElementById('scheduledGames').textContent = this.scheduledGames.length;
+                document.getElementById('uniqueTeams').textContent = this.uniqueTeams.size;
+            }
+
+            getTeamLogo(teamName) {
+                // Verificar se temos o time no mapeamento
+                const teamInfo = this.teamMapping[teamName];
+                
+                const logoContainer = document.createElement('div');
+                logoContainer.className = 'team-logo';
+                
+                if (teamInfo) {
+                    const [teamId, teamColor] = teamInfo;
+                    const logoUrl = `https://cdn.nba.com/logos/nba/${teamId}/global/L/logo.svg`;
+                    
+                    // Criar imagem
+                    const img = document.createElement('img');
+                    img.src = logoUrl;
+                    img.alt = teamName;
+                    img.onerror = () => {
+                        // Se a imagem falhar ao carregar, mostrar fallback
+                        img.style.display = 'none';
+                        const fallback = document.createElement('div');
+                        fallback.className = 'fallback';
+                        fallback.textContent = teamName.charAt(0);
+                        fallback.style.backgroundColor = teamColor;
+                        fallback.style.color = this.getContrastColor(teamColor);
+                        logoContainer.appendChild(fallback);
+                    };
+                    
+                    logoContainer.appendChild(img);
+                    
+                    // Adicionar fallback inicialmente
+                    const fallback = document.createElement('div');
+                    fallback.className = 'fallback';
+                    fallback.textContent = teamName.charAt(0);
+                    fallback.style.backgroundColor = teamColor;
+                    fallback.style.color = this.getContrastColor(teamColor);
+                    fallback.style.display = 'none';
+                    logoContainer.appendChild(fallback);
+                } else {
+                    // Se não tiver no mapeamento, mostrar apenas a primeira letra
+                    const fallback = document.createElement('div');
+                    fallback.className = 'fallback';
+                    fallback.textContent = teamName.charAt(0);
+                    logoContainer.appendChild(fallback);
+                }
+                
+                return logoContainer;
+            }
+
+            getContrastColor(hexcolor) {
+                // Função para determinar cor de contraste (preto ou branco)
+                hexcolor = hexcolor.replace("#", "");
+                const r = parseInt(hexcolor.substr(0, 2), 16);
+                const g = parseInt(hexcolor.substr(2, 2), 16);
+                const b = parseInt(hexcolor.substr(4, 2), 16);
+                const yiq = ((r * 299) + (g * 587) + (b * 114)) / 1000;
+                return (yiq >= 128) ? 'black' : 'white';
+            }
+
+            createGameCard(game) {
+                const isCompleted = game.completed;
+                const winner = isCompleted ? 
+                    (game.homeScore > game.awayScore ? game.homeTeam : game.awayTeam) : 
+                    null;
+                
+                const pointDifference = isCompleted ? 
+                    Math.abs(game.homeScore - game.awayScore) : 
+                    null;
+                
+                // Criar o elemento card
+                const card = document.createElement('div');
+                card.className = 'game-card';
+                card.dataset.day = game.day;
+                card.dataset.home = game.homeTeam;
+                card.dataset.away = game.awayTeam;
+                card.dataset.status = game.status;
+                
+                // Header
+                const header = document.createElement('div');
+                header.className = 'game-header';
+                
+                const dayBadge = document.createElement('div');
+                dayBadge.className = 'day-badge';
+                dayBadge.textContent = `Dia ${game.day}`;
+                header.appendChild(dayBadge);
+                
+                if (game.simulation) {
+                    const simBadge = document.createElement('div');
+                    simBadge.className = 'simulation-badge';
+                    simBadge.textContent = `Simulação ${game.simulation}`;
+                    header.appendChild(simBadge);
+                }
+                
+                // Content
+                const content = document.createElement('div');
+                content.className = 'game-content';
+                
+                // Times
+                const teams = document.createElement('div');
+                teams.className = 'teams';
+                
+                // Time da casa
+                const homeTeam = document.createElement('div');
+                homeTeam.className = 'team';
+                
+                const homeLogo = this.getTeamLogo(game.homeTeam);
+                homeTeam.appendChild(homeLogo);
+                
+                const homeName = document.createElement('div');
+                homeName.className = 'team-name';
+                homeName.textContent = game.homeTeam;
+                homeTeam.appendChild(homeName);
+                
+                const homeScore = document.createElement('div');
+                homeScore.className = `team-score ${isCompleted ? (game.homeScore > game.awayScore ? 'score-winner' : 'score-loser') : ''}`;
+                homeScore.textContent = isCompleted ? game.homeScore : '--';
+                homeTeam.appendChild(homeScore);
+                
+                teams.appendChild(homeTeam);
+                
+                // VS
+                const vs = document.createElement('div');
+                vs.className = 'vs';
+                vs.textContent = 'VS';
+                teams.appendChild(vs);
+                
+                // Time visitante
+                const awayTeam = document.createElement('div');
+                awayTeam.className = 'team';
+                
+                const awayLogo = this.getTeamLogo(game.awayTeam);
+                awayTeam.appendChild(awayLogo);
+                
+                const awayName = document.createElement('div');
+                awayName.className = 'team-name';
+                awayName.textContent = game.awayTeam;
+                awayTeam.appendChild(awayName);
+                
+                const awayScore = document.createElement('div');
+                awayScore.className = `team-score ${isCompleted ? (game.awayScore > game.homeScore ? 'score-winner' : 'score-loser') : ''}`;
+                awayScore.textContent = isCompleted ? game.awayScore : '--';
+                awayTeam.appendChild(awayScore);
+                
+                teams.appendChild(awayTeam);
+                
+                content.appendChild(teams);
+                
+                // Detalhes do jogo
+                const details = document.createElement('div');
+                details.className = 'game-details';
+                
+                const status = document.createElement('div');
+                status.className = `game-status ${game.status}`;
+                
+                if (isCompleted) {
+                    const winnerSpan = document.createElement('span');
+                    winnerSpan.className = 'completed';
+                    winnerSpan.innerHTML = `🏆 ${winner} Venceu`;
+                    status.appendChild(winnerSpan);
+                } else {
+                    const scheduledSpan = document.createElement('span');
+                    scheduledSpan.className = 'scheduled';
+                    scheduledSpan.innerHTML = '⏰ Agendado';
+                    status.appendChild(scheduledSpan);
+                }
+                
+                details.appendChild(status);
+                
+                if (pointDifference !== null) {
+                    const diff = document.createElement('div');
+                    diff.className = 'score-difference';
+                    diff.textContent = `Diferença: ${pointDifference} ponto${pointDifference !== 1 ? 's' : ''}`;
+                    details.appendChild(diff);
+                }
+                
+                // Container para botões
+                const buttonsContainer = document.createElement('div');
+                buttonsContainer.style.marginTop = '15px';
+                
+                // Verificar se temos estatísticas para este jogo
+                const hasStats = isCompleted && game.statsKey && this.allStatsData.has(game.statsKey);
+                const hasPlayers = isCompleted && game.statsKey && this.allPlayersData.has(game.statsKey);
+                
+                if (hasStats) {
+                    const toggleBtn = document.createElement('button');
+                    toggleBtn.className = 'stats-toggle';
+                    toggleBtn.textContent = '▼ Ver Estatísticas';
+                    
+                    toggleBtn.addEventListener('click', () => {
+                        const container = toggleBtn.closest('.game-details').querySelector('.stats-table-container');
+                        container.classList.toggle('expanded');
+                        toggleBtn.textContent = container.classList.contains('expanded') ? 
+                            '▲ Ocultar Estatísticas' : '▼ Ver Estatísticas';
+                    });
+                    
+                    buttonsContainer.appendChild(toggleBtn);
+                    
+                    const statsContainer = document.createElement('div');
+                    statsContainer.className = 'stats-table-container';
+                    
+                    const statsTable = this.createStatsTable(game.statsKey);
+                    if (statsTable) {
+                        statsContainer.appendChild(statsTable);
+                    }
+                    
+                    details.appendChild(statsContainer);
+                }
+                
+                if (hasPlayers) {
+                    const playersBtn = document.createElement('button');
+                    playersBtn.className = 'stats-toggle';
+                    playersBtn.style.backgroundColor = 'var(--success-color)';
+                    playersBtn.textContent = '👥 Ver Stats Jogadores';
+                    
+                    const gameTitle = `Dia ${game.day}.${game.simulation || 1} - ${game.homeTeam} vs ${game.awayTeam}`;
+                    
+                    playersBtn.addEventListener('click', () => {
+                        this.showPlayersModal(game.statsKey, gameTitle);
+                    });
+                    
+                    buttonsContainer.appendChild(playersBtn);
+                }
+                
+                details.appendChild(buttonsContainer);
+                
+                content.appendChild(details);
+                
+                // Montar o card
+                card.appendChild(header);
+                card.appendChild(content);
+                
+                return card;
+            }
+
+            filterGames(games) {
+                return games.filter(game => {
+                    if (this.filters.day !== 'all' && game.day !== parseInt(this.filters.day)) {
+                        return false;
+                    }
+                    
+                    if (this.filters.status !== 'all' && game.status !== this.filters.status) {
+                        return false;
+                    }
+                    
+                    if (this.filters.team !== 'all') {
+                        const searchTeam = this.filters.team.toLowerCase();
+                        if (!game.homeTeam.toLowerCase().includes(searchTeam) && 
+                            !game.awayTeam.toLowerCase().includes(searchTeam)) {
+                            return false;
+                        }
+                    }
+                    
+                    return true;
+                });
+            }
+
+            getPaginatedGames(tab, page = 1) {
+                const games = this.currentFilteredGames[tab];
+                const startIndex = (page - 1) * this.gamesPerPage;
+                const endIndex = startIndex + this.gamesPerPage;
+                return games.slice(startIndex, endIndex);
+            }
+
+            updatePagination(tab) {
+                const paginationElement = document.getElementById(`pagination${tab.charAt(0).toUpperCase() + tab.slice(1)}`);
+                const pageInfoElement = document.getElementById(`pageInfo${tab.charAt(0).toUpperCase() + tab.slice(1)}`);
+                const prevButton = document.getElementById(`prev${tab.charAt(0).toUpperCase() + tab.slice(1)}`);
+                const nextButton = document.getElementById(`next${tab.charAt(0).toUpperCase() + tab.slice(1)}`);
+                
+                const totalGames = this.currentFilteredGames[tab].length;
+                this.totalPages[tab] = Math.ceil(totalGames / this.gamesPerPage);
+                
+                // Atualizar informações da página
+                pageInfoElement.textContent = `Página ${this.currentPage[tab]} de ${this.totalPages[tab]} (${totalGames} jogos)`;
+                
+                // Habilitar/desabilitar botões
+                prevButton.disabled = this.currentPage[tab] <= 1;
+                nextButton.disabled = this.currentPage[tab] >= this.totalPages[tab];
+                
+                // Mostrar/ocultar paginação
+                if (totalGames > this.gamesPerPage) {
+                    paginationElement.style.display = 'flex';
+                } else {
+                    paginationElement.style.display = 'none';
+                }
+            }
+
+            renderGames(containerId, tab) {
+                const container = document.getElementById(containerId);
+                const filteredGames = this.filterGames(tab === 'all' ? this.allGames : 
+                                                       tab === 'completed' ? this.completedGames : 
+                                                       this.scheduledGames);
+                
+                // Atualizar lista de jogos filtrados para esta tab
+                this.currentFilteredGames[tab] = filteredGames;
+                
+                // Resetar para página 1 se os jogos filtrados mudaram
+                if (filteredGames.length !== this.currentFilteredGames[tab].length) {
+                    this.currentPage[tab] = 1;
+                }
+                
+                // Atualizar paginação
+                this.updatePagination(tab);
+                
+                if (filteredGames.length === 0) {
+                    container.innerHTML = `
+                        <div class="no-games">
+                            Nenhum jogo encontrado com os filtros atuais.
+                            ${this.filters.team !== 'all' ? `<br>Tente buscar por outro time.` : ''}
+                        </div>
+                    `;
+                    return;
+                }
+                
+                // Limpar o container
+                container.innerHTML = '';
+                
+                // Adicionar cada card da página atual
+                const paginatedGames = this.getPaginatedGames(tab, this.currentPage[tab]);
+                paginatedGames.forEach(game => {
+                    const card = this.createGameCard(game);
+                    container.appendChild(card);
+                });
+            }
+
+            updateAllContainers() {
+                this.renderGames('gamesContainer', 'all');
+                this.renderGames('completedGamesContainer', 'completed');
+                this.renderGames('scheduledGamesContainer', 'scheduled');
+            }
+
+            setupPagination() {
+                // Configurar botões de paginação para cada tab
+                ['all', 'completed', 'scheduled'].forEach(tab => {
+                    const prevButton = document.getElementById(`prev${tab.charAt(0).toUpperCase() + tab.slice(1)}`);
+                    const nextButton = document.getElementById(`next${tab.charAt(0).toUpperCase() + tab.slice(1)}`);
+                    
+                    prevButton.addEventListener('click', () => {
+                        if (this.currentPage[tab] > 1) {
+                            this.currentPage[tab]--;
+                            this.renderGames(`${tab}GamesContainer`, tab);
+                        }
+                    });
+                    
+                    nextButton.addEventListener('click', () => {
+                        if (this.currentPage[tab] < this.totalPages[tab]) {
+                            this.currentPage[tab]++;
+                            this.renderGames(`${tab}GamesContainer`, tab);
+                        }
+                    });
+                });
+            }
+
+            populateDayFilter() {
+                const dayFilter = document.getElementById('dayFilter');
+                const days = Array.from(this.uniqueDays).sort((a, b) => a - b);
+                
+                days.forEach(day => {
+                    const option = document.createElement('option');
+                    option.value = day;
+                    option.textContent = `Dia ${day}`;
+                    dayFilter.appendChild(option);
+                });
+            }
+
+            populateTeamSearch() {
+                const teamSearch = document.getElementById('teamFilter');
+                const teams = Array.from(this.uniqueTeams).sort();
+                
+                teamSearch.addEventListener('input', (e) => {
+                    const searchTerm = e.target.value.toLowerCase();
+                    const results = document.getElementById('searchResults');
+                    
+                    if (searchTerm.length < 2) {
+                        results.style.display = 'none';
+                        return;
+                    }
+                    
+                    const filteredTeams = teams.filter(team => 
+                        team.toLowerCase().includes(searchTerm)
+                    );
+                    
+                    if (filteredTeams.length > 0) {
+                        results.innerHTML = '';
+                        filteredTeams.forEach(team => {
+                            const item = document.createElement('div');
+                            item.className = 'search-result-item';
+                            item.textContent = team;
+                            item.dataset.team = team;
+                            item.addEventListener('click', () => {
+                                teamSearch.value = team;
+                                this.filters.team = team;
+                                results.style.display = 'none';
+                                this.updateAllContainers();
+                            });
+                            results.appendChild(item);
+                        });
+                        results.style.display = 'block';
+                    } else {
+                        results.style.display = 'none';
+                    }
+                });
+                
+                document.addEventListener('click', (e) => {
+                    if (!e.target.closest('.team-search')) {
+                        document.getElementById('searchResults').style.display = 'none';
+                    }
+                });
+            }
+
+            setupEventListeners() {
+                document.querySelectorAll('.tab-btn').forEach(btn => {
+                    btn.addEventListener('click', () => {
+                        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+                        document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+                        
+                        btn.classList.add('active');
+                        const tabId = btn.dataset.tab;
+                        document.getElementById(`tab-${tabId}`).classList.add('active');
+                        this.currentTab = tabId;
+                    });
+                });
+                
+                document.getElementById('dayFilter').addEventListener('change', (e) => {
+                    this.filters.day = e.target.value;
+                    // Resetar para página 1 ao mudar filtro
+                    this.currentPage.all = 1;
+                    this.currentPage.completed = 1;
+                    this.currentPage.scheduled = 1;
+                    this.updateAllContainers();
+                });
+                
+                document.getElementById('teamFilter').addEventListener('change', (e) => {
+                    this.filters.team = e.target.value;
+                    if (this.filters.team === '') this.filters.team = 'all';
+                    // Resetar para página 1 ao mudar filtro
+                    this.currentPage.all = 1;
+                    this.currentPage.completed = 1;
+                    this.currentPage.scheduled = 1;
+                    this.updateAllContainers();
+                });
+                
+                document.getElementById('statusFilter').addEventListener('change', (e) => {
+                    this.filters.status = e.target.value;
+                    // Resetar para página 1 ao mudar filtro
+                    this.currentPage.all = 1;
+                    this.currentPage.completed = 1;
+                    this.currentPage.scheduled = 1;
+                    this.updateAllContainers();
+                });
+                
+                document.getElementById('teamFilter').addEventListener('keyup', (e) => {
+                    if (e.target.value === '') {
+                        this.filters.team = 'all';
+                        // Resetar para página 1 ao mudar filtro
+                        this.currentPage.all = 1;
+                        this.currentPage.completed = 1;
+                        this.currentPage.scheduled = 1;
+                        this.updateAllContainers();
+                    }
+                });
+                
+                // Configurar paginação
+                this.setupPagination();
+            }
+
+            showError(message) {
+                const container = document.getElementById('gamesContainer');
+                container.innerHTML = `
+                    <div class="no-games" style="color: var(--danger-color);">
+                        <h3>Erro ao carregar dados</h3>
+                        <p>${message}</p>
+                        <p>Por favor, tente recarregar a página ou verifique as URLs dos dados.</p>
+                    </div>
+                `;
+            }
+
+            initializeUI() {
+                this.populateDayFilter();
+                this.populateTeamSearch();
+                this.setupEventListeners();
+                this.updateAllContainers();
+                
+                setTimeout(() => {
+                    const debugDiv = document.getElementById('debugInfo');
+                    if (debugDiv) {
+                        debugDiv.classList.remove('active');
+                    }
+                }, 5000);
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const app = new BratugaNBA();
+            app.loadData();
+        });
+    </script>
+</body>
+</html>
