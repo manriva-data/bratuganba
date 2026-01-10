@@ -1,5 +1,5 @@
 Equipe;Pontos;Ref;Assistência;Roubo;Block;Faltas;Turnover;Orebote;FGA;FGM;3A;3M;FTA;FTM
-"bucks";117;"DIA 34.8 lakers-bucks.xls";32;10;7;15;12;5;100;49;28;9;11;10
+
 "bucks";102;"DIA 40.9 bucks-heat.xls";28;6;7;20;9;5;104;40;29;8;16;14
 "mavericks";101;"DIA 122.26 mavericks-clippers.xls";29;9;7;13;10;5;107;40;30;10;13;11
 "Bulls";128;"DIA 97.21 Bulls-hawks.xls";30;8;7;16;17;5;94;50;18;6;30;22
@@ -2120,7 +2120,7 @@ Equipe;Pontos;Ref;Assistência;Roubo;Block;Faltas;Turnover;Orebote;FGA;FGM;3A;3M
 "wizards";116;"DIA 48.11 raptors-wizards.xls";29;8;7;27;17;2;88;43;14;6;32;24
 "wizards";103;"DIA 95.20 pacers-wizards.xls";33;3;1;20;11;2;90;38;16;4;29;23
 "lakers";112;"DIA 13.4 lakers-pelicans.xls";25;12;7;24;16;2;96;44;25;9;20;15
-"lakers";125;"DIA 34.8 lakers-bucks.xls";37;12;6;12;12;2;94;51;17;6;21;17
+
 "lakers";111;"DIA 38.9 raptors-lakers.xls";30;12;7;19;12;2;93;41;22;7;25;22
 "lakers";124;"DIA 7.2 timberwolves-lakers.xls";29;12;5;11;18;2;89;46;20;12;22;20
 "lakers";127;"DIA 74.16 lakers-magic.xls";31;8;11;17;9;2;94;50;25;10;23;17
@@ -2463,3 +2463,4 @@ Equipe;Pontos;Ref;Assistência;Roubo;Block;Faltas;Turnover;Orebote;FGA;FGM;3A;3M
 "warriors";101;"DIA 4.1 clippers-warriors.xls";26;10;3;19;21;12;101;42;30;12;7;5
 "warriors";120;"DIA 74.16 warriors-cavaliers.xls";26;13;9;11;12;11;114;50;34;13;7;7
 "warriors";106;"DIA 92.20 cavaliers-warriors.xls";30;7;8;16;8;13;109;42;42;16;10;6
+
