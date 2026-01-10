@@ -1,6 +1,3 @@
-
-Tentando encaixar jogos não agendados após o dia 45...
-
 Calendário de Jogos:
 Dia 1:
 nets x pacers
@@ -1463,4 +1460,5 @@ Todos os jogos foram agendados.
 
 
 ** Process exited - Return Code: 0 **
+
 Press Enter to exit terminal
