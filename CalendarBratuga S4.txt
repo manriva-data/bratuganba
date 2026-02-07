@@ -1,1464 +1,1491 @@
 Calendário de Jogos:
+
 Dia 1:
-nets x pacers
-thunder x Jazz
-Suns x spurs
-Kings x lakers
-mavericks x wizards
-Bulls x warriors
-hawks x pistons
-knicks x Sixers
-grizzlies x clippers
-hornets x bucks
+Clippers x Raptors
+Lakers x Knicks
+Hawks x Bucks
+Suns x Rockets
+Cavaliers x Philadelphia 76ers
+Heat x Trailblazers
+Bulls x Nets
+Wizards x Pistons
+Hornets x Pacers
+Warriors x Pelicans
+
 Dia 2:
-timberwolves x pacers
-nuggets x spurs
-Suns x clippers
-raptors x thunder
-hornets x hawks
-wizards x heat
-mavericks x rockets
-magic x pistons
-Bulls x cavaliers
-celtics x Kings
+Magic x Spurs
+Thunder x Mavericks
+Kings x Timberwolves
+Jazz x Nuggets
+Grizzlies x Celtics
+Nets x Suns
+Clippers x Trailblazers
+Bucks x Bulls
+Cavaliers x Heat
+Raptors x Hawks
+
 Dia 3:
-Bulls x hornets
-wizards x cavaliers
-spurs x rockets
-clippers x nets
-hawks x celtics
-mavericks x nuggets
-heat x magic
-thunder x pelicans
-grizzlies x raptors
-knicks x Kings
+Mavericks x Lakers
+Timberwolves x Knicks
+Hornets x Spurs
+Grizzlies x Warriors
+Philadelphia 76ers x Magic
+Celtics x Rockets
+Pelicans x Thunder
+Pistons x Nuggets
+Wizards x Pacers
+Kings x Jazz
+
 Dia 4:
-thunder x spurs
-nets x pacers
-celtics x raptors
-clippers x warriors
-Sixers x wizards
-Bulls x bucks
-mavericks x knicks
-pistons x hawks
-trailblazers x cavaliers
-Suns x magic
+Wizards x Suns
+Spurs x Cavaliers
+Raptors x Mavericks
+Warriors x Lakers
+Nuggets x Nets
+Heat x Celtics
+Timberwolves x Hornets
+Bucks x Pelicans
+Pistons x Knicks
+Jazz x Rockets
+
 Dia 5:
-pacers x rockets
-Sixers x magic
-hornets x nets
-raptors x pelicans
-warriors x celtics
-bucks x cavaliers
-Jazz x nuggets
-heat x Kings
-knicks x timberwolves
-trailblazers x grizzlies
+Philadelphia 76ers x Hawks
+Magic x Bulls
+Pacers x Trailblazers
+Kings x Thunder
+Clippers x Grizzlies
+Suns x Warriors
+Cavaliers x Jazz
+Raptors x Nets
+Wizards x Timberwolves
+Celtics x Spurs
+
 Dia 6:
-heat x Sixers
-lakers x pelicans //aqui
-rockets x nuggets
-warriors x grizzlies
-pistons x Jazz
-timberwolves x trailblazers
-Suns x bucks
+Clippers x Mavericks
+Lakers x Kings
+Hawks x Heat
+Magic x Hornets
+Nuggets x Bucks
+Rockets x Pacers
+Pistons x Grizzlies
+Knicks x Thunder
+Philadelphia 76ers x Bulls
+Pelicans x Trailblazers
+
 Dia 7:
-pelicans x trailblazers
-timberwolves x lakers
-Dia 8:
-clippers x wizards
-knicks x hawks
-grizzlies x mavericks
-lakers x hornets
-bucks x spurs
-pacers x Kings
-thunder x Sixers
-pistons x Suns
-nets x Jazz
-warriors x Bulls
-Dia 9:
-clippers x timberwolves
-celtics x spurs
-nuggets x Bulls
-heat x rockets
-raptors x wizards
-magic x pacers
-mavericks x Jazz
-hawks x Suns
-pistons x thunder
-Kings x cavaliers
-Dia 10:
-wizards x pelicans
-Bulls x grizzlies
-raptors x knicks
-celtics x heat
-spurs x hawks
-lakers x nets
-cavaliers x mavericks
-nuggets x thunder
-hornets x clippers
-rockets x Kings
-Dia 11:
-thunder x trailblazers
-knicks x celtics
-Bulls x wizards
-hawks x Sixers
-mavericks x warriors
-magic x nets
-hornets x pacers
-Suns x spurs
-cavaliers x raptors
-clippers x pistons
-Dia 12:
-pacers x pelicans
-trailblazers x rockets
-timberwolves x raptors
-celtics x Jazz
-heat x nuggets
-magic x knicks
-Sixers x grizzlies
-nets x hornets
-warriors x Kings
-bucks x cavaliers
-Dia 13:
-rockets x Jazz
-bucks x nuggets
-Sixers x trailblazers
-lakers x pelicans
-timberwolves x heat
-grizzlies x warriors
-Suns x Pistons
-Dia 14:
-pelicans x lakers
-timberwolves x magic
-bucks x trailblazers
-Dia 15:
-Bulls x wizards
-grizzlies x clippers
-Jazz x hawks
-nets x bucks
-knicks x pistons
-pacers x spurs
-thunder x mavericks
-Sixers x Suns
-Kings x lakers
-hornets x warriors
-Dia 16:
-Bulls x timberwolves
-nuggets x pacers
-wizards x cavaliers
-magic x celtics
-clippers x heat
-rockets x Suns
-raptors x Kings
-spurs x Jazz
-thunder x mavericks
-pistons x hawks
-Dia 17:
-Kings x pelicans
-heat x wizards
-clippers x hawks
-celtics x grizzlies
-knicks x cavaliers
-nuggets x raptors
-mavericks x Bulls
-spurs x hornets
-thunder x nets
-rockets x lakers
-Dia 18:
-trailblazers x hornets
-Sixers x raptors
-knicks x wizards
-spurs x magic
-Suns x hawks
-cavaliers x Bulls
-celtics x warriors
-pistons x pacers
-clippers x mavericks
-Dia 19:
-pacers x heat
-bucks x celtics
-pelicans x rockets
-cavaliers x grizzlies
-hornets x raptors
-nets x knicks
-nuggets x Jazz
-timberwolves x thunder
-warriors x trailblazers
-magic x Sixers
-Dia 20:
-heat x nets
-rockets x warriors
-nuggets x bucks
-Jazz x Sixers
-grizzlies x pelicans
-Kings x Suns
-trailblazers x timberwolves
-pistons x lakers
-Dia 21:
-pelicans x magic
-timberwolves x bucks
-lakers x trailblazers
-Dia 22:
-grizzlies x spurs
-wizards x hornets
-bucks x Sixers
-nets x hawks
-warriors x thunder
-Kings x Jazz
-pistons x Bulls
-knicks x clippers
-Suns x pacers
-mavericks x lakers
-Dia 23:
-timberwolves x spurs
-cavaliers x heat
-Suns x nuggets
-Jazz x rockets
-wizards x pacers
-raptors x magic
-pistons x clippers
-thunder x celtics
-hawks x Kings
-Bulls x mavericks
-Dia 24:
-pelicans x hawks
-knicks x rockets
-heat x raptors
-nuggets x Kings
-grizzlies x thunder
-nets x celtics
-Bulls x clippers
-wizards x lakers
-spurs x mavericks
-cavaliers x hornets
-Dia 25:
-hornets x hawks
-Sixers x pistons
-warriors x clippers
-raptors x cavaliers
-pacers x magic
-knicks x trailblazers
 Suns x Bulls
-mavericks x spurs
-celtics x wizards
-Dia 26:
-rockets x trailblazers
-Jazz x bucks
-warriors x grizzlies
-nuggets x celtics
-nets x raptors
-heat x hornets
-timberwolves x Sixers
-magic x cavaliers
-thunder x knicks
-pelicans x pacers
-Dia 27:
-Kings x heat
-bucks x rockets
-nuggets x nets
-pelicans x Suns
-warriors x timberwolves
-grizzlies x Jazz
-trailblazers x lakers
-Sixers x pistons
-Dia 28:
-bucks x pelicans
-lakers x timberwolves
-magic x trailblazers
-Dia 29:
-grizzlies x hawks
-spurs x Kings
-pistons x wizards
-Jazz x hornets
-knicks x nets
-pacers x bucks
-mavericks x warriors
-clippers x Bulls
-lakers x thunder
-Suns x Sixers
-Dia 30:
-hawks x timberwolves
-celtics x rockets
-nuggets x clippers
-heat x mavericks
-raptors x magic
-pacers x wizards
-thunder x pistons
-spurs x Suns
-Bulls x Kings
-Jazz x cavaliers
-Dia 31:
-spurs x pelicans
-rockets x mavericks
-raptors x nuggets
-knicks x hornets
-nets x celtics
-hawks x cavaliers
-heat x Bulls
-thunder x clippers
-grizzlies x Kings
-lakers x wizards
-Dia 32:
-Sixers x hawks
-knicks x hornets
-clippers x trailblazers
-spurs x raptors
-celtics x pacers
-Bulls x pistons
-magic x mavericks
-Suns x warriors
-cavaliers x wizards
-Dia 33:
-rockets x warriors
-Jazz x nuggets
-trailblazers x thunder
-bucks x grizzlies
-pelicans x hornets
-raptors x Sixers
-cavaliers x nets
-celtics x timberwolves
-heat x pacers
-knicks x magic
-Dia 34:
-rockets x timberwolves
-heat x pistons
-warriors x nets
-grizzlies x nuggets
-pelicans x Suns
-trailblazers x Jazz
-lakers x bucks
-Sixers x Kings
-Dia 35:
-pelicans x lakers
-trailblazers x bucks
-Dia 36:
-timberwolves x clippers
-hawks x knicks
-Sixers x pacers
-nets x spurs
-mavericks x grizzlies
-bucks x pistons
-Jazz x wizards
-thunder x Suns
-lakers x warriors
-hornets x magic
-Dia 37:
-nuggets x hawks
-magic x rockets
-celtics x thunder
-mavericks x raptors
-pacers x pistons
-heat x Spurs
-Jazz x clippers
-wizards x Bulls
-timberwolves x Suns
-cavaliers x Kings
-Dia 38:
-pelicans x mavericks
-rockets x celtics
-nuggets x clippers
-heat x hawks
-wizards x knicks
-nets x hornets
-thunder x spurs
-grizzlies x Kings
-raptors x lakers
-Bulls x cavaliers
-Dia 39:
-knicks x Sixers
-trailblazers x wizards
-hornets x celtics
-spurs x clippers
-hawks x magic
-warriors x raptors
-mavericks x cavaliers
+Kings x Raptors
+Philadelphia 76ers x Spurs
+Grizzlies x Cavaliers
+Trailblazers x Mavericks
+Timberwolves x Warriors
+Nets x Magic
+Hornets x Celtics
+Pacers x Heat
+Bucks x Wizards
+
+Dia 8:
+Clippers x Knicks
+Thunder x Jazz
+Lakers x Pelicans
+Hawks x Rockets
+Nuggets x Pistons
+Bulls x Cavaliers
+Philadelphia 76ers x Suns
+Raptors x Warriors
+Hornets x Grizzlies
+Pacers x Mavericks
+
+Dia 9:
+Nuggets x Magic
+Rockets x Spurs
+Jazz x Heat
+Kings x Nets
+Pelicans x Hawks
+Clippers x Timberwolves
+Lakers x Celtics
+Bucks x Pistons
+Trailblazers x Wizards
+Thunder x Knicks
+
+Dia 10:
+Raptors x Bulls
+Magic x Cavaliers
+Suns x Warriors
+Hawks x Mavericks
+Grizzlies x Spurs
+Hornets x Philadelphia 76ers
+Pacers x Timberwolves
+Nuggets x Kings
+Heat x Lakers
+Thunder x Pelicans
+
+Dia 11:
+Knicks x Jazz
+Wizards x Celtics
+Trailblazers x Nets
+Bucks x Rockets
+Pistons x Clippers
+Raptors x Grizzlies
+Suns x Pacers
+Nuggets x Bulls
+Thunder x Mavericks
+Timberwolves x Philadelphia 76ers
+
+Dia 12:
+Jazz x Cavaliers
+Warriors x Clippers
+Hornets x Pistons
+Kings x Rockets
+Lakers x Spurs
+Heat x Magic
+Nets x Trailblazers
+Bucks x Hawks
+Knicks x Celtics
+Wizards x Pelicans
+
+Dia 13:
 Bulls x Suns
-pistons x pacers
+Thunder x Raptors
+Pistons x Mavericks
+Cavaliers x Philadelphia 76ers
+Knicks x Hornets
+Lakers x Jazz
+Hawks x Pacers
+Grizzlies x Spurs
+Timberwolves x Magic
+Nets x Nuggets
+
+Dia 14:
+Trailblazers x Clippers
+Kings x Celtics
+Bucks x Warriors
+Heat x Rockets
+Pelicans x Wizards
+Cavaliers x Raptors
+Pistons x Bulls
+Mavericks x Thunder
+Pacers x Knicks
+Suns x Jazz
+
+Dia 15:
+Clippers x Hawks
+Timberwolves x Grizzlies
+Spurs x Warriors
+Philadelphia 76ers x Lakers
+Nets x Hornets
+Kings x Nuggets
+Celtics x Magic
+Wizards x Trailblazers
+Heat x Pelicans
+Rockets x Bucks
+
+Dia 16:
+Knicks x Raptors
+Bulls x Wizards
+Pelicans x Mavericks
+Hornets x Cavaliers
+Trailblazers x Jazz
+Timberwolves x Lakers
+Rockets x Hawks
+Philadelphia 76ers x Magic
+Thunder x Nets
+Clippers x Pacers
+
+Dia 17:
+Celtics x Suns
+Warriors x Grizzlies
+Spurs x Pistons
+Heat x Bucks
+Nuggets x Kings
+Pacers x Cavaliers
+Pelicans x Mavericks
+Jazz x Trailblazers
+Timberwolves x Thunder
+Clippers x Philadelphia 76ers
+
+Dia 18:
+Lakers x Nuggets
+Bulls x Heat
+Spurs x Hawks
+Raptors x Hornets
+Magic x Grizzlies
+Suns x Pistons
+Nets x Bucks
+Warriors x Celtics
+Kings x Rockets
+Wizards x Knicks
+
+Dia 19:
+Cavaliers x Nuggets
+Suns x Mavericks
+Warriors x Jazz
+Raptors x Trailblazers
+Bucks x Philadelphia 76ers
+Pacers x Hornets
+Timberwolves x Grizzlies
+Thunder x Heat
+Bulls x Nets
+Lakers x Clippers
+
+Dia 20:
+Hawks x Spurs
+Pistons x Pelicans
+Magic x Wizards
+Celtics x Knicks
+Rockets x Kings
+Warriors x Timberwolves
+Cavaliers x Grizzlies
+Philadelphia 76ers x Thunder
+Pacers x Bulls
+Mavericks x Suns
+
+Dia 21:
+Raptors x Spurs
+Nuggets x Hornets
+Heat x Magic
+Hawks x Clippers
+Jazz x Pistons
+Lakers x Bucks
+Rockets x Nets
+Knicks x Pelicans
+Celtics x Wizards
+Trailblazers x Kings
+
+Dia 22:
+Suns x Timberwolves
+Warriors x Thunder
+Mavericks x Clippers
+Bulls x Bucks
+Magic x Nuggets
+Hawks x Cavaliers
+Philadelphia 76ers x Celtics
+Raptors x Pacers
+Nets x Hornets
+Grizzlies x Pistons
+
+Dia 23:
+Rockets x Spurs
+Trailblazers x Lakers
+Knicks x Heat
+Kings x Pelicans
+Wizards x Jazz
+Bulls x Warriors
+Timberwolves x Cavaliers
+Magic x Bucks
+Pacers x Philadelphia 76ers
+Hawks x Grizzlies
+
+Dia 24:
+Jazz x Suns
+Pistons x Heat
+Thunder x Rockets
+Clippers x Pelicans
+Wizards x Lakers
+Raptors x Nets
+Nuggets x Trailblazers
+Mavericks x Kings
+Knicks x Celtics
+Spurs x Hornets
+
+Dia 25:
+Warriors x Timberwolves
+Jazz x Suns
+Grizzlies x Knicks
+Cavaliers x Hornets
+Hawks x Trailblazers
+Bucks x Magic
+Kings x Philadelphia 76ers
+Pistons x Celtics
+Pelicans x Thunder
+Bulls x Spurs
+
+Dia 26:
+Nets x Raptors
+Clippers x Rockets
+Wizards x Pacers
+Heat x Mavericks
+Nuggets x Lakers
+Spurs x Timberwolves
+Trailblazers x Warriors
+Suns x Pelicans
+Jazz x Hornets
+Hawks x Magic
+
+Dia 27:
+Bulls x Bucks
+Grizzlies x Heat
+Philadelphia 76ers x Wizards
+Knicks x Pistons
+Thunder x Kings
+Clippers x Cavaliers
+Raptors x Celtics
+Lakers x Nets
+Pacers x Rockets
+Mavericks x Nuggets
+
+Dia 28:
+Warriors x Philadelphia 76ers
+Jazz x Pacers
+Grizzlies x Timberwolves
+Rockets x Suns
+Cavaliers x Trailblazers
+Magic x Clippers
+Hawks x Raptors
+Bulls x Pistons
+Hornets x Heat
+Celtics x Nets
+
+Dia 29:
+Mavericks x Thunder
+Spurs x Lakers
+Pelicans x Knicks
+Bucks x Nuggets
+Kings x Wizards
+Raptors x Timberwolves
+Jazz x Philadelphia 76ers
+Heat x Suns
+Warriors x Hornets
+Hawks x Magic
+
+Dia 30:
+Pelicans x Grizzlies
+Cavaliers x Kings
+Pacers x Thunder
+Clippers x Trailblazers
+Celtics x Nets
+Bulls x Wizards
+Spurs x Mavericks
+Bucks x Pistons
+Rockets x Nuggets
+Knicks x Lakers
+
+Dia 31:
+Thunder x Warriors
+Jazz x Lakers
+Hawks x Philadelphia 76ers
+Suns x Spurs
+Nets x Timberwolves
+Kings x Magic
+Rockets x Hornets
+Bucks x Raptors
+Cavaliers x Knicks
+Heat x Clippers
+
+Dia 32:
+Trailblazers x Grizzlies
+Celtics x Pistons
+Pacers x Nuggets
+Mavericks x Pelicans
+Wizards x Bulls
+Jazz x Thunder
+Lakers x Suns
+Rockets x Timberwolves
+Warriors x Bucks
+Philadelphia 76ers x Knicks
+
+Dia 33:
+Hornets x Bulls
+Wizards x Hawks
+Grizzlies x Kings
+Nets x Raptors
+Magic x Pistons
+Mavericks x Cavaliers
+Trailblazers x Celtics
+Pelicans x Nuggets
+Heat x Spurs
+Pacers x Clippers
+
+Dia 34:
+Jazz x Raptors
+Suns x Thunder
+Warriors x Lakers
+Timberwolves x Bulls
+Philadelphia 76ers x Kings
+Rockets x Cavaliers
+Bucks x Magic
+Wizards x Hornets
+Heat x Hawks
+Pacers x Nets
+
+Dia 35:
+Knicks x Grizzlies
+Clippers x Nuggets
+Pelicans x Trailblazers
+Pistons x Celtics
+Mavericks x Spurs
+Bulls x Jazz
+Magic x Thunder
+Philadelphia 76ers x Cavaliers
+Timberwolves x Raptors
+Lakers x Hornets
+
+Dia 36:
+Trailblazers x Suns
+Nets x Bucks
+Pacers x Grizzlies
+Clippers x Warriors
+Rockets x Heat
+Pelicans x Kings
+Hawks x Knicks
+Spurs x Nuggets
+Celtics x Wizards
+Mavericks x Pistons
+
+Dia 37:
+Pistons x Suns
+Warriors x Trailblazers
+Heat x Jazz
+Pelicans x Lakers
+Nuggets x Thunder
+Bucks x Philadelphia 76ers
+Knicks x Cavaliers
+Spurs x Bulls
+Hornets x Hawks
+Magic x Raptors
+
+Dia 38:
+Clippers x Kings
+Rockets x Mavericks
+Wizards x Grizzlies
+Nets x Pacers
+Timberwolves x Celtics
+Knicks x Suns
+Warriors x Magic
+Hornets x Jazz
+Bucks x Raptors
+Thunder x Nuggets
+
+Dia 39:
+Timberwolves x Lakers
+Bulls x Celtics
+Cavaliers x Hawks
+Wizards x Philadelphia 76ers
+Pelicans x Rockets
+Heat x Grizzlies
+Mavericks x Nets
+Kings x Pistons
+Trailblazers x Clippers
+Pacers x Spurs
+
 Dia 40:
-bucks x heat
-timberwolves x grizzlies
-rockets x pelicans
-Sixers x warriors
-celtics x trailblazers
-pacers x hornets
-knicks x nuggets
-magic x raptors
-Jazz x thunder
-Bulls x nets
+Timberwolves x Heat
+Cavaliers x Suns
+Lakers x Jazz
+Thunder x Wizards
+Clippers x Magic
+Warriors x Nets
+Philadelphia 76ers x Celtics
+Kings x Hawks
+Spurs x Bucks
+Grizzlies x Bulls
+
 Dia 41:
-rockets x grizzlies
-heat x pelicans
-Sixers x nuggets
-nets x warriors
-cavaliers x timberwolves
-pistons x bucks
-Kings x Jazz
-Suns x trailblazers
+Nuggets x Pacers
+Raptors x Pistons
+Mavericks x Knicks
+Rockets x Pelicans
+Trailblazers x Hornets
+Nets x Jazz
+Kings x Thunder
+Suns x Bucks
+Lakers x Warriors
+Cavaliers x Wizards
+
 Dia 42:
-Kings x pelicans
-lakers x trailblazers
+Trailblazers x Magic
+Timberwolves x Nuggets
+Mavericks x Philadelphia 76ers
+Spurs x Raptors
+Heat x Hornets
+Hawks x Pelicans
+Bulls x Celtics
+Rockets x Clippers
+Knicks x Pacers
+Pistons x Thunder
+
 Dia 43:
-timberwolves x thunder
-Sixers x hornets
-bucks x knicks
-nets x pistons
-grizzlies x mavericks
-magic x wizards
-lakers x hawks
-Suns x clippers
-warriors x spurs
-Jazz x pacers
+Suns x Grizzlies
+Rockets x Jazz
+Cavaliers x Pacers
+Lakers x Philadelphia 76ers
+Raptors x Magic
+Kings x Warriors
+Bucks x Celtics
+Nuggets x Pelicans
+Clippers x Nets
+Trailblazers x Timberwolves
+
 Dia 44:
-raptors x bucks
-heat x lakers
-Kings x nuggets
-pistons x celtics
-hawks x rockets
-thunder x wizards
-mavericks x timberwolves
-magic x pacers
-Jazz x spurs
-Suns x cavaliers
+Bulls x Hawks
+Heat x Wizards
+Mavericks x Hornets
+Knicks x Spurs
+Grizzlies x Warriors
+Philadelphia 76ers x Pistons
+Jazz x Nets
+Pacers x Suns
+Thunder x Kings
+Magic x Trailblazers
+
 Dia 45:
-heat x celtics //les
-pelicans x clippers
-knicks x mavericks
-grizzlies x nets
-rockets x Kings
-hawks x hornets
-wizards x raptors
-spurs x nuggets
-lakers x Bulls
-thunder x cavaliers
+Nuggets x Cavaliers
+Timberwolves x Rockets
+Celtics x Lakers
+Bucks x Spurs
+Knicks x Raptors
+Clippers x Wizards
+Hawks x Pistons
+Pelicans x Hornets
+Heat x Bulls
+Mavericks x Grizzlies
+
 Dia 46:
-cavaliers x Sixers
-pistons x knicks
-trailblazers x warriors
-hornets x celtics
-mavericks x magic
-raptors x hawks
-wizards x Bulls
-spurs x pacers
-clippers x Suns
-Dia 46:
-lakers x rockets
-Dia 46:
-nuggets x grizzlies
-Dia 46:
-pelicans x Jazz
-Dia 46:
-thunder x Kings
+Thunder x Suns
+Lakers x Kings
+Hornets x Cavaliers
+Pacers x Warriors
+Grizzlies x Jazz
+Magic x Bucks
+Nuggets x Hawks
+Knicks x Timberwolves
+Mavericks x Raptors
+Nets x Wizards
 
 Dia 47:
-bucks x raptors
-timberwolves x hornets
-celtics x heat
-Sixers x nets
-pacers x nuggets
-knicks x grizzlies
-clippers x thunder
-warriors x rockets
-Jazz x pelicans
-Bulls x magic
-Dia 47:
-Suns x mavericks
-Dia 47:
-Kings x trailblazers
-Dia 47:
-cavaliers x hawks
-Dia 47:
-wizards x pistons
+Celtics x Trailblazers
+Philadelphia 76ers x Clippers
+Bulls x Rockets
+Heat x Pistons
+Spurs x Pelicans
+Lakers x Cavaliers
+Nuggets x Grizzlies
+Thunder x Bucks
+Hawks x Nets
+Wizards x Magic
 
 Dia 48:
-heat x bucks
-nuggets x trailblazers
-Sixers x timberwolves
-pistons x nets
-grizzlies x warriors
-Suns x rockets
-pelicans x Bulls
-Jazz x Kings
-
-magic x knicks
-
-hornets x lakers
-
-cavaliers x clippers
-
-raptors x wizards
-
-pacers x mavericks
+Suns x Philadelphia 76ers
+Rockets x Jazz
+Pacers x Heat
+Celtics x Warriors
+Mavericks x Kings
+Trailblazers x Timberwolves
+Knicks x Bulls
+Raptors x Pelicans
+Clippers x Spurs
+Pistons x Hornets
 
 Dia 49:
-lakers x cavaliers
-pelicans x Kings
-Dia 49:
-Bulls x celtics
-Dia 49:
-rockets x raptors
-Dia 49:
-Sixers x thunder
-Dia 49:
-bucks x clippers
-Dia 49:
-Suns x warriors
-Dia 49:
-spurs x grizzlies
-Dia 49:
-pistons x knicks
-Dia 49:
-nuggets x heat
-Dia 49:
-Jazz x timberwolves
+Suns x Heat
+Hawks x Cavaliers
+Spurs x Thunder
+Nets x Lakers
+Magic x Rockets
+Pacers x Philadelphia 76ers
+Trailblazers x Jazz
+Hornets x Nuggets
+Warriors x Knicks
+Pistons x Bucks
+
 Dia 50:
-mavericks x bucks
-spurs x trailblazers
-Sixers x pacers
-knicks x lakers
-warriors x hawks
-clippers x grizzlies
-thunder x hornets
-pistons x magic
-timberwolves x Jazz
-wizards x nets
-Dia 50:
-nuggets x rockets
+Kings x Grizzlies
+Timberwolves x Wizards
+Celtics x Bulls
+Pelicans x Raptors
+Mavericks x Clippers
+Spurs x Suns
+Nuggets x Thunder
+Philadelphia 76ers x Jazz
+Hawks x Bucks
+Heat x Nets
+
 Dia 51:
-timberwolves x celtics
-heat x wizards
-hawks x trailblazers
-nuggets x pistons
-mavericks x Suns
-rockets x magic
-bucks x thunder
-raptors x spurs
-cavaliers x pacers
-Jazz x lakers
-Dia 51:
-Sixers x pelicans
+Cavaliers x Bulls
+Raptors x Rockets
+Grizzlies x Lakers
+Celtics x Magic
+Mavericks x Trailblazers
+Wizards x Warriors
+Pacers x Pistons
+Knicks x Kings
+Timberwolves x Clippers
+Hornets x Pelicans
+
 Dia 52:
-grizzlies x celtics
-mavericks x nets
-knicks x raptors
-Kings x clippers
-rockets x nuggets
-pelicans x wizards
-Suns x thunder
-heat x Bulls
-hawks x lakers
-cavaliers x hornets
-Dia 52:
-timberwolves x warriors
-Dia 52:
-pacers x bucks
-Dia 52:
-pistons x trailblazers
+Lakers x Spurs
+Heat x Nuggets
+Nets x Philadelphia 76ers
+Jazz x Magic
+Kings x Cavaliers
+Trailblazers x Suns
+Clippers x Thunder
+Rockets x Mavericks
+Pacers x Hawks
+Warriors x Bulls
+
 Dia 53:
-Sixers x spurs
-Bulls x knicks
-celtics x pistons
-magic x hawks
-clippers x warriors
-hornets x pacers
-Suns x mavericks
-cavaliers x trailblazers
-Kings x wizards
-Dia 53:
-lakers x Jazz
-Dia 53:
-nets x rockets
+Celtics x Hornets
+Knicks x Bucks
+Raptors x Wizards
+Pelicans x Grizzlies
+Timberwolves x Pistons
+Nuggets x Clippers
+Cavaliers x Mavericks
+Pacers x Nets
+Jazz x Warriors
+Thunder x Spurs
+
 Dia 54:
-timberwolves x nuggets
-Bulls x Sixers
-pacers x nets
-raptors x heat
-celtics x pelicans
-hornets x rockets
-knicks x bucks
-Jazz x warriors
-magic x grizzlies
-spurs x clippers
-Dia 54:
-lakers x thunder
+Philadelphia 76ers x Hornets
+Suns x Knicks
+Lakers x Raptors
+Trailblazers x Bucks
+Magic x Pistons
+Celtics x Heat
+Kings x Pelicans
+Grizzlies x Rockets
+Wizards x Hawks
+Bulls x Timberwolves
+
 Dia 55:
-bucks x Bulls
-timberwolves x nuggets
-grizzlies x trailblazers
-raptors x Sixers
-thunder x heat
-pelicans x pistons
-warriors x rockets
-Suns x Kings
-Jazz x nets
-Dia 55:
-magic x clippers
-Dia 55:
-knicks x pacers
+Pelicans x Cavaliers
+Hornets x Philadelphia 76ers
+Nets x Spurs
+Nuggets x Celtics
+Jazz x Hawks
+Rockets x Lakers
+Bucks x Kings
+Timberwolves x Thunder
+Grizzlies x Trailblazers
+Raptors x Pacers
+
 Dia 56:
-cavaliers x pelicans
-lakers x Kings
-Dia 56:
-wizards x Sixers
-Dia 56:
-knicks x bucks
-Dia 56:
-spurs x rockets
-Dia 56:
-raptors x warriors
-Dia 56:
-magic x Suns
-Dia 56:
-hawks x grizzlies
-Dia 56:
-trailblazers x thunder
+Magic x Bulls
+Warriors x Wizards
+Heat x Knicks
+Clippers x Mavericks
+Pistons x Nets
+Nuggets x Suns
+Celtics x Jazz
+Thunder x Hawks
+Pacers x Pelicans
+Raptors x Lakers
 
 Dia 57:
-bucks x wizards
-clippers x lakers
-grizzlies x timberwolves
-hornets x nets
-spurs x trailblazers
-magic x hawks
-mavericks x Sixers
-pacers x warriors
-Jazz x thunder
-knicks x pistons
-Dia 58:
-lakers x celtics
-heat x bucks
-nuggets x Suns
-trailblazers x mavericks
-raptors x timberwolves
-pistons x cavaliers
-hawks x thunder
-magic x spurs
-wizards x rockets
-pacers x Jazz
-Dia 59:
-hornets x nuggets
-rockets x clippers
-celtics x cavaliers
-heat x hawks
-nets x Bulls
-raptors x Suns
-Kings x mavericks
-thunder x pelicans
-lakers x grizzlies
-knicks x wizards
-Dia 59:
-warriors x Jazz
-Dia 60:
-celtics x pacers
-Kings x hornets
-pistons x mavericks
-Sixers x cavaliers
-warriors x spurs
-hawks x magic
-trailblazers x clippers
-knicks x Suns
-Dia 60:
-bucks x Bulls
-Dia 61:
-Sixers x celtics
-wizards x bucks
-nuggets x warriors
-spurs x heat
-hornets x magic
-clippers x rockets
-Bulls x raptors
-timberwolves x pelicans
-grizzlies x pacers
-Jazz x knicks
-Dia 61:
-nets x cavaliers
-Dia 61:
-Kings x thunder
-Dia 62:
-warriors x nuggets
-rockets x heat
-thunder x trailblazers
-Bulls x bucks
-nets x timberwolves
-Suns x grizzlies
-raptors x Jazz
-pistons x Kings
-pelicans x Sixers
-Dia 62:
-hawks x knicks
-Dia 63:
-Bulls x lakers
-nets x cavaliers
-pelicans x Kings
-Dia 63:
-bucks x hawks
-Dia 63:
-pistons x warriors
-Dia 64:
-clippers x mavericks
-lakers x pacers
-hawks x nets
-bucks x hornets
-trailblazers x spurs
-wizards x Sixers
-Jazz x timberwolves
-grizzlies x thunder
-knicks x magic
-warriors x pistons
-Dia 65:
-pacers x celtics
-nuggets x rockets
-Jazz x mavericks
-wizards x heat
-spurs x lakers
-timberwolves x hawks
-pistons x bucks
-Suns x thunder
-cavaliers x raptors
-trailblazers x magic
-Dia 66:
-cavaliers x nuggets
-hornets x Bulls
-mavericks x rockets
-hawks x celtics
-Kings x clippers
-heat x knicks
-raptors x nets
-pelicans x thunder
-grizzlies x Suns
-Dia 66:
-bucks x lakers
-Dia 67:
-cavaliers x Sixers
-Kings x spurs
-lakers x mavericks
-celtics x hornets
-hawks x warriors
-pacers x knicks
-clippers x trailblazers
-Suns x wizards
-pistons x magic
-Dia 68:
-heat x warriors
-celtics x nuggets
-raptors x pacers
-spurs x Bulls
-bucks x Jazz
-hornets x timberwolves
-pelicans x knicks
-rockets x grizzlies
-wizards x magic
-Sixers x clippers
-Dia 69:
-nuggets x pelicans
-trailblazers x heat
-Bulls x thunder
-bucks x nets
-Kings x grizzlies
-Sixers x raptors
-pistons x timberwolves
-rockets x Jazz
-warriors x Suns
-Dia 70:
-cavaliers x nets
-Kings x Bulls
-Dia 70:
-mavericks x pelicans
-Dia 71:
-nets x magic
-mavericks x clippers
-timberwolves x lakers
-hawks x Sixers
-bucks x pacers
-spurs x pistons
-trailblazers x grizzlies
-warriors x hornets
-thunder x Jazz
-knicks x pelicans
-Dia 72:
-nuggets x lakers
-cavaliers x celtics
-thunder x rockets
-hawks x bucks
-Jazz x mavericks
-heat x Suns
-pacers x magic
-trailblazers x spurs
-wizards x timberwolves
-pistons x raptors
-Dia 73:
-nuggets x cavaliers
-Kings x celtics
-pelicans x mavericks
-hornets x heat
-lakers x clippers
-thunder x Bulls
-raptors x hawks
-Suns x knicks
-nets x wizards
-grizzlies x rockets
-Dia 74:
-celtics x Sixers //les
-clippers x Kings
-Suns x hornets
-mavericks x pacers
-warriors x cavaliers
-wizards x hawks
-lakers x magic
-knicks x spurs
-trailblazers x pistons
-Dia 75:
-nuggets x Sixers
-celtics x clippers
-knicks x raptors
-grizzlies x heat
-spurs x bucks
-timberwolves x Jazz
-magic x pelicans
-warriors x pacers
-Bulls x Hornets //ig
-rockets x wizards
-Dia 76:
- nuggets x timberwolves //Aqui
-nets x trailblazers
-heat x thunder
-raptors x grizzlies
-pelicans x warriors
-Sixers x Bulls
-rockets x pistons
-Jazz x Suns
-Kings x bucks
-Dia 77:
-nets x Kings
-cavaliers x Bulls
-Dia 77:
-trailblazers x pelicans
-Dia 78:
-Sixers x nets
-pacers x thunder
-pelicans x spurs
-Jazz x trailblazers
-clippers x lakers
-hornets x pistons
-mavericks x hawks
-bucks x warriors
-timberwolves x knicks
-grizzlies x magic
-Dia 79:
-celtics x cavaliers
-nuggets x thunder
-trailblazers x rockets
-hawks x raptors
-Suns x lakers
-pistons x heat
-bucks x pacers
-spurs x timberwolves
-wizards x magic
-mavericks x Jazz
-Dia 80:
-celtics x hawks
-raptors x clippers
-cavaliers x rockets
-nuggets x wizards
-hornets x heat
-thunder x grizzlies
-Bulls x knicks
-Kings x mavericks
-Suns x pelicans
-nets x lakers
-Dia 81:
-pacers x celtics
-clippers x cavaliers
-trailblazers x Kings
-spurs x warriors
-hawks x wizards
-Sixers x knicks
-hornets x mavericks
-Suns x lakers
-magic x pistons
-Dia 82:
-pelicans x nuggets //aqui
-Bulls x spurs
-celtics x magic
-pacers x Sixers
+Philadelphia 76ers x Wizards
+Suns x Hornets
+Cavaliers x Pistons
+Warriors x Spurs
+Knicks x Rockets
+Bucks x Timberwolves
+Mavericks x Magic
+Clippers x Kings
+Trailblazers x Grizzlies
+Bulls x Heat
 
-wizards x warriors
-heat x Jazz
-timberwolves x grizzlies
-rockets x bucks
+Dia 58:
+Nuggets x Jazz
+Nets x Pacers
+Bulls x Cavaliers
+Thunder x Lakers
+Celtics x Raptors
+Hornets x Knicks
+Grizzlies x Suns
+Pelicans x Warriors
+Heat x Hawks
+Magic x Philadelphia 76ers
+
+Dia 59:
+Bucks x Trailblazers
+Spurs x Kings
+Rockets x Pistons
+Mavericks x Timberwolves
+Wizards x Clippers
+Nuggets x Jazz
+Bulls x Lakers
+Nets x Thunder
+Cavaliers x Knicks
+Magic x Hornets
+
+Dia 60:
+Pacers x Bucks
+Hawks x Celtics
+Kings x Suns
+Heat x Raptors
+Warriors x Grizzlies
+Mavericks x Timberwolves
+Philadelphia 76ers x Rockets
+Clippers x Pelicans
+Wizards x Spurs
+Trailblazers x Pistons
+
+Dia 61:
+Philadelphia 76ers x Nuggets
+Magic x Lakers
+Spurs x Jazz
+Nets x Grizzlies
+Raptors x Cavaliers
+Bucks x Celtics
+Hornets x Hawks
+Heat x Pacers
+Rockets x Thunder
+
+Dia 62:
+Timberwolves x Suns
+Trailblazers x Mavericks
+Warriors x Clippers
+Bulls x Knicks
+Pelicans x Kings
+Pistons x Wizards
+Grizzlies x Nuggets
+Spurs x Jazz
+Thunder x Philadelphia 76ers
+
+Dia 63:
+Cavaliers x Magic
+Bucks x Lakers
+Nets x Pelicans
+Celtics x Hornets
+Pistons x Hawks
+Warriors x Raptors
+Heat x Pacers
+Timberwolves x Mavericks
+Rockets x Trailblazers
+
+Dia 64:
+Kings x Suns
+Bulls x Knicks
+Clippers x Jazz
+Wizards x Nets
+Nuggets x Trailblazers
+Magic x Cavaliers
+Lakers x Thunder
+Bucks x Hornets
+Celtics x Pacers
+
+Dia 65:
+Knicks x Philadelphia 76ers
+Spurs x Heat
+Pistons x Hawks
+Warriors x Pelicans
+Grizzlies x Kings
+Rockets x Wizards
+Bulls x Mavericks
+Raptors x Clippers
+Timberwolves x Suns
+
+Dia 66:
+Hawks x Nuggets
+Magic x Knicks
+Pelicans x Jazz
+Grizzlies x Thunder
+Kings x Hornets
+Lakers x Timberwolves
+Celtics x Raptors
+Heat x Nets
+Pistons x Cavaliers
+
+Dia 67:
+Bucks x Suns
+Bulls x Philadelphia 76ers
+Trailblazers x Warriors
+Spurs x Rockets
+Mavericks x Wizards
+Pacers x Jazz
+Celtics x Clippers
+Nuggets x Grizzlies
+Kings x Lakers
+
+Dia 68:
+Wizards x Magic
+Thunder x Timberwolves
+Raptors x Philadelphia 76ers
+Hornets x Pacers
+Pelicans x Nets
+Trailblazers x Hawks
+Heat x Cavaliers
+Bucks x Knicks
+Bulls x Pistons
+
+Dia 69:
+Rockets x Warriors
+Clippers x Suns
+Mavericks x Spurs
+Raptors x Jazz
+Nuggets x Philadelphia 76ers
+Thunder x Grizzlies
+Celtics x Knicks
+Cavaliers x Nets
+Magic x Kings
+
+Dia 70:
+Hornets x Heat
+Mavericks x Hawks
+Lakers x Trailblazers
+Wizards x Bucks
+Rockets x Pelicans
+Pistons x Warriors
+Bulls x Pacers
+Clippers x Timberwolves
+Suns x Spurs
+
+Dia 71:
+Hawks x Jazz
+Mavericks x Nuggets
+Thunder x Trailblazers
+Magic x Raptors
+Grizzlies x Hornets
+Nets x Pistons
+Wizards x Cavaliers
+Kings x Spurs
+Clippers x Lakers
+
+Dia 72:
+Pelicans x Warriors
+Philadelphia 76ers x Bucks
+Rockets x Knicks
+Celtics x Heat
+Timberwolves x Pacers
+Suns x Jazz
+Trailblazers x Bulls
+Grizzlies x Nuggets
+Magic x Mavericks
+
+Dia 73:
+Thunder x Pacers
+Raptors x Pistons
+Hornets x Bucks
+Heat x Cavaliers
+Knicks x Nets
+Kings x Warriors
+Suns x Pelicans
+Wizards x Celtics
+Spurs x Philadelphia 76ers
+
+Dia 74:
+Lakers x Clippers
+Hawks x Bulls
+Rockets x Timberwolves
+Celtics x Nuggets
+Pelicans x Jazz
+Trailblazers x Thunder
+Spurs x Magic
+Heat x Raptors
+Cavaliers x Bucks
+
+Dia 75:
+Hawks x Hornets
+Philadelphia 76ers x Nets
+Pistons x Lakers
+Clippers x Warriors
+Rockets x Grizzlies
+Kings x Bulls
+Timberwolves x Mavericks
+Suns x Wizards
+Knicks x Pacers
+
+Dia 76:
+Timberwolves x Jazz
+Kings x Nuggets
+Rockets x Magic
+Pacers x Raptors
+Thunder x Trailblazers
+Hawks x Pistons
+Bucks x Grizzlies
+Hornets x Nets
+Cavaliers x Lakers
+
+Dia 77:
+Philadelphia 76ers x Heat
+Mavericks x Pelicans
+Clippers x Celtics
+Wizards x Bulls
+Spurs x Knicks
+Warriors x Suns
+Nuggets x Timberwolves
+Pacers x Cavaliers
+Raptors x Magic
+
+Dia 78:
+Thunder x Clippers
+Jazz x Pelicans
+Hornets x Kings
+Hawks x Heat
+Trailblazers x Knicks
+Pistons x Bucks
+Lakers x Mavericks
+Warriors x Rockets
+Celtics x Philadelphia 76ers
+
+Dia 79:
+Nets x Wizards
+Spurs x Grizzlies
+Nuggets x Suns
+Hornets x Bulls
+Jazz x Timberwolves
+Pacers x Magic
+Kings x Heat
+Philadelphia 76ers x Raptors
+Hawks x Thunder
+
+Dia 80:
+Wizards x Cavaliers
+Grizzlies x Pelicans
+Clippers x Bucks
+Rockets x Suns
+Nets x Celtics
+Mavericks x Lakers
+Pistons x Bulls
+Spurs x Trailblazers
+Knicks x Warriors
+
+Dia 81:
+Jazz x Pelicans
+Warriors x Nuggets
+Magic x Suns
+Hornets x Mavericks
+Raptors x Cavaliers
+Philadelphia 76ers x Trailblazers
+Nets x Hawks
+Wizards x Bucks
+Heat x Knicks
+
+Dia 82:
+Grizzlies x Pacers
+Thunder x Spurs
+Lakers x Rockets
+Celtics x Timberwolves
+Bulls x Kings
+Clippers x Pistons
+Knicks x Magic
+Trailblazers x Philadelphia 76ers
+Raptors x Bucks
+
 Dia 83:
-nuggets x Suns
-pelicans x trailblazers
-Jazz x raptors
-nets x heat
-thunder x Kings
-Sixers x Bulls
-pistons x rockets
-timberwolves x warriors
-clippers x grizzlies
-bucks x knicks
+Jazz x Thunder
+Nuggets x Timberwolves
+Pacers x Hornets
+Pelicans x Clippers
+Grizzlies x Hawks
+Cavaliers x Celtics
+Warriors x Kings
+Mavericks x Rockets
+Pistons x Nets
+
 Dia 84:
-Bulls x nets
-Dia 84:
-Jazz x Kings
+Wizards x Heat
+Spurs x Lakers
+Suns x Hawks
+Bulls x Philadelphia 76ers
+Thunder x Jazz
+Pistons x Raptors
+Trailblazers x Nuggets
+Bucks x Cavaliers
+Clippers x Hornets
+
 Dia 85:
-nets x magic
-cavaliers x pacers
-hornets x Jazz
-mavericks x trailblazers
-pelicans x warriors
-clippers x thunder
-Sixers x bucks
-grizzlies x spurs
-timberwolves x Kings
-lakers x knicks
+Magic x Wizards
+Nets x Kings
+Suns x Celtics
+Heat x Warriors
+Lakers x Mavericks
+Rockets x Grizzlies
+Pelicans x Timberwolves
+Pacers x Bulls
+Philadelphia 76ers x Knicks
+
 Dia 86:
-lakers x nuggets
-cavaliers x spurs
-Suns x celtics
-raptors x bucks
-magic x thunder
-trailblazers x timberwolves
-rockets x mavericks
-wizards x hawks
-pacers x heat
-Jazz x pistons
+Spurs x Nuggets
+Jazz x Celtics
+Thunder x Magic
+Cavaliers x Raptors
+Hawks x Hornets
+Pelicans x Clippers
+Kings x Trailblazers
+Pistons x Rockets
+Bucks x Pacers
+
 Dia 87:
-nuggets x mavericks
-celtics x hornets
-thunder x Suns
-clippers x raptors
-nets x heat
-pelicans x rockets
-cavaliers x knicks
-wizards x Kings
-hawks x Bulls
-pistons x grizzlies
+Wizards x Heat
+Grizzlies x Lakers
+Timberwolves x Nets
+Knicks x Bulls
+Spurs x Warriors
+Suns x Mavericks
+Jazz x Trailblazers
+Raptors x Thunder
+Nuggets x Pelicans
+
 Dia 88:
-celtics x lakers
-cavaliers x magic
-pacers x clippers
-warriors x trailblazers
-Sixers x hornets
-hawks x mavericks
-wizards x spurs
-Kings x knicks
+Philadelphia 76ers x Heat
+Pistons x Cavaliers
+Wizards x Hornets
+Hawks x Knicks
+Celtics x Pacers
+Suns x Magic
+Mavericks x Bucks
+Nets x Clippers
+Warriors x Rockets
+
 Dia 89:
-nuggets x grizzlies
-rockets x spurs
-Sixers x celtics
-Bulls x magic
-pacers x raptors
-timberwolves x Suns
-hawks x hornets
-lakers x heat
-Jazz x pelicans
-warriors x wizards
+Kings x Timberwolves
+Bulls x Grizzlies
+Lakers x Nuggets
+Cavaliers x Spurs
+Jazz x Clippers
+Hawks x Philadelphia 76ers
+Thunder x Hornets
+Magic x Heat
+Pacers x Raptors
+
 Dia 90:
-trailblazers x raptors
-Dia 90:
-Jazz x grizzlies
-Dia 90:
-clippers x knicks
-Dia 90:
-timberwolves x wizards
-Dia 90:
-pacers x Bulls
-Dia 90:
-mavericks x hornets
-Dia 90:
-Kings x pistons
-Dia 90:
-lakers x Suns
-Dia 90:
-hawks x heat
-Dia 90:
-spurs x Sixers
-Dia 90:
-warriors x pelicans
-Dia 90:
-celtics x nets
-Dia 90:
-cavaliers x bucks
-Dia 90:
-nuggets x magic
-Dia 90:
-rockets x thunder
+Kings x Knicks
+Lakers x Trailblazers
+Wizards x Rockets
+Celtics x Bucks
+Timberwolves x Warriors
+Bulls x Pelicans
+Suns x Nets
+Pistons x Spurs
+Grizzlies x Mavericks
 
 Dia 91:
-warriors x nuggets
-raptors x nets
-thunder x rockets
-clippers x pelicans
-timberwolves x trailblazers
-knicks x Bulls
-grizzlies x Jazz
-bucks x Suns
-Sixers x Heat //les
-Dia 92:
-Kings x magic
-mavericks x trailblazers
-cavaliers x warriors
-clippers x pacers
-spurs x Nets
-hornets x Sixers
-Bulls x Jazz
-lakers x timberwolves
-pelicans x grizzlies
-thunder x bucks
-Dia 93:
-magic x celtics
-rockets x spurs
-Suns x nuggets
-raptors x cavaliers
-mavericks x heat
-Kings x thunder
-wizards x trailblazers
-Hawks x pacers 
-pistons x nets
-lakers x Jazz
-Dia 94:
-clippers x celtics
-thunder x nuggets
-nets x raptors
-Suns x rockets
-java src/ pelicans x heat
-bucks Mainx hawks
-timberwolves x cavaliers
-mavericks x pistons
-wizards x grizzlies
-hornets x knicks
-Dia 95:
-magic x Kings
-clippers x spurs
-mavericks x celtics
-trailblazers x warriors
-pacers x wizards
-Bulls x hawks
-cavaliers x pistons
-Sixers x knicks
-bucks x hornets
-Dia 96:
-Jazz x celtics
-magic x heat
-spurs x pelicans
-pacers x grizzlies
-nuggets x warriors
-raptors x Bulls //ig
-timberwolves x rockets
-pistons x hornets
-wizards x knicks
-lakers x Suns
-Dia 97:
-nets x clippers
-bucks x magic
-pacers x timberwolves
-pelicans x nuggets
-celtics x knicks
-spurs x mavericks
-heat x cavaliers
-rockets x thunder
-trailblazers x Jazz
-Bulls x hawks
-Dia 98:
-Jazz x clippers
-wizards x nets
-hornets x trailblazers
-raptors x Bulls
-Sixers x rockets
-hawks x nuggets
-Kings x warriors
-grizzlies x Suns
-heat x pistons
-thunder x timberwolves
-Dia 99:
-magic x Bulls
-Kings x pacers
-trailblazers x clippers
-lakers x Spurs
-nets x bucks
-mavericks x thunder
-Suns x Jazz
-grizzlies x Sixers
-hornets x raptors //ig
-knicks x warriors
-Dia 100:
-pacers x hawks
-nets x wizards
-heat x celtics
-spurs x nuggets
-raptors x rockets
-mavericks x Suns
-pistons x cavaliers
-thunder x magic
-Kings x warriors
-Sixers x Jazz
-Dia 101:
-hawks x nets
-clippers x nuggets
-raptors x heat
-pistons x celtics
-Kings x rockets
-hornets x wizards
-timberwolves x mavericks //aqui
-Suns x pelicans
-grizzlies x cavaliers
-Sixers x lakers
-Dia 102:
-magic x hornets
-pacers x Bulls
-hawks x spurs
-warriors x Kings
-bucks x wizards
-pistons x Sixers
-cavaliers x celtics
-lakers x grizzlies
-clippers x timberwolves
-knicks x thunder
-Dia 103:
-knicks x pacers
-celtics x Bulls
-spurs x cavaliers
-raptors x trailblazers
-Suns x Jazz
-wizards x hornets
-magic x lakers
-warriors x heat
-grizzlies x timberwolves
-rockets x pelicans
-Dia 104:
-nets x Bulls
-clippers x spurs
-pacers x cavaliers
-thunder x nuggets
-Jazz x rockets
-trailblazers x hawks
-magic x bucks
-heat x knicks
-timberwolves x pelicans
-lakers x pistons
-Dia 105:
-nets x knicks
-pistons x Bulls
-trailblazers x nuggets
-wizards x raptors
-rockets x clippers
-warriors x Sixers
-mavericks x Kings
-heat x grizzlies
-hawks x pelicans
-celtics x Bucks
-Dia 106
-nets x pelicans
-spurs x grizzlies
-thunder x pacers
-magic x raptors
-trailblazers x nuggets
-warriors x lakers
-clippers x Jazz
-Bulls x Sixers
-timberwolves x Kings
-hornets x Suns
-Dia 107:
-wizards x pacers
-trailblazers x nets
-cavaliers x heat
-spurs x celtics
-rockets x knicks
-nuggets x hornets
-pistons x Sixers
-Suns x raptors
-warriors x mavericks
-hawks x Jazz
-Dia 108:
-nets x nuggets
-hornets x cavaliers
-wizards x clippers
-Sixers x mavericks
-bucks x heat
-rockets x timberwolves
-Kings x grizzlies
-thunder x lakers
-celtics x hawks
-pelicans x raptors
-Dia 109:
-lakers x spurs
-pacers x pistons
-celtics x Bulls
-cavaliers x bucks
-clippers x Suns
-hornets x Sixers
-warriors x magic
-grizzlies x wizards
-timberwolves x mavericks
-knicks x Jazz
-Dia 110:
-Bulls x pelicans
-hornets x Pistons
-cavaliers x lakers
-heat x trailblazers
-spurs x wizards
-rockets x pacers
-warriors x timberwolves
-knicks x celtics
-mavericks x grizzlies
-bucks x Kings
+Jazz x Nuggets
+Cavaliers x Thunder
+Raptors x Wizards
+Celtics x Philadelphia 76ers
+Heat x Kings
+Hornets x Rockets
+Warriors x Hawks
+Magic x Knicks
+Suns x Lakers
 
+Dia 92:
+Trailblazers x Pacers
+Grizzlies x Clippers
+Bucks x Nets
+Timberwolves x Pelicans
+Spurs x Mavericks
+Rockets x Bulls
+Pistons x Hornets
+Jazz x Knicks
+Wizards x Nuggets
+
+Dia 93:
+Cavaliers x Clippers
+Philadelphia 76ers x Warriors
+Thunder x Timberwolves
+Pacers x Celtics
+Magic x Hawks
+Lakers x Pelicans
+Raptors x Heat
+Kings x Bucks
+Mavericks x Trailblazers
+
+Dia 94:
+Suns x Grizzlies
+Nets x Pistons
+Spurs x Clippers
+Pelicans x Bulls
+Jazz x Mavericks
+Knicks x Cavaliers
+Raptors x Hornets
+Rockets x Nuggets
+Thunder x Celtics
+
+Dia 95:
+Philadelphia 76ers x Nets
+Pacers x Hawks
+Timberwolves x Bucks
+Pistons x Heat
+Warriors x Trailblazers
+Grizzlies x Suns
+Kings x Lakers
+Bulls x Magic
+Spurs x Wizards
+
+Dia 96:
+Jazz x Rockets
+Cavaliers x Pacers
+Clippers x Thunder
+Hornets x Bucks
+Knicks x Hawks
+Nuggets x Raptors
+Nets x Heat
+Celtics x Pelicans
+Philadelphia 76ers x Mavericks
+
+Dia 97:
+Timberwolves x Spurs
+Warriors x Pistons
+Suns x Kings
+Bulls x Trailblazers
+Grizzlies x Magic
+Lakers x Wizards
+Jazz x Clippers
+Cavaliers x Rockets
+Philadelphia 76ers x Raptors
+
+Dia 98:
+Hornets x Wizards
+Thunder x Suns
+Nets x Knicks
+Trailblazers x Nuggets
+Hawks x Celtics
+Bucks x Heat
+Lakers x Pacers
+Pelicans x Magic
+Timberwolves x Kings
+
+Dia 99:
+Mavericks x Warriors
+Spurs x Grizzlies
+Pistons x Raptors
+Bucks x Bulls
+Magic x Jazz
+Thunder x Cavaliers
+Hornets x Wizards
+Pelicans x Suns
+Philadelphia 76ers x Hawks
+
+Dia 100:
+Mavericks x Rockets
+Knicks x Nets
+Clippers x Lakers
+Pacers x Celtics
+Timberwolves x Trailblazers
+Nuggets x Spurs
+Warriors x Heat
+Kings x Grizzlies
+Philadelphia 76ers x Pistons
+
+Dia 101:
+Bulls x Hornets
+Grizzlies x Jazz
+Cavaliers x Hawks
+Raptors x Celtics
+Thunder x Warriors
+Magic x Nets
+Nuggets x Knicks
+Pacers x Wizards
+Bucks x Clippers
+
+Dia 102:
+Lakers x Rockets
+Spurs x Pelicans
+Timberwolves x Trailblazers
+Mavericks x Heat
+Suns x Kings
+Pistons x Philadelphia 76ers
+Bulls x Thunder
+Jazz x Grizzlies
+Cavaliers x Wizards
+
+Dia 103:
+Raptors x Hawks
+Knicks x Hornets
+Celtics x Bucks
+Suns x Clippers
+Nets x Magic
+Mavericks x Pacers
+Spurs x Rockets
+Lakers x Pistons
+Trailblazers x Pelicans
+
+Dia 104:
+Heat x Timberwolves
+Nuggets x Warriors
+Hawks x Kings
+Bulls x Raptors
+Jazz x Mavericks
+Suns x Cavaliers
+Hornets x Lakers
+Bucks x Thunder
+Grizzlies x Rockets
+
+Dia 105:
+Nets x Knicks
+Heat x Wizards
+Spurs x Celtics
+Kings x Clippers
+Pacers x Pistons
+Magic x Warriors
+Philadelphia 76ers x Pelicans
+Timberwolves x Nuggets
+Trailblazers x Thunder
+
+Dia 106:
+Bulls x Pacers
+Jazz x Timberwolves
+Raptors x Philadelphia 76ers
+Hornets x Magic
+Cavaliers x Pelicans
+Nuggets x Wizards
+Suns x Clippers
+Bucks x Heat
+Nets x Celtics
+
+Dia 107:
+Knicks x Hawks
+Spurs x Trailblazers
+Rockets x Lakers
+Warriors x Kings
+Grizzlies x Mavericks
+Hornets x Pistons
+Nets x Bulls
+Jazz x Bucks
+Raptors x Heat
+
+Dia 108:
+Lakers x Thunder
+Magic x Hawks
+Philadelphia 76ers x Cavaliers
+Pelicans x Celtics
+Clippers x Suns
+Knicks x Nuggets
+Trailblazers x Rockets
+Warriors x Pacers
+Wizards x Mavericks
+
+Dia 109:
+Spurs x Timberwolves
+Pistons x Kings
+Grizzlies x Raptors
+Hawks x Bulls
+Hornets x Knicks
+Nets x Cavaliers
+Warriors x Thunder
+Magic x Heat
+Clippers x Jazz
+
+Dia 110:
+Grizzlies x Pelicans
+Suns x Rockets
+Bucks x Mavericks
+Trailblazers x Spurs
+Philadelphia 76ers x Timberwolves
+Pistons x Pacers
+Nuggets x Lakers
+Celtics x Bulls
+Wizards x Kings
 
 Dia 111:
-nets x Suns
-nuggets x spurs
-Bulls x rockets
-hawks x cavaliers
-knicks x heat
-Jazz x trailblazers
-pacers x raptors
-clippers x pelicans
-lakers x Kings
-bucks x timberwolves
-Dia 112:
-pelicans x nets
-magic x nuggets
-Bulls x heat
-warriors x clippers
-trailblazers x knicks
-wizards x pistons
-raptors x celtics
-rockets x Sixers
-Jazz x Suns
-hawks x bucks
-Dia 113:
-nuggets x timberwolves
-hawks x Bulls
-Kings x nets
-clippers x Sixers
-hornets x grizzlies
-warriors x Jazz
-lakers x raptors
-spurs x thunder
-pistons x pelicans
-trailblazers x mavericks
-Dia 114:
-cavaliers x Suns
-spurs x Kings
-magic x wizards
-thunder x warriors
-mavericks x nuggets
-trailblazers x Sixers
-heat x raptors
-grizzlies x hornets
-hawks x pacers
-rockets x nets
-Dia 115:
-nuggets x lakers
-pelicans x cavaliers
-heat x timberwolves
-clippers x hornets
-Suns x nets
-magic x Sixers
-Kings x rockets
-wizards x celtics
-bucks x raptors
-pacers x hawks
+Raptors x Knicks
+Hornets x Thunder
+Hawks x Timberwolves
+Celtics x Cavaliers
+Nets x Heat
+Kings x Jazz
+Clippers x Spurs
+Grizzlies x Philadelphia 76ers
+Trailblazers x Rockets
 
+Dia 112:
+Suns x Lakers
+Magic x Pelicans
+Nuggets x Mavericks
+Pacers x Bucks
+Pistons x Wizards
+Hornets x Warriors
+Cavaliers x Bulls
+Thunder x Grizzlies
+Nets x Hawks
+
+Dia 113:
+Raptors x Knicks
+Mavericks x Jazz
+Heat x Bucks
+Magic x Celtics
+Rockets x Philadelphia 76ers
+Nuggets x Clippers
+Pelicans x Spurs
+Suns x Timberwolves
+Trailblazers x Lakers
+
+Dia 114:
+Pacers x Kings
+Wizards x Pistons
+Jazz x Warriors
+Clippers x Bulls
+Rockets x Thunder
+Cavaliers x Celtics
+Hawks x Suns
+Nets x Mavericks
+Philadelphia 76ers x Hornets
+
+Dia 115:
+Raptors x Nuggets
+Knicks x Wizards
+Pacers x Magic
+Timberwolves x Pelicans
+Warriors x Spurs
+Lakers x Heat
+Trailblazers x Kings
+Grizzlies x Bucks
+Pistons x Jazz
 
 Dia 116:
-timberwolves x Bulls
-pacers x cavaliers
-warriors x knicks
-grizzlies x lakers
-magic x Jazz
-wizards x mavericks
-hornets x thunder
-Sixers x bucks
-spurs x Suns
-celtics x pistons
+Bulls x Nuggets
+Cavaliers x Magic
+Hawks x Wizards
+Hornets x Suns
+Rockets x Celtics
+Heat x Philadelphia 76ers
+Bucks x Nets
+Knicks x Clippers
+Thunder x Pistons
+
 Dia 117:
-Jazz x Bulls
-timberwolves x spurs
-rockets x cavaliers
-grizzlies x pelicans
-magic x heat
-warriors x bucks
-lakers x clippers
-wizards x thunder
-trailblazers x celtics
-hornets x Kings
+Raptors x Kings
+Pelicans x Spurs
+Lakers x Bulls
+Warriors x Mavericks
+Grizzlies x Trailblazers
+Hornets x Timberwolves
+Hawks x Pacers
+Cavaliers x Bucks
+Thunder x Nuggets
+
 Dia 118:
-Bulls x pistons
-Kings x nuggets
-cavaliers x thunder
-pelicans x celtics
-Jazz x heat
-grizzlies x trailblazers
-pacers x lakers
-bucks x nets
-Suns x timberwolves
-Knicks x Hawks
+Wizards x Raptors
+Jazz x Lakers
+Nets x Rockets
+Philadelphia 76ers x Pacers
+Pistons x Magic
+Knicks x Trailblazers
+Pelicans x Heat
+Celtics x Mavericks
+Kings x Clippers
 
 Dia 119:
-Bulls x pacers
-clippers x magic
-nuggets x knicks
-celtics x raptors
-Suns x heat
-warriors x mavericks
-spurs x Jazz
-nets x Sixers
-bucks x pistons
-hawks x wizards
-Dia 120:
-rockets x Bulls
-Kings x timberwolves
-thunder x warriors
-pistons x nuggets
-trailblazers x lakers
-nets x mavericks
-hornets x pelicans
-Sixers x hawks
-Jazz x grizzlies
-raptors x knicks
+Timberwolves x Spurs
+Warriors x Suns
+Jazz x Grizzlies
+Bulls x Clippers
+Thunder x Rockets
+Knicks x Wizards
+Hawks x Lakers
+Hornets x Raptors
+Nuggets x Heat
 
+Dia 120:
+Cavaliers x Timberwolves
+Nets x Warriors
+Pelicans x Bucks
+Kings x Spurs
+Pistons x Philadelphia 76ers
+Mavericks x Suns
+Bulls x Magic
+Celtics x Grizzlies
+Rockets x Trailblazers
 
 Dia 121:
-magic x hornets
-pelicans x thunder
-warriors x Suns
-cavaliers x wizards
-nuggets x trailblazers
-pistons x heat
-nets x Sixers
-grizzlies x knicks
-Kings x Hawks
-mavericks x spurs
-Dia 122:
-raptors x celtics
-pelicans x timberwolves
-Suns x Kings
-spurs x lakers
-hawks x heat
-trailblazers x pacers
-hornets x bucks
-cavaliers x magic
-wizards x nuggets
-mavericks x clippers
-Dia 123:
-magic x warriors
-grizzlies x Bulls
-celtics x wizards
-cavaliers x pistons
-Jazz x lakers
-thunder x timberwolves
-clippers x bucks
-hornets x spurs
-knicks x nets
-pacers x Sixers
+Pelicans x Pacers
+Bucks x Jazz
+Hornets x Clippers
+Timberwolves x Hawks
+Warriors x Cavaliers
+Knicks x Pistons
+Raptors x Suns
+Wizards x Thunder
+Spurs x Nets
 
+Dia 122:
+Pacers x Lakers
+Mavericks x Celtics
+Trailblazers x Heat
+Philadelphia 76ers x Grizzlies
+Nuggets x Rockets
+Hornets x Magic
+Jazz x Kings
+Bulls x Raptors
+Bucks x Knicks
+
+Dia 123:
+Hawks x Warriors
+Magic x Timberwolves
+Cavaliers x Nets
+Grizzlies x Clippers
+Pelicans x Philadelphia 76ers
+Heat x Thunder
+Pistons x Trailblazers
+Suns x Nuggets
+Spurs x Pacers
 
 Dia 124:
-Bulls x trailblazers
-Jazz x magic
-celtics x mavericks
-rockets x lakers
-hornets x cavaliers
-pelicans x bucks
-heat x clippers
-Kings x raptors
-wizards x Suns
-spurs x timberwolves
+Celtics x Kings
+Mavericks x Bulls
+Jazz x Wizards
+Lakers x Suns
+Heat x Hornets
+Rockets x Raptors
+Cavaliers x Pistons
+Knicks x Bucks
+Thunder x Clippers
+
 Dia 125:
-nets x thunder
-Dia 125:
-raptors x mavericks
-Dia 125:
-grizzlies x bucks
-Dia 125:
-trailblazers x Bulls
-Dia 125:
-magic x timberwolves
-Dia 125:
-rockets x hornets
-Dia 125:
-celtics x Suns
-Dia 125:
-nuggets x pelicans
-Dia 125:
-warriors x lakers
-Dia 125:
-heat x cavaliers
-Dia 125:
-Kings x Sixers
-Dia 125:
-wizards x Jazz
-Dia 125:
-pistons x spurs
-Dia 125:
-hawks x clippers
-Dia 125:
-Pacers x Knicks
+Celtics x Hawks
+Wizards x Nets
+Nuggets x Spurs
+Warriors x Mavericks
+Timberwolves x Kings
+Lakers x Grizzlies
+Magic x Pacers
+Philadelphia 76ers x Bulls
+Pelicans x Rockets
+
 Dia 126:
-magic x Bulls
-timberwolves x pistons
-Suns x trailblazers
-nets x grizzlies
-cavaliers x Jazz
-mavericks x thunder
-celtics x knicks
-rockets x hawks
-Sixers x heat
-clippers x Kings
-raptors x hornets
+Trailblazers x Cavaliers
+Timberwolves x Jazz
+Bucks x Hornets
+Celtics x Hawks
+Magic x Nets
+Thunder x Bulls
+Pelicans x Pistons
+Suns x Nuggets
+Clippers x Heat
 
 Dia 127:
-Bulls x raptors
-grizzlies x pistons
-pelicans x timberwolves
-trailblazers x Kings
-heat x nets
-nuggets x Jazz
-hornets x wizards
-bucks x mavericks
-lakers x Sixers
-thunder x hawks
-Dia 128:
-Bulls x pacers
-heat x magic
-pistons x hornets
-celtics x nets
-mavericks x pelicans
-trailblazers x Suns
-lakers x rockets
-clippers x nuggets
-spurs x knicks
-thunder x raptors
-Dia 129:
-timberwolves x nets
-Sixers x magic
-pacers x trailblazers
-raptors x pistons
-mavericks x Lakers //aqui
-bucks x celtics
-Kings x Suns
-pelicans x spurs
-grizzlies x rockets
-knicks x cavaliers
+Trailblazers x Raptors
+Knicks x Mavericks
+Kings x Pacers
+Lakers x Warriors
+Grizzlies x Wizards
+Nets x Philadelphia 76ers
+Spurs x Clippers
+Jazz x Bulls
+Bucks x Cavaliers
 
+Dia 128:
+Rockets x Kings
+Suns x Trailblazers
+Hawks x Wizards
+Mavericks x Grizzlies
+Nuggets x Warriors
+Hornets x Raptors
+Knicks x Philadelphia 76ers
+Pelicans x Timberwolves
+Celtics x Thunder
+
+Dia 129:
+Lakers x Magic
+Pistons x Pacers
+Heat x Philadelphia 76ers
+Spurs x Thunder
+Clippers x Rockets
+Hornets x Trailblazers
+Grizzlies x Nets
+Pelicans x Nuggets
+Suns x Raptors
 
 Dia 130:
-Bulls x nuggets
-magic x bucks
-celtics x Sixers
-lakers x warriors
-pelicans x grizzlies
-pacers x Suns
-raptors x pistons
-Kings x timberwolves
-heat x hornets
-thunder x clippers
-
-Todos os jogos foram agendados.
-
-
-** Process exited - Return Code: 0 **
-
-Press Enter to exit terminal
+Bucks x Pacers
+Heat x Bulls
+Magic x Celtics
+Lakers x Hawks
+Pistons x Timberwolves
+Wizards x Knicks
+Jazz x Spurs
+Cavaliers x Warriors
+Kings x Mavericks
