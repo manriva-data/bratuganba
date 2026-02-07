@@ -6,7 +6,7 @@ Lakers x Knicks
 Hawks x Bucks
 Suns x Rockets
 Cavaliers x Sixers
-heat x TrailBlazers
+Heat x TrailBlazers
 Bulls x Nets
 Wizards x Pistons
 Hornets x Pacers
@@ -21,7 +21,7 @@ Grizzlies x Celtics
 Nets x Suns
 Clippers x TrailBlazers
 Bucks x Bulls
-Cavaliers x heat
+Cavaliers x Heat
 Raptors x Hawks
 
 Dia 3:
@@ -42,7 +42,7 @@ Spurs x Cavaliers
 Raptors x Mavericks
 Warriors x Lakers
 Nuggets x Nets
-heat x Celtics
+Heat x Celtics
 Timberwolves x Hornets
 Bucks x Pelicans
 Pistons x Knicks
@@ -63,7 +63,7 @@ Celtics x Spurs
 Dia 6:
 Clippers x Mavericks
 Lakers x Kings
-Hawks x heat
+Hawks x Heat
 Magic x Hornets
 Nuggets x Bucks
 Rockets x Pacers
@@ -81,7 +81,7 @@ TrailBlazers x Mavericks
 Timberwolves x Warriors
 Nets x Magic
 Hornets x Celtics
-Pacers x heat
+Pacers x Heat
 Bucks x Wizards
 
 Dia 8:
@@ -99,7 +99,7 @@ Pacers x Mavericks
 Dia 9:
 Nuggets x Magic
 Rockets x Spurs
-Jazz x heat
+Jazz x Heat
 Kings x Nets
 Pelicans x Hawks
 Clippers x Timberwolves
@@ -117,7 +117,7 @@ Grizzlies x Spurs
 Hornets x Sixers
 Pacers x Timberwolves
 Nuggets x Kings
-heat x Lakers
+Heat x Lakers
 Thunder x Pelicans
 
 Dia 11:
@@ -138,7 +138,7 @@ Warriors x Clippers
 Hornets x Pistons
 Kings x Rockets
 Lakers x Spurs
-heat x Magic
+Heat x Magic
 Nets x TrailBlazers
 Bucks x Hawks
 Knicks x Celtics
@@ -160,7 +160,7 @@ Dia 14:
 TrailBlazers x Clippers
 Kings x Celtics
 Bucks x Warriors
-heat x Rockets
+Heat x Rockets
 Pelicans x Wizards
 Cavaliers x Raptors
 Pistons x Bulls
@@ -177,7 +177,7 @@ Nets x Hornets
 Kings x Nuggets
 Celtics x Magic
 Wizards x TrailBlazers
-heat x Pelicans
+Heat x Pelicans
 Rockets x Bucks
 
 Dia 16:
@@ -196,7 +196,7 @@ Dia 17:
 Celtics x Suns
 Warriors x Grizzlies
 Spurs x Pistons
-heat x Bucks
+Heat x Bucks
 Nuggets x Kings
 Pacers x Cavaliers
 Pelicans x Mavericks
@@ -206,7 +206,7 @@ Clippers x Sixers
 
 Dia 18:
 Lakers x Nuggets
-Bulls x heat
+Bulls x Heat
 Spurs x Hawks
 Raptors x Hornets
 Magic x Grizzlies
@@ -224,7 +224,7 @@ Raptors x TrailBlazers
 Bucks x Sixers
 Pacers x Hornets
 Timberwolves x Grizzlies
-Thunder x heat
+Thunder x Heat
 Bulls x Nets
 Lakers x Clippers
 
@@ -243,7 +243,7 @@ Mavericks x Suns
 Dia 21:
 Raptors x Spurs
 Nuggets x Hornets
-heat x Magic
+Heat x Magic
 Hawks x Clippers
 Jazz x Pistons
 Lakers x Bucks
@@ -267,7 +267,7 @@ Grizzlies x Pistons
 Dia 23:
 Rockets x Spurs
 TrailBlazers x Lakers
-Knicks x heat
+Knicks x Heat
 Kings x Pelicans
 Wizards x Jazz
 Bulls x Warriors
@@ -278,7 +278,7 @@ Hawks x Grizzlies
 
 Dia 24:
 Jazz x Suns
-Pistons x heat
+Pistons x Heat
 Thunder x Rockets
 Clippers x Pelicans
 Wizards x Lakers
@@ -304,7 +304,7 @@ Dia 26:
 Nets x Raptors
 Clippers x Rockets
 Wizards x Pacers
-heat x Mavericks
+Heat x Mavericks
 Nuggets x Lakers
 Spurs x Timberwolves
 TrailBlazers x Warriors
@@ -314,7 +314,7 @@ Hawks x Magic
 
 Dia 27:
 Bulls x Bucks
-Grizzlies x heat
+Grizzlies x Heat
 Sixers x Wizards
 Knicks x Pistons
 Thunder x Kings
@@ -333,7 +333,7 @@ Cavaliers x TrailBlazers
 Magic x Clippers
 Hawks x Raptors
 Bulls x Pistons
-Hornets x heat
+Hornets x Heat
 Celtics x Nets
 
 Dia 29:
@@ -344,7 +344,7 @@ Bucks x Nuggets
 Kings x Wizards
 Raptors x Timberwolves
 Jazz x Sixers
-heat x Suns
+Heat x Suns
 Warriors x Hornets
 Hawks x Magic
 
@@ -370,7 +370,7 @@ Kings x Magic
 Rockets x Hornets
 Bucks x Raptors
 Cavaliers x Knicks
-heat x Clippers
+Heat x Clippers
 
 Dia 32:
 TrailBlazers x Grizzlies
@@ -393,7 +393,7 @@ Magic x Pistons
 Mavericks x Cavaliers
 TrailBlazers x Celtics
 Pelicans x Nuggets
-heat x Spurs
+Heat x Spurs
 Pacers x Clippers
 
 Dia 34:
@@ -405,7 +405,7 @@ Sixers x Kings
 Rockets x Cavaliers
 Bucks x Magic
 Wizards x Hornets
-heat x Hawks
+Heat x Hawks
 Pacers x Nets
 
 Dia 35:
@@ -425,7 +425,7 @@ TrailBlazers x Suns
 Nets x Bucks
 Pacers x Grizzlies
 Clippers x Warriors
-Rockets x heat
+Rockets x Heat
 Pelicans x Kings
 Hawks x Knicks
 Spurs x Nuggets
@@ -435,7 +435,7 @@ Mavericks x Pistons
 Dia 37:
 Pistons x Suns
 Warriors x TrailBlazers
-heat x Jazz
+Heat x Jazz
 Pelicans x Lakers
 Nuggets x Thunder
 Bucks x Sixers
@@ -462,14 +462,14 @@ Bulls x Celtics
 Cavaliers x Hawks
 Wizards x Sixers
 Pelicans x Rockets
-heat x Grizzlies
+Heat x Grizzlies
 Mavericks x Nets
 Kings x Pistons
 TrailBlazers x Clippers
 Pacers x Spurs
 
 Dia 40:
-Timberwolves x heat
+Timberwolves x Heat
 Cavaliers x Suns
 Lakers x Jazz
 Thunder x Wizards
@@ -497,7 +497,7 @@ TrailBlazers x Magic
 Timberwolves x Nuggets
 Mavericks x Sixers
 Spurs x Raptors
-heat x Hornets
+Heat x Hornets
 Hawks x Pelicans
 Bulls x Celtics
 Rockets x Clippers
@@ -518,7 +518,7 @@ TrailBlazers x Timberwolves
 
 Dia 44:
 Bulls x Hawks
-heat x Wizards
+Heat x Wizards
 Mavericks x Hornets
 Knicks x Spurs
 Grizzlies x Warriors
@@ -537,7 +537,7 @@ Knicks x Raptors
 Clippers x Wizards
 Hawks x Pistons
 Pelicans x Hornets
-heat x Bulls
+Heat x Bulls
 Mavericks x Grizzlies
 
 Dia 46:
@@ -556,7 +556,7 @@ Dia 47:
 Celtics x TrailBlazers
 Sixers x Clippers
 Bulls x Rockets
-heat x Pistons
+Heat x Pistons
 Spurs x Pelicans
 Lakers x Cavaliers
 Nuggets x Grizzlies
@@ -567,7 +567,7 @@ Wizards x Magic
 Dia 48:
 Suns x Sixers
 Rockets x Jazz
-Pacers x heat
+Pacers x Heat
 Celtics x Warriors
 Mavericks x Kings
 TrailBlazers x Timberwolves
@@ -577,7 +577,7 @@ Clippers x Spurs
 Pistons x Hornets
 
 Dia 49:
-Suns x heat
+Suns x Heat
 Hawks x Cavaliers
 Spurs x Thunder
 Nets x Lakers
@@ -598,7 +598,7 @@ Spurs x Suns
 Nuggets x Thunder
 Sixers x Jazz
 Hawks x Bucks
-heat x Nets
+Heat x Nets
 
 Dia 51:
 Cavaliers x Bulls
@@ -614,7 +614,7 @@ Hornets x Pelicans
 
 Dia 52:
 Lakers x Spurs
-heat x Nuggets
+Heat x Nuggets
 Nets x Sixers
 Jazz x Magic
 Kings x Cavaliers
@@ -642,7 +642,7 @@ Suns x Knicks
 Lakers x Raptors
 TrailBlazers x Bucks
 Magic x Pistons
-Celtics x heat
+Celtics x Heat
 Kings x Pelicans
 Grizzlies x Rockets
 Wizards x Hawks
@@ -663,7 +663,7 @@ Raptors x Pacers
 Dia 56:
 Magic x Bulls
 Warriors x Wizards
-heat x Knicks
+Heat x Knicks
 Clippers x Mavericks
 Pistons x Nets
 Nuggets x Suns
@@ -682,7 +682,7 @@ Bucks x Timberwolves
 Mavericks x Magic
 Clippers x Kings
 TrailBlazers x Grizzlies
-Bulls x heat
+Bulls x Heat
 
 Dia 58:
 Nuggets x Jazz
@@ -693,7 +693,7 @@ Celtics x Raptors
 Hornets x Knicks
 Grizzlies x Suns
 Pelicans x Warriors
-heat x Hawks
+Heat x Hawks
 Magic x Sixers
 
 Dia 59:
@@ -712,7 +712,7 @@ Dia 60:
 Pacers x Bucks
 Hawks x Celtics
 Kings x Suns
-heat x Raptors
+Heat x Raptors
 Warriors x Grizzlies
 Mavericks x Timberwolves
 Sixers x Rockets
@@ -728,7 +728,7 @@ Nets x Grizzlies
 Raptors x Cavaliers
 Bucks x Celtics
 Hornets x Hawks
-heat x Pacers
+Heat x Pacers
 Rockets x Thunder
 
 Dia 62:
@@ -749,7 +749,7 @@ Nets x Pelicans
 Celtics x Hornets
 Pistons x Hawks
 Warriors x Raptors
-heat x Pacers
+Heat x Pacers
 Timberwolves x Mavericks
 Rockets x TrailBlazers
 
@@ -766,7 +766,7 @@ Celtics x Pacers
 
 Dia 65:
 Knicks x Sixers
-Spurs x heat
+Spurs x Heat
 Pistons x Hawks
 Warriors x Pelicans
 Grizzlies x Kings
@@ -783,7 +783,7 @@ Grizzlies x Thunder
 Kings x Hornets
 Lakers x Timberwolves
 Celtics x Raptors
-heat x Nets
+Heat x Nets
 Pistons x Cavaliers
 
 Dia 67:
@@ -804,7 +804,7 @@ Raptors x Sixers
 Hornets x Pacers
 Pelicans x Nets
 TrailBlazers x Hawks
-heat x Cavaliers
+Heat x Cavaliers
 Bucks x Knicks
 Bulls x Pistons
 
@@ -820,7 +820,7 @@ Cavaliers x Nets
 Magic x Kings
 
 Dia 70:
-Hornets x heat
+Hornets x Heat
 Mavericks x Hawks
 Lakers x TrailBlazers
 Wizards x Bucks
@@ -845,7 +845,7 @@ Dia 72:
 Pelicans x Warriors
 Sixers x Bucks
 Rockets x Knicks
-Celtics x heat
+Celtics x Heat
 Timberwolves x Pacers
 Suns x Jazz
 TrailBlazers x Bulls
@@ -856,7 +856,7 @@ Dia 73:
 Thunder x Pacers
 Raptors x Pistons
 Hornets x Bucks
-heat x Cavaliers
+Heat x Cavaliers
 Knicks x Nets
 Kings x Warriors
 Suns x Pelicans
@@ -871,7 +871,7 @@ Celtics x Nuggets
 Pelicans x Jazz
 TrailBlazers x Thunder
 Spurs x Magic
-heat x Raptors
+Heat x Raptors
 Cavaliers x Bucks
 
 Dia 75:
@@ -897,7 +897,7 @@ Hornets x Nets
 Cavaliers x Lakers
 
 Dia 77:
-Sixers x heat
+Sixers x Heat
 Mavericks x Pelicans
 Clippers x Celtics
 Wizards x Bulls
@@ -911,7 +911,7 @@ Dia 78:
 Thunder x Clippers
 Jazz x Pelicans
 Hornets x Kings
-Hawks x heat
+Hawks x Heat
 TrailBlazers x Knicks
 Pistons x Bucks
 Lakers x Mavericks
@@ -925,7 +925,7 @@ Nuggets x Suns
 Hornets x Bulls
 Jazz x Timberwolves
 Pacers x Magic
-Kings x heat
+Kings x Heat
 Sixers x Raptors
 Hawks x Thunder
 
@@ -949,7 +949,7 @@ Raptors x Cavaliers
 Sixers x TrailBlazers
 Nets x Hawks
 Wizards x Bucks
-heat x Knicks
+Heat x Knicks
 
 Dia 82:
 Grizzlies x Pacers
@@ -974,7 +974,7 @@ Mavericks x Rockets
 Pistons x Nets
 
 Dia 84:
-Wizards x heat
+Wizards x Heat
 Spurs x Lakers
 Suns x Hawks
 Bulls x Sixers
@@ -988,7 +988,7 @@ Dia 85:
 Magic x Wizards
 Nets x Kings
 Suns x Celtics
-heat x Warriors
+Heat x Warriors
 Lakers x Mavericks
 Rockets x Grizzlies
 Pelicans x Timberwolves
@@ -1007,7 +1007,7 @@ Pistons x Rockets
 Bucks x Pacers
 
 Dia 87:
-Wizards x heat
+Wizards x Heat
 Grizzlies x Lakers
 Timberwolves x Nets
 Knicks x Bulls
@@ -1018,7 +1018,7 @@ Raptors x Thunder
 Nuggets x Pelicans
 
 Dia 88:
-Sixers x heat
+Sixers x Heat
 Pistons x Cavaliers
 Wizards x Hornets
 Hawks x Knicks
@@ -1036,7 +1036,7 @@ Cavaliers x Spurs
 Jazz x Clippers
 Hawks x Sixers
 Thunder x Hornets
-Magic x heat
+Magic x Heat
 Pacers x Raptors
 
 Dia 90:
@@ -1055,7 +1055,7 @@ Jazz x Nuggets
 Cavaliers x Thunder
 Raptors x Wizards
 Celtics x Sixers
-heat x Kings
+Heat x Kings
 Hornets x Rockets
 Warriors x Hawks
 Magic x Knicks
@@ -1079,7 +1079,7 @@ Thunder x Timberwolves
 Pacers x Celtics
 Magic x Hawks
 Lakers x Pelicans
-Raptors x heat
+Raptors x Heat
 Kings x Bucks
 Mavericks x TrailBlazers
 
@@ -1098,7 +1098,7 @@ Dia 95:
 Sixers x Nets
 Pacers x Hawks
 Timberwolves x Bucks
-Pistons x heat
+Pistons x Heat
 Warriors x TrailBlazers
 Grizzlies x Suns
 Kings x Lakers
@@ -1112,7 +1112,7 @@ Clippers x Thunder
 Hornets x Bucks
 Knicks x Hawks
 Nuggets x Raptors
-Nets x heat
+Nets x Heat
 Celtics x Pelicans
 Sixers x Mavericks
 
@@ -1133,7 +1133,7 @@ Thunder x Suns
 Nets x Knicks
 TrailBlazers x Nuggets
 Hawks x Celtics
-Bucks x heat
+Bucks x Heat
 Lakers x Pacers
 Pelicans x Magic
 Timberwolves x Kings
@@ -1156,7 +1156,7 @@ Clippers x Lakers
 Pacers x Celtics
 Timberwolves x TrailBlazers
 Nuggets x Spurs
-Warriors x heat
+Warriors x Heat
 Kings x Grizzlies
 Sixers x Pistons
 
@@ -1175,7 +1175,7 @@ Dia 102:
 Lakers x Rockets
 Spurs x Pelicans
 Timberwolves x TrailBlazers
-Mavericks x heat
+Mavericks x Heat
 Suns x Kings
 Pistons x Sixers
 Bulls x Thunder
@@ -1194,7 +1194,7 @@ Lakers x Pistons
 TrailBlazers x Pelicans
 
 Dia 104:
-heat x Timberwolves
+Heat x Timberwolves
 Nuggets x Warriors
 Hawks x Kings
 Bulls x Raptors
@@ -1206,7 +1206,7 @@ Grizzlies x Rockets
 
 Dia 105:
 Nets x Knicks
-heat x Wizards
+Heat x Wizards
 Spurs x Celtics
 Kings x Clippers
 Pacers x Pistons
@@ -1223,7 +1223,7 @@ Hornets x Magic
 Cavaliers x Pelicans
 Nuggets x Wizards
 Suns x Clippers
-Bucks x heat
+Bucks x Heat
 Nets x Celtics
 
 Dia 107:
@@ -1235,7 +1235,7 @@ Grizzlies x Mavericks
 Hornets x Pistons
 Nets x Bulls
 Jazz x Bucks
-Raptors x heat
+Raptors x Heat
 
 Dia 108:
 Lakers x Thunder
@@ -1256,7 +1256,7 @@ Hawks x Bulls
 Hornets x Knicks
 Nets x Cavaliers
 Warriors x Thunder
-Magic x heat
+Magic x Heat
 Clippers x Jazz
 
 Dia 110:
@@ -1275,7 +1275,7 @@ Raptors x Knicks
 Hornets x Thunder
 Hawks x Timberwolves
 Celtics x Cavaliers
-Nets x heat
+Nets x Heat
 Kings x Jazz
 Clippers x Spurs
 Grizzlies x Sixers
@@ -1295,7 +1295,7 @@ Nets x Hawks
 Dia 113:
 Raptors x Knicks
 Mavericks x Jazz
-heat x Bucks
+Heat x Bucks
 Magic x Celtics
 Rockets x Sixers
 Nuggets x Clippers
@@ -1320,7 +1320,7 @@ Knicks x Wizards
 Pacers x Magic
 Timberwolves x Pelicans
 Warriors x Spurs
-Lakers x heat
+Lakers x Heat
 TrailBlazers x Kings
 Grizzlies x Bucks
 Pistons x Jazz
@@ -1331,7 +1331,7 @@ Cavaliers x Magic
 Hawks x Wizards
 Hornets x Suns
 Rockets x Celtics
-heat x Sixers
+Heat x Sixers
 Bucks x Nets
 Knicks x Clippers
 Thunder x Pistons
@@ -1354,7 +1354,7 @@ Nets x Rockets
 Sixers x Pacers
 Pistons x Magic
 Knicks x TrailBlazers
-Pelicans x heat
+Pelicans x Heat
 Celtics x Mavericks
 Kings x Clippers
 
@@ -1367,7 +1367,7 @@ Thunder x Rockets
 Knicks x Wizards
 Hawks x Lakers
 Hornets x Raptors
-Nuggets x heat
+Nuggets x Heat
 
 Dia 120:
 Cavaliers x Timberwolves
@@ -1394,7 +1394,7 @@ Spurs x Nets
 Dia 122:
 Pacers x Lakers
 Mavericks x Celtics
-TrailBlazers x heat
+TrailBlazers x Heat
 Sixers x Grizzlies
 Nuggets x Rockets
 Hornets x Magic
@@ -1408,7 +1408,7 @@ Magic x Timberwolves
 Cavaliers x Nets
 Grizzlies x Clippers
 Pelicans x Sixers
-heat x Thunder
+Heat x Thunder
 Pistons x TrailBlazers
 Suns x Nuggets
 Spurs x Pacers
@@ -1418,7 +1418,7 @@ Celtics x Kings
 Mavericks x Bulls
 Jazz x Wizards
 Lakers x Suns
-heat x Hornets
+Heat x Hornets
 Rockets x Raptors
 Cavaliers x Pistons
 Knicks x Bucks
@@ -1444,7 +1444,7 @@ Magic x Nets
 Thunder x Bulls
 Pelicans x Pistons
 Suns x Nuggets
-Clippers x heat
+Clippers x Heat
 
 Dia 127:
 TrailBlazers x Raptors
@@ -1471,7 +1471,7 @@ Celtics x Thunder
 Dia 129:
 Lakers x Magic
 Pistons x Pacers
-heat x Sixers
+Heat x Sixers
 Spurs x Thunder
 Clippers x Rockets
 Hornets x TrailBlazers
@@ -1481,7 +1481,7 @@ Suns x Raptors
 
 Dia 130:
 Bucks x Pacers
-heat x Bulls
+Heat x Bulls
 Magic x Celtics
 Lakers x Hawks
 Pistons x Timberwolves
