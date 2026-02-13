@@ -1,21 +1,3 @@
 C/F;Texto Após o Delimitador;ÍndicePorREFGrupo;Índice;Ref;nome;POS;Pontos;Rebote;Orebote;Drebote;Assistência;Roubo;Block;Turnover;Faltas;FGM;FGA;3M;Equipe;3A;FTM;Minutos;FTA;OFGM;OFGA;+/-
-"Casa";"1.1 Bulls-Nets";1;1;"DIA 1.1 Bulls-Nets.xls";"James Harden";"PG";25;6;1;5;8;3;1;1;0;7;20;1;"bulls";6;10;38;13;2;10;11
-"Casa";"1.1 Bulls-Nets";2;2;"DIA 1.1 Bulls-Nets.xls";"Dyson Daniels";"SG";7;4;0;4;4;4;0;2;1;3;7;1;"bulls";2;0;29;0;5;12;6
-"Casa";"1.1 Bulls-Nets";3;3;"DIA 1.1 Bulls-Nets.xls";"Jimmy Butler";"SF";13;6;0;6;5;0;0;1;0;4;10;1;"bulls";3;4;33;4;4;12;11
-"Casa";"1.1 Bulls-Nets";4;4;"DIA 1.1 Bulls-Nets.xls";"Victor Wembanyama";"PF";16;15;0;15;2;3;2;3;1;5;17;1;"bulls";5;5;37;6;3;7;9
-"Casa";"1.1 Bulls-Nets";5;5;"DIA 1.1 Bulls-Nets.xls";"Alperen Sengun";"C";14;8;2;6;0;1;1;1;3;5;14;3;"bulls";9;1;32;3;7;22;21
-"Casa";"1.1 Bulls-Nets";6;6;"DIA 1.1 Bulls-Nets.xls";"Jose Alvarado";"PG";0;1;0;1;1;1;0;0;0;0;2;0;"bulls";1;0;9;0;1;4;0
-"Casa";"1.1 Bulls-Nets";7;7;"DIA 1.1 Bulls-Nets.xls";"Bradley Beal";"SG";8;3;0;3;2;0;2;2;1;3;7;2;"bulls";4;0;18;0;1;9;5
-"Casa";"1.1 Bulls-Nets";8;8;"DIA 1.1 Bulls-Nets.xls";"Josh Green";"SF";2;1;1;0;0;0;1;0;0;0;4;0;"bulls";2;2;14;2;3;7;0
-"Casa";"1.1 Bulls-Nets";9;9;"DIA 1.1 Bulls-Nets.xls";"Maxi Kleber";"PF";2;2;0;2;0;0;1;0;0;1;1;0;"bulls";0;0;10;0;2;3;2
-"Casa";"1.1 Bulls-Nets";10;10;"DIA 1.1 Bulls-Nets.xls";"Steven Adams";"C";2;6;0;6;0;1;2;2;1;1;2;0;"bulls";0;0;15;0;4;13;-10
-"Casa";"1.1 Bulls-Nets";1;11;"DIA 1.1 Bulls-Nets.xls";"De’Aaron Fox";"PG";8;5;1;4;8;0;1;4;4;4;11;0;"nets";0;0;37;0;4;15;-9
-"Casa";"1.1 Bulls-Nets";2;12;"DIA 1.1 Bulls-Nets.xls";"Zach LaVine";"SG";24;13;1;12;3;3;0;5;0;8;24;4;"nets";8;4;38;4;4;9;-11
-"Casa";"1.1 Bulls-Nets";3;13;"DIA 1.1 Bulls-Nets.xls";"Dante Exum";"SF";3;1;0;1;3;0;1;0;4;1;2;1;"nets";1;0;23;0;3;9;-11
-"Casa";"1.1 Bulls-Nets";4;14;"DIA 1.1 Bulls-Nets.xls";"John Collins";"PF";6;12;1;11;3;1;2;1;1;3;7;0;"nets";0;0;29;0;3;10;-6
-"Casa";"1.1 Bulls-Nets";5;15;"DIA 1.1 Bulls-Nets.xls";"Kristaps Porzingis";"C";24;15;6;9;2;1;3;1;1;10;32;4;"nets";14;0;37;0;4;11;-9
-"Casa";"1.1 Bulls-Nets";6;16;"DIA 1.1 Bulls-Nets.xls";"Shake Milton";"PG";2;4;1;3;0;0;0;0;0;1;8;0;"nets";0;0;10;0;3;6;-2
-"Casa";"1.1 Bulls-Nets";7;17;"DIA 1.1 Bulls-Nets.xls";"AJ Johnson";"SG";0;4;1;3;1;0;0;0;0;0;3;0;"nets";0;0;9;0;2;4;0
-"Casa";"1.1 Bulls-Nets";8;18;"DIA 1.1 Bulls-Nets.xls";"Alec Burks";"SF";5;4;1;3;3;1;0;0;1;2;7;1;"nets";1;0;24;0;1;8;0
-"Casa";"1.1 Bulls-Nets";9;19;"DIA 1.1 Bulls-Nets.xls";"Kenyon Martin Jr.";"PF";4;3;1;2;2;1;0;2;1;2;3;0;"nets";0;0;18;0;3;6;-5
-"Casa";"1.1 Bulls-Nets";10;20;"DIA 1.1 Bulls-Nets.xls";"Richaun Holmes";"C";2;4;0;4;0;1;1;0;1;1;2;0;"nets";0;0;10;0;1;5;-2
+
+
