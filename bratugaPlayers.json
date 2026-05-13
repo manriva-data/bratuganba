@@ -1,17 +1,17 @@
 {
 	"Atlanta Hawks": [
-		"Mike Conley",
 		"Stephen Curry",
-		"Jalen Green",
+	    "Devin Carter",
 		"Quenton Jackson",
+		"Kyrie Irving",
 		"Evan Fournier",
 		"Mikal Bridges",
 		"Ziaire Williams",
 		"Ryan Dunn",
+		"Doug McDermott",
 		"Bobby Portis",
 		"Al Horford",
 		"Derik Queen",
-		"Clint Capela",
 		"Andre Drummond"
 	],
 	
@@ -307,11 +307,13 @@
 	],
 
 	"New Orleans Pelicans": [
+		"Mike Conley",
 		"Jamal Murray",
 		"Devin Carter",
 		"Landry Shamet",
 		"Kyrie Irving",
 		"Jordan Goodwin",
+		"Jalen Green",
 		"Jae Crowder",
 		"Kris Murray",
 		"Caleb Martin",
@@ -319,7 +321,8 @@
 		"Giannis Antetokounmpo",
 		"Trayce Jackson-Davis",
 		"Thomas Bryant",
-		"Isaiah Hartenstein"
+		"Isaiah Hartenstein",
+		"Clint Capela"
 	],
 	
 	"New York Knicks": [
