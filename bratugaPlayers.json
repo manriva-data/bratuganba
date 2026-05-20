@@ -1,18 +1,18 @@
 {
 	"Atlanta Hawks": [
 		"Stephen Curry",
-	    "Devin Carter",
+		"Devin Carter",
 		"Quenton Jackson",
 		"Kyrie Irving",
 		"Evan Fournier",
-		"Mikal Bridges",
-		"Ziaire Williams",
+		"Andre Jackson Jr.",
 		"Ryan Dunn",
+		"Jimmy Butler",
 		"Doug McDermott",
-		"Bobby Portis",
 		"Al Horford",
 		"Derik Queen",
-		"Andre Drummond"
+		"Kevin Love",
+		"Steven Adams"
 	],
 	
 	"Boston Celtics": [
@@ -69,16 +69,18 @@
 		"James Harden",
 		"Dyson Daniels",
 		"Jose Alvarado",
+		"Luke Kennard",
 		"Bradley Beal",
 		"Dalano Banton",
 		"Josh Green",
-		"Jimmy Butler",
+		"Mikal Bridges",
+		"Kelly Oubre Jr.",
 		"Scottie Barnes",
 		"Javonte Green",
 		"Maxi Kleber",
 		"Victor Wembanyama",
-		"Steven Adams",
-		"Jay Huff"
+		"Jakob Poeltl",
+		"Dewayne Dedmon"
 	],
 
 	"Cleveland Cavaliers": [
@@ -142,14 +144,14 @@
 		"Sion James",
 		"Amen Thompson",
 		"Bennedict Mathurin",
-		"Kelly Oubre Jr.",
 		"Moses Moody",
+		"Ziaire Williams",
 		"Peyton Watson",
-		"Tidjane Salaun",
 		"Dario Saric",
+		"Bobby Portis",
 		"Nikola Vucevic",
 		"Jusuf Nurkic",
-		"Jakob Poeltl"
+		"Andre Drummond"
 	],
 	
 	"Golden State Warriors": [
@@ -387,6 +389,7 @@
 		"Jeremy Sochan",
 		"De'Andre Hunter",
 		"Pascal Siakam",
+		"Jay Huff",
 		"Jarrett Allen"
 	],
 
