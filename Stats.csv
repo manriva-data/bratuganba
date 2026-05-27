@@ -3789,7 +3789,7 @@ C/F;Texto Após o Delimitador;ÍndicePorREFGrupo;Índice;Ref;nome;POS;Pontos;Reb
 "Casa";"56.13 Raptors-Lakers.xls";6;13837;"DIA 56.13 Raptors-Lakers.xls";"Cameron Payne";"PG";3;6;2;4;2;1;0;0;0;1;4;1;"raptors";3;0;12;0;0;-11;0
 "Casa";"57.13 Bucks-Timberwolves.xls";9;13957;"DIA 57.13 Bucks-Timberwolves.xls";"Kelly Olynyk";"PF";3;5;2;3;0;1;0;1;6;1;3;1;"bucks";3;0;12;0;5;-11;5
 "Casa";"57.13 Mavericks-Magic.xls";3;13971;"DIA 57.13 Mavericks-Magic.xls";"Grayson Allen";"SF";15;10;2;8;1;2;0;0;0;7;15;1;"mavericks";5;0;22;0;7;-6;14
-"Casa";"59.13 Bulls-Lakers.xls";5;14110;"DIA 59.13 Bulls-Lakers.xls";"Jakob Poeltl";"C";7;8;2;6;8;1;0;3;5;3;8;1;"bulls";2;0;38;0;8;5;14
+"Casa";"59.13 Bulls-Lakers.xls";5;14110;"DIA 59.13 Bulls-Lakers.xls";"Victor Wembanyama";"C";7;8;2;6;8;1;0;3;5;3;8;1;"bulls";2;0;38;0;8;5;14
 "Fora";"58.13 Pelicans-Warriors.xls";2;14194;"DIA 58.13 Pelicans-Warriors.xls";"Josh Giddey";"SG";5;8;2;6;8;1;0;0;1;2;6;1;"warriors";3;0;28;0;8;-12;12
 "Casa";"58.13 Heat-Hawks.xls";3;14208;"DIA 58.13 Heat-Hawks.xls";"Reggie Jackson";"SF";3;3;2;1;1;1;0;0;3;1;3;1;"heat";2;0;28;0;3;7;12
 "Fora";"59.13 Rockets-Pistons.xls";7;14303;"DIA 59.13 Rockets-Pistons.xls";"Kelly Oubre Jr.";"SG";7;4;2;2;3;0;0;1;2;3;6;1;"pistons";1;0;22;0;3;-9;5
@@ -6118,7 +6118,7 @@ C/F;Texto Após o Delimitador;ÍndicePorREFGrupo;Índice;Ref;nome;POS;Pontos;Reb
 "Casa";"60.13 Pacers-Bucks.xls";3;13780;"DIA 60.13 Pacers-Bucks.xls";"Toumani Camara";"SF";7;3;0;3;3;1;1;0;1;3;12;1;"pacers";5;0;28;0;4;6;14
 "Casa";"60.13 Hawks-Celtics.xls";12;13816;"DIA 60.13 Hawks-Celtics.xls";"Andre Jackson Jr.";"SF";5;2;0;2;3;0;1;0;1;2;2;1;"hawks";1;0;12;0;4;1;8
 "Casa";"56.13 Warriors-Wizards.xls";8;13859;"DIA 56.13 Warriors-Wizards.xls";"Taurean Prince";"SF";7;3;0;3;3;1;1;0;5;3;5;1;"warriors";2;0;23;0;3;19;13
-"Casa";"57.13 Bulls-Heat.xls";11;13993;"DIA 57.13 Bulls-Heat.xls";"Jakob Poeltl";"C";11;5;0;5;2;0;1;0;3;5;7;1;"bulls";1;0;23;0;6;10;16
+"Casa";"57.13 Bulls-Heat.xls";11;13993;"DIA 57.13 Bulls-Heat.xls";"Victor Wembanyama";"C";11;5;0;5;2;0;1;0;3;5;7;1;"bulls";1;0;23;0;6;10;16
 "Casa";"57.13 TrailBlazers-Grizzlies.xls";8;14022;"DIA 57.13 TrailBlazers-Grizzlies.xls";"Carter Bryant";"SF";3;3;0;3;1;1;1;0;3;1;1;1;"trailblazers";1;0;13;0;4;7;9
 "Fora";"60.13 Heat-Raptors.xls";6;14507;"DIA 60.13 Heat-Raptors.xls";"Cameron Payne";"PG";5;0;0;0;2;0;1;0;0;2;4;1;"raptors";2;0;11;0;1;18;5
 "Fora";"60.13 Sixers-Rockets.xls";8;14586;"DIA 60.13 Sixers-Rockets.xls";"Justin Champagnie";"SF";5;8;0;8;2;0;1;0;2;2;5;1;"rockets";1;0;14;0;2;12;12
@@ -7524,7 +7524,7 @@ C/F;Texto Após o Delimitador;ÍndicePorREFGrupo;Índice;Ref;nome;POS;Pontos;Reb
 "Casa";"51.12 Cavaliers-Bulls.xls";10;12261;"DIA 51.12 Cavaliers-Bulls.xls";"Gabe Vincent";"C";4;4;2;2;0;0;2;1;1;2;4;0;"cavaliers";0;0;16;0;5;-9;11
 "Fora";"4.1 Kings-Thunder.xls";10;12375;"CUP 4.1 Kings-Thunder.xls";"Mitchell Robinson";"C";4;7;3;4;1;0;2;2;1;2;6;0;"thunder";0;0;13;0;1;-11;5
 "Fora";"51.12 Timberwolves-Clippers.xls";5;12549;"DIA 51.12 Timberwolves-Clippers.xls";"Neemias Queta";"C";6;8;1;7;5;0;2;1;3;3;7;0;"clippers";0;0;29;0;8;-13;14
-"Fora";"56.13 Magic-Bulls.xls";10;12611;"DIA 56.13 Magic-Bulls.xls";"Jakob Poeltl";"C";4;6;1;5;0;1;2;1;0;2;3;0;"bulls";0;0;9;0;0;1;2
+"Fora";"56.13 Magic-Bulls.xls";10;12611;"DIA 56.13 Magic-Bulls.xls";"Victor Wembanyama";"C";4;6;1;5;0;1;2;1;0;2;3;0;"bulls";0;0;9;0;0;1;2
 "Casa";"52.12 Warriors-Bulls.xls";6;12913;"DIA 52.12 Warriors-Bulls.xls";"Cason Wallace";"PG";0;2;1;1;3;0;2;2;3;0;3;0;"warriors";0;0;18;0;0;13;5
 "Casa";"53.12 Nuggets-Clippers.xls";9;13062;"DIA 53.12 Nuggets-Clippers.xls";"Trendon Watford";"PF";2;4;0;4;4;1;2;1;5;1;2;0;"nuggets";0;0;13;0;6;-3;11
 "Casa";"53.12 Pacers-Nets.xls";5;13110;"DIA 53.12 Pacers-Nets.xls";"Walker Kessler";"C";18;10;3;7;3;2;2;1;3;9;15;0;"pacers";0;0;26;0;4;6;11
