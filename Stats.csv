@@ -1173,7 +1173,7 @@ C/F;Texto Após o Delimitador;ÍndicePorREFGrupo;Índice;Ref;nome;POS;Pontos;Reb
 "Fora";"54.12 Wizards-Hawks.xls";9;13408;"DIA 54.12 Wizards-Hawks.xls";"Al Horford";"PF";2;2;0;2;2;0;0;0;0;1;3;0;"hawks";0;0;14;0;1;-3;1
 "Fora";"55.12 Timberwolves-Thunder.xls";6;13569;"DIA 55.12 Timberwolves-Thunder.xls";"Kyle Lowry";"PG";2;0;0;0;3;0;0;0;0;1;2;0;"thunder";0;0;10;0;0;-4;3
 "Casa";"56.13 Warriors-Wizards.xls";7;13858;"DIA 56.13 Warriors-Wizards.xls";"Kris Dunn";"SG";2;1;0;1;0;0;0;0;0;1;5;0;"warriors";0;0;18;0;1;-13;3
-"Fora";"57.13 Cavaliers-Pistons.xls";12;13902;"DIA 57.13 Cavaliers-Pistons.xls";"Sion James";"SG";2;1;0;1;0;0;0;0;0;1;3;0;"pistons";0;0;8;0;2;-8;5
+"Fora";"57.13 Cavaliers-Pistons.xls";12;13902;"DIA 57.13 Cavaliers-Pistons.xls";"Sion James";"SG";2;1;0;1;0;0;0;0;0;1;3;0;"pistons";0;0;5;0;2;-8;5
 "Casa";"58.13 Nets-Pacers.xls";11;13924;"DIA 58.13 Nets-Pacers.xls";"AJ Johnson";"SG";2;1;0;1;1;0;0;0;0;1;3;0;"nets";0;0;3;0;0;5;1
 "Fora";"58.13 Pelicans-Warriors.xls";10;14202;"DIA 58.13 Pelicans-Warriors.xls";"Brandon Clarke";"C";2;1;0;1;0;0;0;0;1;1;2;0;"warriors";0;0;10;0;1;1;2
 "Casa";"59.13 Cavaliers-Knicks.xls";9;14436;"DIA 59.13 Cavaliers-Knicks.xls";"Tristan da Silva";"SG";2;2;0;2;1;0;0;0;0;1;6;0;"cavaliers";0;0;8;0;0;-8;0
@@ -12407,7 +12407,7 @@ C/F;Texto Após o Delimitador;ÍndicePorREFGrupo;Índice;Ref;nome;POS;Pontos;Reb
 "Fora";"55.12 Nets-Spurs.xls";2;13457;"DIA 55.12 Nets-Spurs.xls";"Jeremiah Fears";"SG";14;1;0;1;4;1;0;1;3;6;6;1;"spurs";1;1;29;1;3;-3;10
 "Casa";"56.13 Thunder-Hawks.xls";7;13719;"DIA 56.13 Thunder-Hawks.xls";"Tim Hardaway Jr.";"SG";11;3;0;3;0;1;0;2;0;3;4;1;"thunder";1;4;14;4;3;-1;4
 "Fora";"58.13 Heat-Hawks.xls";2;14217;"DIA 58.13 Heat-Hawks.xls";"Kyrie Irving";"SG";23;8;0;8;4;1;0;1;1;8;22;1;"hawks";5;6;37;6;3;-7;9
-"Fora";"59.13 Rockets-Pistons.xls";8;14304;"DIA 59.13 Rockets-Pistons.xls";"Moses Moody";"SF";6;1;0;1;2;1;0;0;0;2;7;1;"pistons";1;1;13;1;4;-15;7
+"Fora";"59.13 Rockets-Pistons.xls";8;14304;"DIA 59.13 Rockets-Pistons.xls";"Moses Moody";"SF";6;1;0;1;2;1;0;0;0;2;7;1;"pistons";1;1;23;1;4;-15;7
 "Casa";"10.3 Hornets-Sixers.xls";7;203;"DIA 10.3 Hornets-Sixers.xls";"Brandin Podziemski";"SG";7;0;0;0;3;0;0;0;0;2;5;1;"hornets";4;2;10;3;3;-11;6
 "Fora";"10.3 Heat-Lakers.xls";7;300;"DIA 10.3 Heat-Lakers.xls";"Isaiah Joe";"SG";7;3;0;3;1;0;0;3;0;1;7;1;"lakers";2;4;17;6;1;-13;4
 "Casa";"1.2 Nuggets-Warriors.xls";12;360;"CUP 2.1 Nuggets-Warriors.xls";"Shaedon Sharpe";"SG";10;6;0;6;1;0;0;0;0;4;7;1;"nuggets";1;1;11;1;0;16;3
