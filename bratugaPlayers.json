@@ -17,18 +17,18 @@
 	
 	"Boston Celtics": [
 		"Payton Pritchard",
-		"Tre Jones",
 		"Ryan Nembhard",
 		"Buddy Hield",
 		"Drake Powell",
 		"Cedric Coward",
 		"Pelle Larsson",
-		"Luguentz Dort",
+		"Kris Murray",
 		"Nicolas Batum",
+		"Taylor Hendricks",
 		"Obi Toppin",
 		"Collin Murray-Boyles",
-		"Guerschon Yabusele",
-		"Jonas Valanciunas"
+		"Jonas Valanciunas",
+		"Isaiah Hartenstein"
 	],
 	
 	"Brooklyn Nets": [
@@ -84,17 +84,17 @@
 	],
 
 	"Cleveland Cavaliers": [
-		"Gabe Vincent",
 		"Tyler Kolek",
 		"Max Shulga",
+		"Cason Wallace",
 		"Ben Simmons",
 		"Derrick White",
 		"Tre Johnson",
 		"Hugo Gonzalez",
+		"Kris Dunn",
 		"Ace Bailey",
 		"Trey Murphy",
 		"Tobias Harris",
-		"Cameron Johnson",
 		"Naji Marshall",
 		"Tristan da Silva",
 		"Deandre Ayton",
@@ -121,7 +121,6 @@
 	"Denver Nuggets": [
 		"Immanuel Quickley",
 		"Aaron Holiday",
-		"Collin Sexton",
 		"Desmond Bane",
 		"Shaedon Sharpe",
 		"Adou Thiero",
@@ -133,6 +132,7 @@
 		"Jarace Walker",
 		"Trendon Watford",
 		"Yves Missi",
+		"Brandon Clarke",
 		"Nicolas Claxton"
 	],
 	
@@ -155,21 +155,21 @@
 	],
 	
 	"Golden State Warriors": [
-		"Cason Wallace",
-		"Brandon Williams",
 		"Keyonte George",
+		"Scoot Henderson",
+		"Gabe Vincent",
 		"Josh Giddey",
-		"Kris Dunn",
+		"Collin Sexton",
+		"Nique Clifford",
 		"Taurean Prince",
 		"Jaden McDaniels",
 		"Joe Ingles",
+		"Cody Williams",
+		"Cameron Johnson",
 		"Karl-Anthony Towns",
 		"Julius Randle",
-		"Rasheer Fleming",
 		"Kel’el Ware",
-		"Brandon Clarke",
-		"Jock Landale",
-		"Ryan Kalkbrenner"
+		"Jock Landale"
 	],
 
 	"Houston Rockets": [
@@ -275,20 +275,20 @@
 
 	"Milwaukee Bucks": [
 		"Tyus Jones",
-		"Scoot Henderson",
+		"Brandon Williams",
 		"Bub Carrington",
 		"Ayo Dosunmu",
-		"Nique Clifford",
 		"Jared McCain",
 		"Bogdan Bogdanovic",
 		"Noah Penda",
 		"Cooper Flagg",
 		"Lauri Markkanen",
-		"Cody Williams",
 		"Kenrich Williams",
+		"Rasheer Fleming",
 		"Kyle Filipowski",
 		"Kelly Olynyk",
-		"Luka Garza"
+		"Luka Garza",
+		"Ryan Kalkbrenner"
 	],
 
 	"Minnesota Timberwolves": [
@@ -310,18 +310,18 @@
 
 	"New Orleans Pelicans": [
 		"Mike Conley",
+		"Tre Jones",
 		"Jamal Murray",
 		"Landry Shamet",
 		"Jordan Goodwin",
 		"Jalen Green",
 		"Jae Crowder",
-		"Kris Murray",
+		"Luguentz Dort",
 		"Caleb Martin",
-		"Taylor Hendricks",
 		"Giannis Antetokounmpo",
+		"Guerschon Yabusele",
 		"Trayce Jackson-Davis",
 		"Thomas Bryant",
-		"Isaiah Hartenstein",
 		"Clint Capela"
 	],
 	
