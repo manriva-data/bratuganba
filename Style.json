@@ -1,0 +1,123 @@
+[
+  {
+    "name": "TrailBlazers",
+    "style": "DEFENSIVE_ANCHOR"
+  },
+  {
+    "name": "Nuggets",
+    "style": "BALANCED_DISCIPLINE"
+  },
+  {
+    "name": "Rockets",
+    "style": "TRIANGLE_FUNDAMENTALS"
+  },
+  {
+    "name": "Hornets",
+    "style": "DEFENSIVE_ANCHOR"
+  },
+  {
+    "name": "Bucks",
+    "style": "BALANCED_DISCIPLINE"
+  },
+  {
+    "name": "Timberwolves",
+    "style": "DEFENSIVE_ANCHOR"
+  },
+  {
+    "name": "Magic",
+    "style": "PACE_SPACE"
+  },
+  {
+    "name": "Thunder",
+    "style": "BALANCED_DISCIPLINE"
+  },
+  {
+    "name": "Celtics",
+    "style": "RUN_AND_GUN"
+  },
+  {
+    "name": "Kings",
+    "style": "ISO_MAESTRO"
+  },
+  {
+    "name": "Warriors",
+    "style": "PACE_SPACE"
+  },
+  {
+    "name": "Mavericks",
+    "style": "PACE_SPACE"
+  },
+  {
+    "name": "Wizards",
+    "style": "PACE_SPACE"
+  },
+  {
+    "name": "Suns",
+    "style": "DEFENSIVE_ANCHOR"
+  },
+  {
+    "name": "Bulls",
+    "style": "DEFENSIVE_ANCHOR"
+  },
+  {
+    "name": "Raptors",
+    "style": "BALANCED_DISCIPLINE"
+  },
+  {
+    "name": "Nets",
+    "style": "TRIANGLE_FUNDAMENTALS"
+  },
+  {
+    "name": "Pelicans",
+    "style": "PACE_SPACE"
+  },
+  {
+    "name": "Pistons",
+    "style": "ISO_MAESTRO"
+  },
+  {
+    "name": "Spurs",
+    "style": "ISO_MAESTRO"
+  },
+  {
+    "name": "Pacers",
+    "style": "TRIANGLE_FUNDAMENTALS"
+  },
+  {
+    "name": "Lakers",
+    "style": "PACE_SPACE"
+  },
+  {
+    "name": "Hawks",
+    "style": "TRIANGLE_FUNDAMENTALS"
+  },
+  {
+    "name": "Grizzlies",
+    "style": "ISO_MAESTRO"
+  },
+  {
+    "name": "Sixers",
+    "style": "PACE_SPACE"
+  },
+  {
+    "name": "Jazz",
+    "style": "BALANCED_DISCIPLINE"
+  },
+  {
+    "name": "Clippers",
+    "style": "BALANCED_DISCIPLINE"
+  },
+  {
+    "name": "Knicks",
+    "style": "GRIT_GRIND"
+  },
+  {
+    "name": "Cavaliers",
+    "style": "PHYSICAL_SMASHMOUTH"
+  },
+  
+  {
+    "name": "Heat",
+    "style": "TRIANGLE_FUNDAMENTALS"
+  }
+]
