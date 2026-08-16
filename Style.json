@@ -17,7 +17,7 @@
   },
   {
     "name": "Bucks",
-    "style": "BALANCED_DISCIPLINE"
+    "style": "GRIT_GRIND"
   },
   {
     "name": "Timberwolves",
@@ -115,7 +115,6 @@
     "name": "Cavaliers",
     "style": "PHYSICAL_SMASHMOUTH"
   },
-  
   {
     "name": "Heat",
     "style": "TRIANGLE_FUNDAMENTALS"
