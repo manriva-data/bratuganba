@@ -49,5 +49,24 @@
     "comment": "",
     "addedAt": "2026-08-25T02:40:54.284Z",
     "updatedAt": "2026-08-25T02:40:54.284Z"
+  },
+  {
+    "id": "Kings_pack_1787625750425",
+    "type": "pack",
+    "team": "Kings",
+    "players": [
+      {
+        "player": "Cade Cunningham",
+        "pos": "PG"
+      },
+      {
+        "player": "Draymond Green",
+        "pos": "PF"
+      }
+    ],
+    "wants": "Esses dois jogadores podem sair juntos pelo o Valor de um All Star + Pick 1",
+    "comment": "",
+    "addedAt": "2026-08-25T02:42:30.425Z",
+    "updatedAt": "2026-08-25T02:42:30.425Z"
   }
 ]
