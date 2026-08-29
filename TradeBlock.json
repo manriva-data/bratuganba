@@ -64,5 +64,24 @@
     "comment": "Jovem, com potencial de crescimento, e bom role player e progundidade",
     "addedAt": "2026-08-29T12:13:52.848Z",
     "updatedAt": "2026-08-29T12:13:52.848Z"
+  },
+  {
+    "id": "Bulls_pack_1788006566140",
+    "type": "pack",
+    "team": "Bulls",
+    "players": [
+      {
+        "player": "James Harden",
+        "pos": "PG"
+      },
+      {
+        "player": "Jose Alvarado",
+        "pos": "PG"
+      }
+    ],
+    "wants": "PG defensivo com bom passe.",
+    "comment": "Outros jogadores podem ser envolvidos.",
+    "addedAt": "2026-08-29T12:29:26.140Z",
+    "updatedAt": "2026-08-29T12:29:26.140Z"
   }
 ]
