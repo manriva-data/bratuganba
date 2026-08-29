@@ -53,5 +53,16 @@
     "comment": "Posso enviar minha 1° escolha De 2027, dependendo de quem venha",
     "addedAt": "2026-08-29T11:48:18.379Z",
     "updatedAt": "2026-08-29T11:48:18.379Z"
+  },
+  {
+    "id": "Lakers_Santi_Aldama_1788005632848",
+    "type": "single",
+    "team": "Lakers",
+    "player": "Santi Aldama",
+    "pos": "PF",
+    "wants": "Upgrade a PF, envolvendo outros jogadores",
+    "comment": "Jovem, com potencial de crescimento, e bom role player e progundidade",
+    "addedAt": "2026-08-29T12:13:52.848Z",
+    "updatedAt": "2026-08-29T12:13:52.848Z"
   }
 ]
