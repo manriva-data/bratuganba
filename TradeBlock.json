@@ -72,5 +72,36 @@
     "comment": "Outros jogadores podem ser envolvidos.",
     "addedAt": "2026-08-29T12:29:26.140Z",
     "updatedAt": "2026-08-29T12:30:09.154Z"
+  },
+  {
+    "id": "Lakers_pack_1788017998018",
+    "type": "pack",
+    "team": "Lakers",
+    "players": [
+      {
+        "player": "DeMar DeRozan",
+        "pos": "SF"
+      },
+      {
+        "player": "Devin Vassell",
+        "pos": "SG"
+      },
+      {
+        "player": "Santi Aldama",
+        "pos": "PF"
+      },
+      {
+        "player": "Caris LeVert",
+        "pos": "SG"
+      },
+      {
+        "player": "Isaac Okoro",
+        "pos": "SF"
+      }
+    ],
+    "wants": "PF, SF ou SG titulares - key player ou estrela. Role players também são valorizados, para dar profundidade. Aceitamos expirantes, nestas condições, que ainda possam acrescentar este ano e possamos ainda tentar renovar.",
+    "comment": "Único inegociável é Luka Doncic.\nZubac, Isaiah Joe, Julian Champagnie e Jaylin Williams não são inegociáveis, mas mais dificeis de sairem, tem de ser uma proposta de upgrade em alguma posição.\nRestantes jogadores são negociáveis, para ajuste de negócios.",
+    "addedAt": "2026-08-29T15:39:58.018Z",
+    "updatedAt": "2026-08-29T15:39:58.018Z"
   }
 ]
