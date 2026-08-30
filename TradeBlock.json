@@ -114,5 +114,32 @@
     "comment": "Não tenho interesse em packs, procuro um jogador com qualidade para \"substituir\" o Giannis.",
     "addedAt": "2026-08-30T00:39:26.658Z",
     "updatedAt": "2026-08-30T00:39:57.741Z"
+  },
+  {
+    "id": "TrailBlazers_pack_1788090980213",
+    "type": "pack",
+    "team": "TrailBlazers",
+    "players": [
+      {
+        "player": "Blake Wesley",
+        "pos": "PG"
+      },
+      {
+        "player": "Sam Merrill",
+        "pos": "SG"
+      },
+      {
+        "player": "Jett Howard",
+        "pos": "SF"
+      },
+      {
+        "player": "Quinten Post",
+        "pos": "C"
+      }
+    ],
+    "wants": "Outros expirantes ou jogadores com contrato mais longo, desde que de valor baixo e preferencialmente amnistiáveis",
+    "comment": "Para já temos estes 4 expirantes para doar, caso alguém tenha interesse neles. Estamos à espera de perceber o que acontece com as renovações de Jalen Brunson e Jalen Williams até dia 90, para ter uma noção mais clara da abordagem ao mercado até ao trade deadline.",
+    "addedAt": "2026-08-30T11:56:20.213Z",
+    "updatedAt": "2026-08-30T11:56:20.213Z"
   }
 ]
