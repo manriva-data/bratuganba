@@ -216,5 +216,28 @@
     "comment": "Ideia é envolver pick ou algum outro jogador para melhorar o jogador da posição",
     "addedAt": "2026-08-31T16:04:28.970Z",
     "updatedAt": "2026-08-31T16:04:28.970Z"
+  },
+  {
+    "id": "Bulls_pack_1788303400416",
+    "type": "pack",
+    "team": "Bulls",
+    "players": [
+      {
+        "player": "James Harden",
+        "pos": "PG"
+      },
+      {
+        "player": "Jose Alvarado",
+        "pos": "PG"
+      },
+      {
+        "player": "Dyson Daniels",
+        "pos": "PG"
+      }
+    ],
+    "wants": "Procuramos PG defensivo, bom passe e com 2 anos de contrato ou mais. Procuramos também um upgrade ao Maxi Kleber no banco.",
+    "comment": "",
+    "addedAt": "2026-09-01T22:56:40.416Z",
+    "updatedAt": "2026-09-01T22:56:40.416Z"
   }
 ]
