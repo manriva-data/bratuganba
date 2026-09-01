@@ -216,5 +216,32 @@
     "comment": "Ideia é envolver pick ou algum outro jogador para melhorar o jogador da posição",
     "addedAt": "2026-08-31T16:04:28.970Z",
     "updatedAt": "2026-08-31T16:04:28.970Z"
+  },
+  {
+    "id": "Bulls_pack_1788303470468",
+    "type": "pack",
+    "team": "Bulls",
+    "players": [
+      {
+        "player": "Jakob Poeltl",
+        "pos": "C"
+      },
+      {
+        "player": "James Harden",
+        "pos": "PG"
+      },
+      {
+        "player": "Dyson Daniels",
+        "pos": "PG"
+      },
+      {
+        "player": "Jose Alvarado",
+        "pos": "PG"
+      }
+    ],
+    "wants": "Procuramos PG defensivo, bom passe e com 2 anos de contrato ou mais. Procuramos também um upgrade ao Maxi Kleber no banco.",
+    "comment": "Poeltl ainda não pode ser trocado.",
+    "addedAt": "2026-09-01T22:57:50.468Z",
+    "updatedAt": "2026-09-01T22:57:50.468Z"
   }
 ]
