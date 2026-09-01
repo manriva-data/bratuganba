@@ -55,25 +55,6 @@
     "updatedAt": "2026-08-29T11:48:18.379Z"
   },
   {
-    "id": "Bulls_pack_1788006566140",
-    "type": "pack",
-    "team": "Bulls",
-    "players": [
-      {
-        "player": "James Harden",
-        "pos": "PG"
-      },
-      {
-        "player": "Jose Alvarado",
-        "pos": "PG"
-      }
-    ],
-    "wants": "PG defensivo com bom passe e com contrato +2 anos",
-    "comment": "Outros jogadores podem ser envolvidos. Procuro ainda um melhor PF para o banco.",
-    "addedAt": "2026-08-29T12:29:26.140Z",
-    "updatedAt": "2026-08-29T17:38:38.364Z"
-  },
-  {
     "id": "Lakers_pack_1788017998018",
     "type": "pack",
     "team": "Lakers",
