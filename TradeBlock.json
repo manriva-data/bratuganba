@@ -243,5 +243,24 @@
     "comment": "Poeltl ainda não pode ser trocado.",
     "addedAt": "2026-09-01T22:57:50.468Z",
     "updatedAt": "2026-09-01T22:57:50.468Z"
+  },
+  {
+    "id": "Raptors_pack_1788380406432",
+    "type": "pack",
+    "team": "Raptors",
+    "players": [
+      {
+        "player": "LaMelo Ball",
+        "pos": "PG"
+      },
+      {
+        "player": "Josh Hart",
+        "pos": "PF"
+      }
+    ],
+    "wants": "Jogadores com potencial e picks do próximo draft",
+    "comment": "Estou em Rebuild, quero construir uma equipa à volta do Edwards. Não tenho inegociaveis. Preferia manter o Wells, Ron Holland e Edey, mas se tiver de os envolver para desbloquear um negócio que nos seja benéfico também o faço.",
+    "addedAt": "2026-09-02T20:20:06.432Z",
+    "updatedAt": "2026-09-02T20:20:06.432Z"
   }
 ]
