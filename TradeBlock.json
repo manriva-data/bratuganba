@@ -276,29 +276,6 @@
     "updatedAt": "2026-09-03T17:05:15.060Z"
   },
   {
-    "id": "Pelicans_pack_1788455324692",
-    "type": "pack",
-    "team": "Pelicans",
-    "players": [
-      {
-        "player": "Jalen Green",
-        "pos": "SG"
-      },
-      {
-        "player": "Luguentz Dort",
-        "pos": "SF"
-      },
-      {
-        "player": "Clint Capela",
-        "pos": "C"
-      }
-    ],
-    "wants": "Melhoria a C",
-    "comment": "Não estamos propriamente no mercado, temos muitos jogadores com restrição de 30 dias... mas ouvimos propostas. Barnes e Murray fora do mercado.",
-    "addedAt": "2026-09-03T17:08:44.692Z",
-    "updatedAt": "2026-09-03T17:08:44.692Z"
-  },
-  {
     "id": "Magic_pack_1788456967913",
     "type": "pack",
     "team": "Magic",
