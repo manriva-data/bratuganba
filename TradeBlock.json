@@ -251,5 +251,28 @@
     "comment": "Estou em Rebuild, quero construir uma equipa à volta do Edwards. Não tenho inegociaveis. Preferia manter o Wells, Ron Holland e Edey, mas se tiver de os envolver para desbloquear um negócio que nos seja benéfico também o faço.",
     "addedAt": "2026-09-02T20:20:06.432Z",
     "updatedAt": "2026-09-02T20:20:06.432Z"
+  },
+  {
+    "id": "Pelicans_pack_1788455115060",
+    "type": "pack",
+    "team": "Pelicans",
+    "players": [
+      {
+        "player": "Jalen Green",
+        "pos": "SG"
+      },
+      {
+        "player": "Luguentz Dort",
+        "pos": "SF"
+      },
+      {
+        "player": "Clint Capela",
+        "pos": "C"
+      }
+    ],
+    "wants": "Melhoria a C",
+    "comment": "Não estamos propriamente no mercado, temos muitos jogadores indisponíveis para troca mas podemos ouvir propostas sendo que Murray e Barnes não estão negociáveis",
+    "addedAt": "2026-09-03T17:05:15.060Z",
+    "updatedAt": "2026-09-03T17:05:15.060Z"
   }
 ]
