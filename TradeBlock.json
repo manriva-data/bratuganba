@@ -305,5 +305,24 @@
     "comment": "Apesar de estar a funcionar bem acima da média, procuro reduzir a profundidade de alterar ligeiramente o estilo da equipa.",
     "addedAt": "2026-09-03T17:36:07.913Z",
     "updatedAt": "2026-09-03T17:37:54.780Z"
+  },
+  {
+    "id": "Bulls_pack_1788457764519",
+    "type": "pack",
+    "team": "Bulls",
+    "players": [
+      {
+        "player": "Javonte Green",
+        "pos": "PF"
+      },
+      {
+        "player": "Maxi Kleber",
+        "pos": "PF"
+      }
+    ],
+    "wants": "PF com contrato baixo, sem ser expirante, cerca de 2M",
+    "comment": "",
+    "addedAt": "2026-09-03T17:49:24.519Z",
+    "updatedAt": "2026-09-03T17:49:24.519Z"
   }
 ]
