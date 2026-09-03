@@ -324,5 +324,24 @@
     "comment": "",
     "addedAt": "2026-09-03T17:49:24.519Z",
     "updatedAt": "2026-09-03T17:49:24.519Z"
+  },
+  {
+    "id": "Bulls_pack_1788457899966",
+    "type": "pack",
+    "team": "Bulls",
+    "players": [
+      {
+        "player": "Luke Kennard",
+        "pos": "SG"
+      },
+      {
+        "player": "Jordan Goodwin",
+        "pos": "SG"
+      }
+    ],
+    "wants": "SG/SF com contrato, sem ser expirante, cerca de 2M",
+    "comment": "",
+    "addedAt": "2026-09-03T17:51:39.966Z",
+    "updatedAt": "2026-09-03T17:51:39.966Z"
   }
 ]
