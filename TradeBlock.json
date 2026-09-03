@@ -297,5 +297,36 @@
     "comment": "Não estamos propriamente no mercado, temos muitos jogadores com restrição de 30 dias... mas ouvimos propostas. Barnes e Murray fora do mercado.",
     "addedAt": "2026-09-03T17:08:44.692Z",
     "updatedAt": "2026-09-03T17:08:44.692Z"
+  },
+  {
+    "id": "Magic_pack_1788456967913",
+    "type": "pack",
+    "team": "Magic",
+    "players": [
+      {
+        "player": "Coby White",
+        "pos": "PG"
+      },
+      {
+        "player": "Quentin Grimes",
+        "pos": "SG"
+      },
+      {
+        "player": "Jerami Grant",
+        "pos": "SF"
+      },
+      {
+        "player": "Myles Turner",
+        "pos": "C"
+      },
+      {
+        "player": "P.J. Washington",
+        "pos": "PF"
+      }
+    ],
+    "wants": "Aberto a discuções por cada um destes jogadores, seja individualmente ou em conjunto",
+    "comment": "Apesar de estar a funcionar bem acima da média, procuro reduzir a profundidade de alterar ligeiramente o estilo da equipa.",
+    "addedAt": "2026-09-03T17:36:07.913Z",
+    "updatedAt": "2026-09-03T17:36:07.913Z"
   }
 ]
