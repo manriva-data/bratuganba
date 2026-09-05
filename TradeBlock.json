@@ -393,5 +393,52 @@
     "comment": "",
     "addedAt": "2026-09-04T09:53:08.121Z",
     "updatedAt": "2026-09-04T09:53:08.121Z"
+  },
+  {
+    "id": "Suns_pack_1788608174102",
+    "type": "pack",
+    "team": "Suns",
+    "players": [
+      {
+        "player": "Fred VanVleet",
+        "pos": "PG"
+      },
+      {
+        "player": "Spencer Dinwiddie",
+        "pos": "PG"
+      },
+      {
+        "player": "Bruce Brown Jr.",
+        "pos": "PG"
+      },
+      {
+        "player": "Markelle Fultz",
+        "pos": "PG"
+      },
+      {
+        "player": "Cameron Thomas",
+        "pos": "PG"
+      },
+      {
+        "player": "Malik Beasley",
+        "pos": "PG"
+      },
+      {
+        "player": "Harrison Barnes",
+        "pos": "PG"
+      },
+      {
+        "player": "GG Jackson",
+        "pos": "PG"
+      },
+      {
+        "player": "Ochai Agbaji",
+        "pos": "PG"
+      }
+    ],
+    "wants": "jogador com star power para a posicao de SG ou PF",
+    "comment": "pretendemos juntar uma estrela a equipa para a posicao de SG ou PF, mesmo que sejam expirantes nao nos importamos, temos varios jogadores com contratos engracados e que podem ser uteis para varias equipas",
+    "addedAt": "2026-09-05T11:36:14.102Z",
+    "updatedAt": "2026-09-05T11:36:14.102Z"
   }
 ]
