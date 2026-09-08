@@ -420,5 +420,16 @@
     "comment": "Expirante, quem quiser um rebuild valorizamos bons jogadores em desenvolvimento",
     "addedAt": "2026-09-08T19:20:12.098Z",
     "updatedAt": "2026-09-08T19:20:12.098Z"
+  },
+  {
+    "id": "Lakers_Devin_Vassell_1788895294823",
+    "type": "single",
+    "team": "Lakers",
+    "player": "Devin Vassell",
+    "pos": "SG",
+    "wants": "SG, SF ou PF titular",
+    "comment": "Key players ou jovens com potencial preferencial",
+    "addedAt": "2026-09-08T19:21:34.823Z",
+    "updatedAt": "2026-09-08T19:21:34.823Z"
   }
 ]
