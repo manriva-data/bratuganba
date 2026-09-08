@@ -453,5 +453,32 @@
     "comment": "",
     "addedAt": "2026-09-08T19:24:43.186Z",
     "updatedAt": "2026-09-08T19:24:43.186Z"
+  },
+  {
+    "id": "Lakers_pack_1788895645794",
+    "type": "pack",
+    "team": "Lakers",
+    "players": [
+      {
+        "player": "Isaac Okoro",
+        "pos": "SF"
+      },
+      {
+        "player": "Josh Okogie",
+        "pos": "SF"
+      },
+      {
+        "player": "Danny Wolf",
+        "pos": "PF"
+      },
+      {
+        "player": "Marcus Sasser",
+        "pos": "PG"
+      }
+    ],
+    "wants": "Procuro expirantes, ou jogadores mais baratos para rotação. Individualmente a incluir em negócios com outros jogadores listados.,",
+    "comment": "",
+    "addedAt": "2026-09-08T19:27:25.794Z",
+    "updatedAt": "2026-09-08T19:27:25.794Z"
   }
 ]
