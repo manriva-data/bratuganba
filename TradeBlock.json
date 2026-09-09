@@ -437,5 +437,24 @@
     "comment": "",
     "addedAt": "2026-09-09T09:40:40.003Z",
     "updatedAt": "2026-09-09T09:40:40.003Z"
+  },
+  {
+    "id": "Bulls_pack_1788946896598",
+    "type": "pack",
+    "team": "Bulls",
+    "players": [
+      {
+        "player": "Jordan Goodwin",
+        "pos": "SG"
+      },
+      {
+        "player": "Maxi Kleber",
+        "pos": "PF"
+      }
+    ],
+    "wants": "PF com contrato baixo, +2 anos",
+    "comment": "",
+    "addedAt": "2026-09-09T09:41:36.598Z",
+    "updatedAt": "2026-09-09T09:41:36.598Z"
   }
 ]
