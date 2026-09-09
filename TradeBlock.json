@@ -490,5 +490,48 @@
     "comment": "",
     "addedAt": "2026-09-09T10:17:04.005Z",
     "updatedAt": "2026-09-09T10:17:04.005Z"
+  },
+  {
+    "id": "Kings_pack_1788967355433",
+    "type": "pack",
+    "team": "Kings",
+    "players": [
+      {
+        "player": "Goga Bitadze",
+        "pos": "C"
+      },
+      {
+        "player": "Mark Williams",
+        "pos": "C"
+      },
+      {
+        "player": "Pascal Siakam",
+        "pos": "PF"
+      },
+      {
+        "player": "Haywood Highsmith",
+        "pos": "PF"
+      },
+      {
+        "player": "Liam McNeeley",
+        "pos": "SF"
+      },
+      {
+        "player": "LeBron James",
+        "pos": "SF"
+      },
+      {
+        "player": "Gary Harris",
+        "pos": "SG"
+      },
+      {
+        "player": "Nolan Traore",
+        "pos": "PG"
+      }
+    ],
+    "wants": "Procuro um bom jogador pra compor o banco ou um star power",
+    "comment": "Todos os jogadores listados estão disponíveis para trade. Jogadores expirantes, stars ou bons role players são bem-vindos. Lebron James e Pascal Siakam, embora sejam difíceis de sair, poderão estar disponíveis no dia 100.",
+    "addedAt": "2026-09-09T15:22:35.434Z",
+    "updatedAt": "2026-09-09T15:22:35.434Z"
   }
 ]
