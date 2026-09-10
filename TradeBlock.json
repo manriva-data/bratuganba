@@ -518,5 +518,32 @@
     "comment": "",
     "addedAt": "2026-09-10T09:05:15.899Z",
     "updatedAt": "2026-09-10T09:05:15.899Z"
+  },
+  {
+    "id": "Pacers_pack_1789048717502",
+    "type": "pack",
+    "team": "Pacers",
+    "players": [
+      {
+        "player": "Scotty Pippen Jr.",
+        "pos": "PG"
+      },
+      {
+        "player": "Maxime Raynaud",
+        "pos": "C"
+      },
+      {
+        "player": "Keegan Murray",
+        "pos": "SF"
+      },
+      {
+        "player": "Jaylen Nowell",
+        "pos": "SG"
+      }
+    ],
+    "wants": "Pretendemos um jogador para PG de forma a libertar o D Mitchell dessas funcões",
+    "comment": "Poderemos pensar em algo mais profundo, nomeadamente a um dos top 3 da equipa mas será mais dificl",
+    "addedAt": "2026-09-10T13:58:37.502Z",
+    "updatedAt": "2026-09-10T13:58:37.502Z"
   }
 ]
