@@ -537,5 +537,36 @@
     "comment": "",
     "addedAt": "2026-09-11T20:00:00.777Z",
     "updatedAt": "2026-09-11T20:00:00.777Z"
+  },
+  {
+    "id": "Cavaliers_pack_1789480432683",
+    "type": "pack",
+    "team": "Cavaliers",
+    "players": [
+      {
+        "player": "Deandre Ayton",
+        "pos": "C"
+      },
+      {
+        "player": "Ace Bailey",
+        "pos": "SG"
+      },
+      {
+        "player": "Derrick White",
+        "pos": "SG"
+      },
+      {
+        "player": "Tre Johnson",
+        "pos": "SG"
+      },
+      {
+        "player": "Tristan da Silva",
+        "pos": "PF"
+      }
+    ],
+    "wants": "Procuro expirantes ou jogadores com melhor ratings",
+    "comment": "Procuro neste momento equilibrar a equipa para ter mais opções titulares para a próxima época, por isso quem precisar de profundidade no plantel fale comigo",
+    "addedAt": "2026-09-15T13:53:52.683Z",
+    "updatedAt": "2026-09-15T13:53:52.683Z"
   }
 ]
