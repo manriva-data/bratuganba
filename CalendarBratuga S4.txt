@@ -1571,3 +1571,7 @@ Magic x Raptors
 Pacers x Bulls
 Jazz x Grizzlies
 TrailBlazers x Lakers
+
+CUP 7:
+Magic x Bulls
+Jazz x TrailBlazers
