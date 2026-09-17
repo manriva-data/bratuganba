@@ -1575,3 +1575,6 @@ TrailBlazers x Lakers
 CUP 7:
 Magic x Bulls
 Jazz x TrailBlazers
+
+CUP fim:
+TrailBlazers x Bulls
