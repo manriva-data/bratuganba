@@ -557,5 +557,28 @@
     "comment": "Hield é o único disponivel para troca",
     "addedAt": "2026-09-15T19:11:13.161Z",
     "updatedAt": "2026-09-15T19:11:13.161Z"
+  },
+  {
+    "id": "Bulls_pack_1789685297649",
+    "type": "pack",
+    "team": "Bulls",
+    "players": [
+      {
+        "player": "Jakob Poeltl",
+        "pos": "C"
+      },
+      {
+        "player": "Kelly Oubre Jr.",
+        "pos": "SF"
+      },
+      {
+        "player": "Dalano Banton",
+        "pos": "SG"
+      }
+    ],
+    "wants": "Jogadores expirantes ou jogador não amnestiável",
+    "comment": "Com o prémio da cup posso ponderar trocar ambos ou só um deles por um jogador não amnestiável, sendo que posso usar o prémio para amnestiar. Poeltl, Oubre e Banton são amnestiáveis.",
+    "addedAt": "2026-09-17T22:48:17.649Z",
+    "updatedAt": "2026-09-17T22:48:17.649Z"
   }
 ]
