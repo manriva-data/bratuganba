@@ -548,17 +548,6 @@
     "updatedAt": "2026-09-15T14:04:55.561Z"
   },
   {
-    "id": "Celtics_Buddy_Hield_1789499473161",
-    "type": "single",
-    "team": "Celtics",
-    "player": "Buddy Hield",
-    "pos": "SG",
-    "wants": "SF",
-    "comment": "Hield é o único disponivel para troca",
-    "addedAt": "2026-09-15T19:11:13.161Z",
-    "updatedAt": "2026-09-15T19:11:13.161Z"
-  },
-  {
     "id": "Bulls_pack_1789685297649",
     "type": "pack",
     "team": "Bulls",
