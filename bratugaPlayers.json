@@ -16,19 +16,19 @@
 	],
 	
 	"Boston Celtics": [
-		"Payton Pritchard",
+		"Trae Young",
 		"Ryan Nembhard",
 		"Buddy Hield",
-		"Drake Powell",
 		"Cedric Coward",
-		"Pelle Larsson",
+		"Brandon Boston Jr.",
 		"Kris Murray",
 		"Nicolas Batum",
 		"Taylor Hendricks",
-		"Obi Toppin",
 		"Collin Murray-Boyles",
+		"Mouhamed Gueye",
 		"Jonas Valanciunas",
-		"Isaiah Hartenstein"
+		"Isaiah Hartenstein",
+		"Adem Bona"
 	],
 	
 	"Brooklyn Nets": [
@@ -156,19 +156,19 @@
 	"Golden State Warriors": [
 		"Keyonte George",
 		"Scoot Henderson",
+		"Jaylen Nowell",
+		"Anfernee Simons",
 		"Gabe Vincent",
 		"Josh Giddey",
 		"Collin Sexton",
 		"Nique Clifford",
-		"Taurean Prince",
 		"Jaden McDaniels",
-		"Joe Ingles",
 		"Cody Williams",
 		"Cameron Johnson",
 		"Karl-Anthony Towns",
-		"Julius Randle",
+		"Toumani Camara",
 		"Kel’el Ware",
-		"Jock Landale"
+		"Maxime Raynaud"
 	],
 
 	"Houston Rockets": [
@@ -187,21 +187,21 @@
 		"Daniel Gafford",
 		"Alperen Sengun"
 	],
-
+	
 	"Indiana Pacers": [
 		"Scotty Pippen Jr.",
 		"Walter Clayton Jr.",
-		"Jaylen Nowell",
 		"Donovan Mitchell",
 		"Ajay Mitchell",
-		"Anfernee Simons",
+		"Joe Ingles",
 		"Kevin Durant",
-		"Toumani Camara",
 		"Keegan Murray",
 		"Trey Lyles",
+		"Julius Randle",
+		"Taurean Prince",
 		"Marvin Bagley III",
 		"Walker Kessler",
-		"Maxime Raynaud"
+		"Jock Landale"
 	],
 
 	"LA Clippers": [
@@ -446,16 +446,18 @@
 	],
 
 	"San Antonio Spurs": [
-		"Trae Young",
+		"Payton Pritchard",
 		"Jeremiah Fears",
 		"Nikola Topic",
 		"Ben Sheppard",
 		"Julian Strawther",
+		"Drake Powell",
+		"Pelle Larsson",
 		"Max Strus",
 		"Tyrese Martin",
 		"Jalen Johnson",
 		"Kyle Anderson",
-		"Mouhamed Gueye",
+		"Obi Toppin",
 		"Joan Beringer",
 		"Anthony Davis",
 		"Day'Ron Sharpe"
