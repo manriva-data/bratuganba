@@ -569,5 +569,24 @@
     "comment": "Com o prémio da cup posso ponderar trocar ambos ou só um deles por um jogador não amnestiável, sendo que posso usar o prémio para amnestiar. Poeltl, Oubre e Banton são amnestiáveis.",
     "addedAt": "2026-09-17T22:48:17.649Z",
     "updatedAt": "2026-09-17T22:48:17.649Z"
+  },
+  {
+    "id": "Celtics_pack_1789737013178",
+    "type": "pack",
+    "team": "Celtics",
+    "players": [
+      {
+        "player": "Jonas Valanciunas",
+        "pos": "C"
+      },
+      {
+        "player": "Buddy Hield",
+        "pos": "SG"
+      }
+    ],
+    "wants": "SF",
+    "comment": "VALANCIUNAS E BUDDY SAO OS UNICOS Q PODEM SAIR, OS OUTROS FICARAO NO PLANTEL",
+    "addedAt": "2026-09-18T13:10:13.178Z",
+    "updatedAt": "2026-09-18T13:10:13.178Z"
   }
 ]
