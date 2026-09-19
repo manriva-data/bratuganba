@@ -577,5 +577,28 @@
     "comment": "VALANCIUNAS E BUDDY SAO OS UNICOS Q PODEM SAIR, OS OUTROS FICARAO NO PLANTEL",
     "addedAt": "2026-09-18T13:10:13.178Z",
     "updatedAt": "2026-09-18T13:10:13.178Z"
+  },
+  {
+    "id": "Warriors_pack_1789838824509",
+    "type": "pack",
+    "team": "Warriors",
+    "players": [
+      {
+        "player": "Cameron Johnson",
+        "pos": "PF"
+      },
+      {
+        "player": "Collin Sexton",
+        "pos": "PG"
+      },
+      {
+        "player": "Anfernee Simons",
+        "pos": "SG"
+      }
+    ],
+    "wants": "Pick futura, jovem valor",
+    "comment": "Buscamos trocar esses 3 jogadores + alguns outros em troca de Pick futura, jovens promessas e jogadores expirantes para bater salários.",
+    "addedAt": "2026-09-19T17:27:04.509Z",
+    "updatedAt": "2026-09-19T17:27:04.509Z"
   }
 ]
