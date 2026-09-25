@@ -568,5 +568,16 @@
     "comment": "Conforme a troca, posso incluir a minha 1st Pick.",
     "addedAt": "2026-09-23T14:02:31.327Z",
     "updatedAt": "2026-09-23T14:02:31.327Z"
+  },
+  {
+    "id": "Bulls_Jakob_Poeltl_1790326327519",
+    "type": "single",
+    "team": "Bulls",
+    "player": "Jakob Poeltl",
+    "pos": "C",
+    "wants": "Por PF/C expirante.",
+    "comment": "",
+    "addedAt": "2026-09-25T08:52:07.519Z",
+    "updatedAt": "2026-09-25T08:52:07.519Z"
   }
 ]
