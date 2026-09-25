@@ -453,25 +453,6 @@
     "updatedAt": "2026-09-10T13:58:37.502Z"
   },
   {
-    "id": "Bulls_pack_1789156800777",
-    "type": "pack",
-    "team": "Bulls",
-    "players": [
-      {
-        "player": "Luke Kennard",
-        "pos": "SG"
-      },
-      {
-        "player": "Javonte Green",
-        "pos": "PF"
-      }
-    ],
-    "wants": "Fora de mercado, de saída.",
-    "comment": "",
-    "addedAt": "2026-09-11T20:00:00.777Z",
-    "updatedAt": "2026-09-11T20:00:00.777Z"
-  },
-  {
     "id": "Cavaliers_pack_1789480432683",
     "type": "pack",
     "team": "Cavaliers",
