@@ -546,5 +546,28 @@
     "comment": "Conforme a troca, posso incluir a minha 1st Pick.",
     "addedAt": "2026-09-23T14:02:31.327Z",
     "updatedAt": "2026-09-23T14:02:31.327Z"
+  },
+  {
+    "id": "Bulls_pack_1790538457894",
+    "type": "pack",
+    "team": "Bulls",
+    "players": [
+      {
+        "player": "James Harden",
+        "pos": "PG"
+      },
+      {
+        "player": "Mikal Bridges",
+        "pos": "SF"
+      },
+      {
+        "player": "Dyson Daniels",
+        "pos": "PG"
+      }
+    ],
+    "wants": "Todos os expirantes podem sair...",
+    "comment": "",
+    "addedAt": "2026-09-27T19:47:37.894Z",
+    "updatedAt": "2026-09-27T19:47:37.894Z"
   }
 ]
