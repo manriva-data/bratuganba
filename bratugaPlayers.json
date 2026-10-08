@@ -35,16 +35,18 @@
 		"De’Aaron Fox",
 		"Shake Milton",
 		"AJ Johnson",
+		"Seth Curry",
 		"Zach LaVine",
 		"Alec Burks",
+		"Jordan Clarkson",
 		"Dante Exum",
 		"Dean Wade",
 		"Kenyon Martin Jr.",
+		"Aaron Wiggins",
 		"Asa Newell",
-		"Kristaps Porzingis",
 		"John Collins",
-		"Richaun Holmes",
-		"Thomas Sorber"
+		"Thomas Sorber",
+		"Wendell Carter Jr."
 	],
 
 	"Charlotte Hornets": [
@@ -103,17 +105,16 @@
 		"Russell Westbrook",
 		"Damian Lillard",
 		"Dylan Harper",
-		"Seth Curry",
-		"Jordan Clarkson",
 		"Eric Gordon",
 		"Grayson Allen",
 		"Rui Hachimura",
 		"Josh Minott",
-		"Aaron Wiggins",
+		"Jalen Wilson",
 		"Jake LaRavia",
 		"Chris Boucher",
 		"Naz Reid",
-		"Wendell Carter Jr."
+		"Kristaps Porzingis",
+		"Richaun Holmes"
 	],
 
 	"Denver Nuggets": [
@@ -325,14 +326,14 @@
 	
 	"New York Knicks": [
 		"Fred VanVleet",
-		"Jrue Holiday",
 		"Ryan Rollins",
 		"Marcus Smart",
 		"Reed Sheppard",
+		"Jrue Holiday",
 		"Gary Trent Jr.",
-		"Herbert Jones",
 		"Corey Kispert",
 		"John Konchar",
+		"Herbert Jones",
 		"Sam Hauser",
 		"OG Anunoby",
 		"Jabari Smith Jr.",
@@ -393,10 +394,10 @@
 
 	"Phoenix Suns": [
 		"Spencer Dinwiddie",
-		"Terry Rozier III",
 		"Bruce Brown Jr.",
-		"Kasparas Jakucionis",
 		"Markelle Fultz",
+		"Terry Rozier III",
+		"Kasparas Jakucionis",
 		"Cameron Thomas",
 		"Malik Beasley",
 		"Ja’Kobe Walter",
