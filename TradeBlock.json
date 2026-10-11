@@ -518,5 +518,48 @@
     "comment": "Sou o único GM capaz de amnestiar um jogador não-amnestiável no fim da época. Parece que está tudo satisfeito com os contratos que têm porque não recebi nenhuma proposta neste sentido. Mas se alguém vir algo de interesse, posso sujeitar-me a ficar com um mau contrato não-amnestiável.",
     "addedAt": "2026-10-01T20:49:27.189Z",
     "updatedAt": "2026-10-01T20:49:27.189Z"
+  },
+  {
+    "id": "Bulls_pack_1791723588748",
+    "type": "pack",
+    "team": "Bulls",
+    "players": [
+      {
+        "player": "James Harden",
+        "pos": "PG"
+      },
+      {
+        "player": "Dyson Daniels",
+        "pos": "PG"
+      },
+      {
+        "player": "Jose Alvarado",
+        "pos": "PG"
+      },
+      {
+        "player": "Mikal Bridges",
+        "pos": "SF"
+      },
+      {
+        "player": "Giannis Antetokounmpo",
+        "pos": "PF"
+      },
+      {
+        "player": "Jakob Poeltl",
+        "pos": "C"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "pos": "C"
+      },
+      {
+        "player": "Bennedict Mathurin",
+        "pos": "SF"
+      }
+    ],
+    "wants": "A pedido de muitas famílias, tudo para troca inclusivé Wemby.",
+    "comment": "",
+    "addedAt": "2026-10-11T12:59:48.748Z",
+    "updatedAt": "2026-10-11T12:59:48.748Z"
   }
 ]
