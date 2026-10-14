@@ -507,5 +507,16 @@
     "comment": "Conforme a troca, posso incluir a minha 1st Pick.",
     "addedAt": "2026-09-23T14:02:31.327Z",
     "updatedAt": "2026-09-23T14:02:31.327Z"
+  },
+  {
+    "id": "Bulls_Jose_Alvarado_1792010490695",
+    "type": "single",
+    "team": "Bulls",
+    "player": "Jose Alvarado",
+    "pos": "PG",
+    "wants": "SG ou PF para o banco.",
+    "comment": "",
+    "addedAt": "2026-10-14T20:41:30.695Z",
+    "updatedAt": "2026-10-14T20:41:30.695Z"
   }
 ]
