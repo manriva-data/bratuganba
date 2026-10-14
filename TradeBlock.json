@@ -507,48 +507,5 @@
     "comment": "Conforme a troca, posso incluir a minha 1st Pick.",
     "addedAt": "2026-09-23T14:02:31.327Z",
     "updatedAt": "2026-09-23T14:02:31.327Z"
-  },
-  {
-    "id": "Bulls_pack_1791723588748",
-    "type": "pack",
-    "team": "Bulls",
-    "players": [
-      {
-        "player": "James Harden",
-        "pos": "PG"
-      },
-      {
-        "player": "Dyson Daniels",
-        "pos": "PG"
-      },
-      {
-        "player": "Jose Alvarado",
-        "pos": "PG"
-      },
-      {
-        "player": "Mikal Bridges",
-        "pos": "SF"
-      },
-      {
-        "player": "Giannis Antetokounmpo",
-        "pos": "PF"
-      },
-      {
-        "player": "Jakob Poeltl",
-        "pos": "C"
-      },
-      {
-        "player": "Victor Wembanyama",
-        "pos": "C"
-      },
-      {
-        "player": "Bennedict Mathurin",
-        "pos": "SF"
-      }
-    ],
-    "wants": "A pedido de muitas famílias, tudo para troca inclusivé Wemby.",
-    "comment": "",
-    "addedAt": "2026-10-11T12:59:48.748Z",
-    "updatedAt": "2026-10-11T12:59:48.748Z"
   }
 ]
