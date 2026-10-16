@@ -1,7 +1,6 @@
 Nome, POS , PlayerType, Rotacao, DefenseIntense, MinuteType
 AJ Johnson, PG, 3, 3, 2, 38a
 Asa Newell, PF, 2, 3, 2, 34a
-Nique Clifford, SF, 5, 2, 3, 38b
 Tyrese Maxey, PG, 1, 1, 2, 38a
 Jaden Ivey, SG, 4, 1, 2, 30b
 Ausar Thompson, SF, 6, 1, 3, 34b
@@ -216,7 +215,6 @@ Kenyon Martin Jr., PF, 1, 2, 2, 30a
 Wendell Carter Jr., C, 6, 2, 2, 30a
 Dante Exum, SF, 4, 3, 2, 34a
 Dean Wade, PF, 4, 3, 2, 30a
-Jakob Poeltl, C, 2, 2, 3, 34a
 Derrick White, PG, 4, 1, 2, 34a
 Anthony Edwards, SG, 4, 1, 2, 38b
 Justin Edwards, SF, 1, 1, 2, 34a
@@ -232,8 +230,6 @@ Dalton Knecht, SG, 5, 3, 2, 38b
 Ziaire Williams, SF, 4, 3, 2, 34a
 Amari Williams, PF, 2, 3, 2, 34b
 DeMarcus Cousins, C, 2, 3, 2, 34b
-Josh Giddey, SG, 4, 1, 2, 34a
-Cody Williams, SF, 4, 3, 2, 34a
 Spencer Dinwiddie, PG, 1, 1, 2, 30b
 Cameron Thomas, SG, 1, 1, 1, 34b
 Harrison Barnes, SF, 1, 1, 2, 30a
@@ -373,18 +369,7 @@ Tari Eason, PF, 2, 2, 3, 38b
 Jonathan Isaac, C, 2, 2, 3, 24a
 T.J. Warren, SF, 2, 3, 3, 34a
 Dylan Cardwell, C, 2, 3, 3, 24a
-Shai Gilgeous-Alexander, PG, 2, 1, 1, 34a
-Josh Hart, SF, 5, 1, 2, 34a
-Cole Anthony, PG, 1, 2, 1, 34a
-Vasilije Micic, SG, 1, 2, 1, 34a
-De’Anthony Melton, SF, 1, 2, 1, 34a
-Kelly Oubre Jr., PF, 1, 2, 1, 24b
-Dario Saric, C, 1, 2, 1, 24b
-Sion James, PG, 1, 3, 1, 34a
-Moses Moody, SG, 1, 3, 1, 34a
-Peyton Watson, SF, 1, 3, 1, 34a
 Javonte Green, PF, 1, 3, 1, 24b
-Andre Drummond, C, 1, 3, 1, 24b
 Keyonte George, PG, 4, 1, 2, 34b
 Amen Thompson, SG, 2, 1, 2, 38b
 Jaden McDaniels, SF, 6, 1, 2, 34a
@@ -411,3 +396,18 @@ Dalano Banton, PG, 5, 3, 2, 30a
 Jordan Goodwin, SG, 1, 3, 3, 34a
 Tidjane Salaun, PF, 1, 3, 2, 38a
 Dewayne Dedmon, C, 1, 3, 3, 38b
+Shai Gilgeous-Alexander, PG, 2, 1, 1, 34a
+Josh Giddey, SG, 4, 1, 1, 34a
+Josh Hart, SF, 5, 1, 2, 34a
+De’Anthony Melton, PF, 6, 1, 3, 24b
+Jakob Poeltl, C, 2, 1, 3, 24b
+Cole Anthony, PG, 1, 2, 1, 34a
+Vasilije Micic, SG, 1, 2, 1, 34a
+Nique Clifford, SF, 1, 2, 1, 34a
+Kelly Oubre Jr., PF, 1, 2, 1, 24b
+Dario Saric, C, 1, 2, 1, 24b
+Sion James, PG, 1, 3, 1, 34a
+Moses Moody, SG, 1, 3, 1, 34a
+Peyton Watson, SF, 1, 3, 1, 34a
+Cody Williams, PF, 1, 3, 1, 24b
+Andre Drummond, C, 1, 3, 1, 24b
