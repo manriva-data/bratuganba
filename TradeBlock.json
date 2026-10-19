@@ -507,5 +507,36 @@
     "comment": "Conforme a troca, posso incluir a minha 1st Pick.\nTodos os jogadores estão disponíveis, menos Morant e Barnes.",
     "addedAt": "2026-09-23T14:02:31.327Z",
     "updatedAt": "2026-10-15T14:35:21.043Z"
+  },
+  {
+    "id": "Bulls_pack_1792426154726",
+    "type": "pack",
+    "team": "Bulls",
+    "players": [
+      {
+        "player": "Jose Alvarado",
+        "pos": "PG"
+      },
+      {
+        "player": "Luke Kennard",
+        "pos": "SG"
+      },
+      {
+        "player": "Bennedict Mathurin",
+        "pos": "SF"
+      },
+      {
+        "player": "Nikola Vucevic",
+        "pos": "C"
+      },
+      {
+        "player": "Jordan Goodwin",
+        "pos": "SG"
+      }
+    ],
+    "wants": "Tudo disponível para negociações. Principal objetivo: baixar da Lux.",
+    "comment": "Mathurin, Vucevic e mesmo o Keegan Murray que irá vir dos Pacers estão na regras dos 30 dias, serão negociáveis apenas se houver algum tipo de exceção no deadline.",
+    "addedAt": "2026-10-19T16:09:14.726Z",
+    "updatedAt": "2026-10-19T16:09:14.726Z"
   }
 ]
