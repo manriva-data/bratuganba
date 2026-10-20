@@ -14,16 +14,18 @@
 		"Kevin Love",
 		"Steven Adams"
 	],
-	
+
 	"Boston Celtics": [
 		"Trae Young",
 		"Ryan Nembhard",
+		"Collin Sexton",
 		"Buddy Hield",
 		"Cedric Coward",
 		"Brandon Boston Jr.",
 		"Kris Murray",
 		"Nicolas Batum",
 		"Taylor Hendricks",
+		"Cameron Johnson",
 		"Collin Murray-Boyles",
 		"Mouhamed Gueye",
 		"Jonas Valanciunas",
@@ -68,20 +70,19 @@
 	],
 
 	"Chicago Bulls": [
-		"James Harden",
-		"Dyson Daniels",
 		"Jose Alvarado",
-		"Luke Kennard",
-		"Bennedict Mathurin",
-		"Jordan Goodwin",
 		"Dalano Banton",
-		"Mikal Bridges",				
+		"Luke Kennard",
+		"Jordan Goodwin",
+		"Bennedict Mathurin",
+		"Tidjane Salaun",
+		"Kevin Durant",
+		"Keegan Murray",
 		"Maxi Kleber",
 		"Giannis Antetokounmpo",
-		"Tidjane Salaun",
 		"Victor Wembanyama",
-		"Nikola Vucevic",
-		"Dewayne Dedmon"
+		"Dewayne Dedmon",
+		"Nikola Vucevic"
 	],
 
 	"Cleveland Cavaliers": [
@@ -130,7 +131,7 @@
 		"Trentyn Flowers",
 		"Jarace Walker",
 		"Trendon Watford",
-		"Yves Missi",
+		"Clint Capela",
 		"Brandon Clarke",
 		"Nicolas Claxton"
 	],
@@ -152,21 +153,21 @@
 		"Andre Drummond",
 		"Jakob Poeltl"
 	],
-	
+
 	"Golden State Warriors": [
 		"Keyonte George",
 		"Scoot Henderson",
 		"Gabe Vincent",
 		"Jaylen Nowell",
-		"Collin Sexton",
 		"Anfernee Simons",
 		"Amen Thompson",
 		"Jaden McDaniels",
-		"Cameron Johnson",
+		"Kessler Edwards";
 		"Toumani Camara",
 		"Karl-Anthony Towns",
 		"Bobby Portis",
 		"Kel’el Ware",
+		"Jonas Valanciunas",
 		"Maxime Raynaud"
 	],
 		
@@ -190,14 +191,15 @@
 	"Indiana Pacers": [
 		"Scotty Pippen Jr.",
 		"Walter Clayton Jr.",
+		"James Harden",
+		"Dyson Daniels",
 		"Donovan Mitchell",
 		"Ajay Mitchell",
+		"Mikal Bridges",
+		"Taurean Prince",
 		"Joe Ingles",
-		"Kevin Durant",
-		"Keegan Murray",
 		"Trey Lyles",
 		"Julius Randle",
-		"Taurean Prince",
 		"Marvin Bagley III",
 		"Walker Kessler",
 		"Jock Landale"
@@ -320,7 +322,7 @@
 		"Guerschon Yabusele",
 		"Trayce Jackson-Davis",
 		"Thomas Bryant",
-		"Clint Capela"
+		"Yves Missi"
 	],
 	
 	"New York Knicks": [
@@ -497,7 +499,6 @@
 	
 	"Washington Wizards": [
 		"Collin Gillespie",
-		"Jaden Hardy",
 		"Tyrese Haliburton",
 		"Dejounte Murray",
 		"Cam Spencer",
