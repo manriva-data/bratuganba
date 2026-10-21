@@ -1,18 +1,19 @@
 {
 	"Atlanta Hawks": [
 		"Stephen Curry",
-		"Devin Carter",
-		"Quenton Jackson",
-		"Kyrie Irving",
 		"Evan Fournier",
 		"Andre Jackson Jr.",
+		"Blake Wesley",
+		"Alex Caruso",
 		"Ryan Dunn",
+		"Jett Howard",
 		"Jimmy Butler",
 		"Doug McDermott",
-		"Al Horford",
+		"Dario Saric",
 		"Derik Queen",
 		"Kevin Love",
-		"Steven Adams"
+		"Quentin Post",
+		"Dereck Lively II"
 	],
 
 	"Boston Celtics": [
@@ -138,17 +139,16 @@
 	"Detroit Pistons": [
 		"Shai Gilgeous-Alexander",
 		"Cole Anthony",
-		"Vasilije Micic",
+		"Devin Carter",
 		"De’Anthony Melton",
 		"Josh Giddey",
-		"Sion James",
 		"Nique Clifford",
-		"Moses Moody",
 		"Kelly Oubre Jr.",
+		"Gary Payton II",
 		"Cody Williams",
 		"Peyton Watson",
 		"Josh Hart",
-		"Dario Saric",
+		"Johni Broome",
 		"Andre Drummond",
 		"Jakob Poeltl"
 	],
@@ -208,16 +208,18 @@
 	"LA Clippers": [
 		"D’Angelo Russell",
 		"Ty Jerome",
+		"Quenton Jackson",
+		"Vasilije Micic",
 		"Austin Reaves",
 		"Keon Ellis",
 		"Kon Knueppel",
 		"Klay Thompson",
 		"Paul George",
 		"Saddiq Bey",
+		"Dorian Finney-Smith",
+		"Al Horford",
 		"Alexandre Sarr",
-		"Johni Broome",
-		"Christian Wood",
-		"Dereck Lively II",
+		"Mason Plumlee",
 		"Neemias Queta"
 	],
 	
@@ -412,19 +414,17 @@
 	"Portland Trail Blazers": [
 		"Jalen Brunson",
 		"Davion Mitchell",
-		"Blake Wesley",
+		"Kyrie Irving",
+		"Moses Moody",
+		"Sion James",
 		"Sam Merrill",
-		"Alex Caruso",
-		"Gary Payton II",
 		"Brice Sensabaugh",
 		"Carter Bryant",
 		"Will Riley",
 		"Dillon Brooks",
 		"Jalen Williams",
-		"Dorian Finney-Smith",
 		"Nikola Jokic",
-		"Mason Plumlee",
-		"Quinten Post"
+		"Christian Wood"
 	],
 
 	"Sacramento Kings": [
