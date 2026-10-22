@@ -508,5 +508,16 @@
     "comment": "Procuro um PF reserva, pode ser expirante ou ter contrato. Dependendo do jogador, posso incluir a 1st round pick do próximo draft (2026). Tenho expirantes ou então jogadores amnistiáveis, caso ainda não tenham destino para a amnesty. Não posso receber mais salários dos que envio porque estou no limite da luxury tax e não quero ultrapassar.",
     "addedAt": "2026-10-22T14:29:50.921Z",
     "updatedAt": "2026-10-22T14:29:50.921Z"
+  },
+  {
+    "id": "Celtics_Buddy_Hield_1792679855478",
+    "type": "single",
+    "team": "Celtics",
+    "player": "Buddy Hield",
+    "pos": "PG",
+    "wants": "qualquer coisa",
+    "comment": "Em Boston, ninguém entra e ninguém sai!",
+    "addedAt": "2026-10-22T14:37:35.478Z",
+    "updatedAt": "2026-10-22T14:37:35.478Z"
   }
 ]
