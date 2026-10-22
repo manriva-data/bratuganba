@@ -511,5 +511,32 @@
     "comment": "Mathurin, Vucevic e mesmo o Keegan Murray que irá vir dos Pacers estão na regras dos 30 dias, serão negociáveis apenas se houver algum tipo de exceção no deadline.",
     "addedAt": "2026-10-19T16:09:14.726Z",
     "updatedAt": "2026-10-19T16:09:14.726Z"
+  },
+  {
+    "id": "TrailBlazers_pack_1792679390921",
+    "type": "pack",
+    "team": "TrailBlazers",
+    "players": [
+      {
+        "player": "Christian Wood",
+        "pos": "C"
+      },
+      {
+        "player": "Will Riley",
+        "pos": "SF"
+      },
+      {
+        "player": "Sam Merrill",
+        "pos": "SG"
+      },
+      {
+        "player": "Sion James",
+        "pos": "SG"
+      }
+    ],
+    "wants": "PF reserva",
+    "comment": "Procuro um PF reserva, pode ser expirante ou ter contrato. Dependendo do jogador, posso incluir a 1st round pick do próximo draft (2026). Tenho expirantes ou então jogadores amnistiáveis, caso ainda não tenham destino para a amnesty. Não posso receber mais salários dos que envio porque estou no limite da luxury tax e não quero ultrapassar.",
+    "addedAt": "2026-10-22T14:29:50.921Z",
+    "updatedAt": "2026-10-22T14:29:50.921Z"
   }
 ]
