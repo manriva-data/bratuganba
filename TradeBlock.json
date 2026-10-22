@@ -476,5 +476,16 @@
     "comment": "Em Boston, ninguém entra e ninguém sai!",
     "addedAt": "2026-10-22T14:37:35.478Z",
     "updatedAt": "2026-10-22T14:37:35.478Z"
+  },
+  {
+    "id": "Kings_Nolan_Traore_1792683048836",
+    "type": "single",
+    "team": "Kings",
+    "player": "Nolan Traore",
+    "pos": "PG",
+    "wants": "",
+    "comment": "",
+    "addedAt": "2026-10-22T15:30:48.836Z",
+    "updatedAt": "2026-10-22T15:30:48.836Z"
   }
 ]
