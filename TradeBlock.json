@@ -476,5 +476,72 @@
     "comment": "Em Boston, ninguém entra e ninguém sai!",
     "addedAt": "2026-10-22T14:37:35.478Z",
     "updatedAt": "2026-10-22T14:37:35.478Z"
+  },
+  {
+    "id": "Kings_pack_1792683639470",
+    "type": "pack",
+    "team": "Kings",
+    "players": [
+      {
+        "player": "Nolan Traore",
+        "pos": "PG"
+      },
+      {
+        "player": "Jevon Carter",
+        "pos": "PG"
+      },
+      {
+        "player": "Cade Cunningham",
+        "pos": "PG"
+      },
+      {
+        "player": "Andrew Nembhard",
+        "pos": "SG"
+      },
+      {
+        "player": "Jamison Battle",
+        "pos": "SF"
+      },
+      {
+        "player": "Nickeil Alexander-Walker",
+        "pos": "SG"
+      },
+      {
+        "player": "Gary Harris",
+        "pos": "SG"
+      },
+      {
+        "player": "Liam McNeeley",
+        "pos": "SF"
+      },
+      {
+        "player": "LeBron James",
+        "pos": "PF"
+      },
+      {
+        "player": "Kawhi Leonard",
+        "pos": "PF"
+      },
+      {
+        "player": "Haywood Highsmith",
+        "pos": "PF"
+      },
+      {
+        "player": "Pascal Siakam",
+        "pos": "PF"
+      },
+      {
+        "player": "Mark Williams",
+        "pos": "C"
+      },
+      {
+        "player": "Goga Bitadze",
+        "pos": "C"
+      }
+    ],
+    "wants": "Jogadore(s) com maior qualidade",
+    "comment": "Não há inegociáveis.\nCada jogador pode ser trocado por um jogador de maior qualidade. A regra vale tanto pra Stars com para Role Players.",
+    "addedAt": "2026-10-22T15:40:39.470Z",
+    "updatedAt": "2026-10-22T15:40:39.470Z"
   }
 ]
