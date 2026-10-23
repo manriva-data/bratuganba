@@ -536,5 +536,32 @@
     "comment": "Nenhum jogador é inegociavel mas queremos manter Morant e Barnes",
     "addedAt": "2026-10-23T11:02:20.532Z",
     "updatedAt": "2026-10-23T11:02:20.532Z"
+  },
+  {
+    "id": "Pacers_pack_1792777870733",
+    "type": "pack",
+    "team": "Pacers",
+    "players": [
+      {
+        "player": "Walter Clayton Jr.",
+        "pos": "PG"
+      },
+      {
+        "player": "Joe Ingles",
+        "pos": "PG"
+      },
+      {
+        "player": "Trey Lyles",
+        "pos": "PG"
+      },
+      {
+        "player": "Jock Landale",
+        "pos": "PG"
+      }
+    ],
+    "wants": "Estamos contentes com o plantel e apenas estamos a trocar jogadores reservas",
+    "comment": "",
+    "addedAt": "2026-10-23T17:51:10.733Z",
+    "updatedAt": "2026-10-23T17:51:10.733Z"
   }
 ]
