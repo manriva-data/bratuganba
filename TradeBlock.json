@@ -532,5 +532,36 @@
     "comment": "Consigo pegar algum contrato longo desde que o jogador possa ser anistiado. Se vc tem 2 jogadores que não quer e só pode anistiar 1, chama pro café!",
     "addedAt": "2026-10-23T03:46:10.424Z",
     "updatedAt": "2026-10-23T03:46:10.424Z"
+  },
+  {
+    "id": "Pelicans_pack_1792753340532",
+    "type": "pack",
+    "team": "Pelicans",
+    "players": [
+      {
+        "player": "Tre Jones",
+        "pos": "PG"
+      },
+      {
+        "player": "Norman Powell",
+        "pos": "SG"
+      },
+      {
+        "player": "Luguentz Dort",
+        "pos": "SF"
+      },
+      {
+        "player": "Guerschon Yabusele",
+        "pos": "PF"
+      },
+      {
+        "player": "Bradley Beal",
+        "pos": "SG"
+      }
+    ],
+    "wants": "Q",
+    "comment": "Nenhum jogador é inegociavel mas queremos manter Morant e Barnes",
+    "addedAt": "2026-10-23T11:02:20.532Z",
+    "updatedAt": "2026-10-23T11:02:20.532Z"
   }
 ]
