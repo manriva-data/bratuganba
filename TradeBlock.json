@@ -520,5 +520,28 @@
     "comment": "Não há inegociáveis.\nCada jogador pode ser trocado por um jogador de maior qualidade. A regra vale tanto pra Stars com para Role Players.",
     "addedAt": "2026-10-22T15:40:39.470Z",
     "updatedAt": "2026-10-22T15:40:39.470Z"
+  },
+  {
+    "id": "Warriors_pack_1792727170424",
+    "type": "pack",
+    "team": "Warriors",
+    "players": [
+      {
+        "player": "Anfernee Simons",
+        "pos": "SG"
+      },
+      {
+        "player": "Jaylen Nowell",
+        "pos": "SG"
+      },
+      {
+        "player": "Jonas Valanciunas",
+        "pos": "C"
+      }
+    ],
+    "wants": "Pick ou jovem com valor",
+    "comment": "Consigo pegar algum contrato longo desde que o jogador possa ser anistiado. Se vc tem 2 jogadores que não quer e só pode anistiar 1, chama pro café!",
+    "addedAt": "2026-10-23T03:46:10.424Z",
+    "updatedAt": "2026-10-23T03:46:10.424Z"
   }
 ]
