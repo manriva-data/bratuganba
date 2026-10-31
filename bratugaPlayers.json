@@ -1,19 +1,19 @@
 {
 	"Atlanta Hawks": [
 		"Stephen Curry",
-		"Evan Fournier",
-		"Andre Jackson Jr.",
 		"Blake Wesley",
+		"Evan Fournier",
 		"Alex Caruso",
-		"Ryan Dunn",
+		"Andre Jackson Jr.",
 		"Jett Howard",
-		"Jimmy Butler",
+		"R.J. Barrett",
+		"Ryan Dunn",
 		"Doug McDermott",
-		"Dario Saric",
+		"Draymond Green",
 		"Derik Queen",
 		"Kevin Love",
-		"Quentin Post",
-		"Dereck Lively II"
+		"Dereck Lively II",
+		"Quinten Post"
 	],
 
 	"Boston Celtics": [
@@ -24,13 +24,13 @@
 		"Cedric Coward",
 		"Brandon Boston Jr.",
 		"Kris Murray",
-		"Nicolas Batum",
 		"Taylor Hendricks",
 		"Cameron Johnson",
+		"Tidjane Salaun",
 		"Collin Murray-Boyles",
 		"Mouhamed Gueye",
 		"Isaiah Hartenstein",
-		"Adem Bona"
+		"Dewayne Dedmon"
 	],
 	
 	"Brooklyn Nets": [
@@ -72,17 +72,17 @@
 	"Chicago Bulls": [
 		"Mike Conley",
 		"Dalano Banton",
-		"Landry Shamet",
 		"Jordan Goodwin",
-		"Bennedict Mathurin",
-		"Tidjane Salaun",
+		"Landry Shamet",
+		"Quenton Jackson",
+		"Klay Thompson",
 		"Kevin Durant",
-		"Keegan Murray",
+		"Nicolas Batum",
 		"Maxi Kleber",
 		"Giannis Antetokounmpo",
 		"Victor Wembanyama",
-		"Dewayne Dedmon",
-		"Nikola Vucevic"
+		"Adem Bona",
+		"Mason Plumlee"
 	],
 
 	"Cleveland Cavaliers": [
@@ -157,8 +157,7 @@
 		"Keyonte George",
 		"Scoot Henderson",
 		"Gabe Vincent",
-		"Jaylen Nowell",
-		"Anfernee Simons",
+		"Coby White",
 		"Amen Thompson",
 		"Jaden McDaniels",
 		"Kessler Edwards",
@@ -167,8 +166,8 @@
 		"Karl-Anthony Towns",
 		"Bobby Portis",
 		"Kel’el Ware",
-		"Jonas Valanciunas",
-		"Maxime Raynaud"
+		"Maxime Raynaud",
+		"Jonas Valanciunas"
 	],
 		
 	"Houston Rockets": [
@@ -208,19 +207,19 @@
 	"LA Clippers": [
 		"D’Angelo Russell",
 		"Ty Jerome",
-		"Quenton Jackson",
 		"Vasilije Micic",
 		"Austin Reaves",
 		"Keon Ellis",
 		"Kon Knueppel",
-		"Klay Thompson",
+		"Bennedict Mathurin",
 		"Paul George",
 		"Saddiq Bey",
-		"Dorian Finney-Smith",
-		"Al Horford",
+		"Keegan Murray",
 		"Alexandre Sarr",
-		"Mason Plumlee",
-		"Neemias Queta"
+		"Al Horford",
+		"Dorian Finney-Smith",
+		"Neemias Queta",
+		"Nikola Vucevic"
 	],
 	
 	"Los Angeles Lakers": [
@@ -294,13 +293,13 @@
 	],
 
 	"Minnesota Timberwolves": [
-		"Lonzo Ball",
 		"Chris Paul",
-		"Dennis Schroder",
+		"Collin Gillespie",
 		"Bones Hyland",
 		"Malik Monk",
 		"Bilal Coulibaly",
 		"Gradey Dick",
+		"Cam Spencer",
 		"Egor Demin",
 		"Michael Porter Jr.",
 		"Derrick Jones Jr.",
@@ -351,27 +350,28 @@
 		"Delon Wright",
 		"Devonte’ Graham",
 		"Tim Hardaway Jr.",
-		"R.J. Barrett",
+		"Cam Reddish",
 		"Deni Avdija",
 		"Andrew Wiggins",
-		"Cam Reddish",
+		"Jimmy Butler",
 		"Torrey Craig",
-		"Patrick Williams",	
+		"Patrick Williams",
+		"Dario Saric",
 		"Isaiah Jackson",
-		"Jalen Duren",
-		"Mitchell Robinson"
+		"Jalen Duren"
 	],
 
 	"Orlando Magic": [
-		"Coby White",
 		"Miles McBride",
 		"Jamal Shead",
+		"Jaylen Nowell",
 		"Stephon Castle",
+		"Anfernee Simons",
 		"Quentin Grimes",
 		"Jerami Grant",
 		"Lauri Markkanen",
-		"Aaron Gordon",
 		"Royce O'Neale",
+		"Aaron Gordon",
 		"Precious Achiuwa",
 		"Robert Williams III",
 		"Nick Richards",
@@ -389,9 +389,9 @@
 		"Anthony Lamb",
 		"Jeremy Sochan",
 		"De'Andre Hunter",
-		"Draymond Green",
+		"Jarrett Allen",
 		"Jay Huff",
-		"Jarrett Allen"
+		"Mitchell Robinson"
 	],
 
 	"Phoenix Suns": [
@@ -415,17 +415,17 @@
 		"Jalen Brunson",
 		"Davion Mitchell",
 		"Kyrie Irving",
-		"Moses Moody",
 		"Sion James",
-		"Sam Merrill",
 		"Brice Sensabaugh",
+		"Moses Moody",
 		"Carter Bryant",
 		"Will Riley",
 		"Dillon Brooks",
 		"Jalen Williams",
+		"Kyle Anderson",
+		"Christian Wood",
 		"Nikola Jokic",
-		"Steven Adams",
-		"Christian Wood"
+		"Steven Adams"
 	],
 
 	"Sacramento Kings": [
@@ -449,6 +449,7 @@
 		"Payton Pritchard",
 		"Jeremiah Fears",
 		"Nikola Topic",
+		"Sam Merrill",
 		"Ben Sheppard",
 		"Julian Strawther",
 		"Drake Powell",
@@ -456,7 +457,6 @@
 		"Max Strus",
 		"Tyrese Martin",
 		"Jalen Johnson",
-		"Kyle Anderson",
 		"Obi Toppin",
 		"Joan Beringer",
 		"Anthony Davis",
@@ -499,10 +499,10 @@
 	],
 	
 	"Washington Wizards": [
-		"Collin Gillespie",
+		"Lonzo Ball",
 		"Tyrese Haliburton",
+		"Dennis Schroder",
 		"Dejounte Murray",
-		"Cam Spencer",
 		"Franz Wagner",
 		"Simone Fontecchio",
 		"Paolo Banchero",
